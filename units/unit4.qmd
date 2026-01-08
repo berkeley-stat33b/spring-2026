@@ -1,0 +1,44 @@
+---
+title: "4) Data Frames"
+---
+
+
+## 📖 Data Frames and Importing tables
+
+In this module we discuss the basics of data-frames, which are the dedicated object 
+in R for handling tabular data sets. In addition, we also review some of the available 
+functions in R to import tables in R.
+
+
+
+## 📰 Slides
+
+[04a-data-frames.pdf](../slides/04a-data-frames.pdf)
+
+[04b-import-tables.pdf](../slides/04b-import-tables.pdf)
+
+
+
+## 🎯 Objectives
+
+At the end of this week you will be able to:
+
+- Create simple tables with `data.frame()`
+- Explain in what sense a data frame is a list
+- Explain in what sense a data frame is a 2-dimensional object
+- Describe and give examples of subsetting (subscripting, indexing) of an R data frame
+    - provide a manipulation example with single brackets, and 2-dimensions (e.g. `dat[rows,cols]`)
+    - provide a manipulation example with single brackets, and 1 dimension (e.g. `dat[wagons]`)
+    - provide a manipulation example with double brackets, and a single element (e.g. `dat[[wagon]]`)
+    - provide a manipulation example with the dollar operator (e.g. `dat$wagon`)
+- Import tables with `read.table()` and derived functions: `read.csv()`, `read.delim()`, etc
+
+
+
+## 📚 Reading
+
+- <a href="https://www.gastonsanchez.com/R-coding-basics/4-02-data-frames.html" target="_blank">https://www.gastonsanchez.com/R-coding-basics/4-02-data-frames.html</a>
+- <a href="https://rstudio-education.github.io/hopr/r-objects.html#data-frames" target="_blank">https://rstudio-education.github.io/hopr/r-objects.html#data-frames</a>
+- <a href="https://adv-r.hadley.nz/vectors-chap.html#tibble" target="_blank">https://adv-r.hadley.nz/vectors-chap.html#tibble</a>
+
+

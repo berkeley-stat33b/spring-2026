@@ -1,0 +1,91 @@
+---
+title: "Some Frequently Asked Questions"
+---
+
+__Will STAT 33B be offered in hybrid mode (both in-person and remotely, simultaneously)?__ <br>
+No, STAT 33B will not be offered in hybrid mode. Instead, all classes and sections are to be delivered in-person. If you have time conflicts with lecture and/or section, please don't take STAT 33B this semester.
+
+<br>
+
+__Will there be live webcast or recordings of lectures?__ <br>
+Unless Campus authorities decide to switch to remote instruction, there won't be live webcast or live zoom recordings. With that said, lectures may be recorded for archival purposes, but not necessarily be shared with the class.
+
+<br>
+
+__Do you have an illness policy (e.g. Covid, Flu)?__ <br>
+Maintaining your health and that of the Berkeley community is of primary importance to course staff, so if you are feeling ill or have been exposed to illness, please do not come to class. All of the materials used in class will be posted either in this website or in bCourses. Likewise, you're encouraged to reach out to fellow students to discuss the class materials or stop by office hours to chat with the GSI, the tutor, or the instructor.
+
+Having said that, we expect you to attend lecture and lab. Past experience tells us that students who constantly miss lecture/lab tend to have a mediocre performance.
+
+Also, missing lecture/lab does not give you the right to use OH as a replacement for receiving instruction. We are always willing to help you understand the learning materials during OH, but this also requires that you make an honest effort reviewing them before coming to OH.
+
+<br>
+
+__STAT 33A or 33B?__ <br>
+You might be wondering what the difference is between STAT 33A and STAT 33B. Broadly speaking, the topics in STAT 33A are a subset of the topics in 33B. Please keep in mind that STAT 33A is not offered this Fall-2025 semester.
+
+<span style="background-color: #b1ff00;">33A is designed for people that have never programmed before</span>, the pace of certain parts is slower, and more examples are provided. 33A puts slightly more emphasis on data analysis packages than 33B. The primary goal of 33A is that students finish the course with the basic programming skills necessary for a typical data analysis or implementation of a simple algorithm.
+
+<span style="background-color: #b1ff00;">33B is designed for students with previous programming experience (not necessarily in R)</span>. The curriculum assumes students will already be familiar with programming concepts such as variables, if-else statements, loops, and functions, so these topics are covered more quickly than in 33A. The extra time is used to cover details about how R works at a lower level. The primary goal of 33B is that students finish the course with the programming skills necessary to help developing and maintaining software in R.
+
+BTW: STAT 33B is not supposed to be taken after STAT 33A.
+
+<br>
+
+__I am a concurrent student. What are my chances of enrolling in the class?__ <br>
+Depending on the size of the waitlist, and the available space in the labs, you may or may not have a chance to join the class. For example, there have been semesters in which only 10% of concurrent applications have been accepted. Likewise, there have been semesters in which 100% of concurrent applications have been accepted.
+
+Keep in mind that the approval process for concurrent enrollment students takes place between the 2nd and 3rd week of instruction, and it is a somewhat slow 2-step process, which takes some days, and it involves not only my intervention but also the participation of one of the advisors in the Dept. of Statistics.
+
+<br>
+
+__I am a grad student officially enrolled. Do you have a grading structure for grad students?__ <br>
+This semester we don't have a special grading structure for graduate students. All students will be evaluated with the same criteria. See the course [syllabus](./syllabus.html) for more information about the grading structure.
+
+<br>
+
+__What if I join the class late?__ <br>
+If you join the class within the first two weeks, read the syllabus and lecture notes, take a look at bCourses to get a sense of any assignments that may have already passed, and visit office hours to check that you're up to date with things.
+
+After two weeks into the semester, you'll have too much material that you'll need to make up, so you will have to wait to a subsequent semester to take STAT 33B.
+
+<br>
+
+__Are time conflicts allowed?__ <br>
+STAT 33B does not allow students to enroll with time conflicts.
+
+<br>
+
+__I would like to switch lab sections with other student. Is this possible?__ <br>
+You should attend the lab section you are officially enrolled in. If you have a time conflict, then do not enroll in STAT 33B this semester.
+
+<br>
+
+__Is this course a good fit if I don't have any programming experience?__ <br>
+No. We expect that all of you come with previous coding experience and be already familiar with concepts such as data types, variables, functions, conditionals, and iterations.
+
+<br>
+
+__Is this course a good fit if I already have some programming experience?__ <br>
+It depends. This course should be a good fit if you are truly interested in learning about R and its "behind the scenes". Having said that, if what you are looking for is a general programming course, or a statistical programming course, STAT 33B is not a good fit.
+
+<br>
+
+__Can we work in groups?__ <br>
+Yes, absolutely. We strongly encourage you to not work alone. Well, let me rephrase that. You should try to first work on your own (trial and error). Take notes of the things you don't understand. Then get with other people and discuss ideas, share tips (but not the entire solution).
+
+<br>
+
+__Aren't you suppose to teach us?__ <br>
+Yes. But you don't learn programming by watching someone else program. The same way that you don't learn to swim by simply watching someone else swimming. You have to get into the pool, and do all the drills your instructor says. This is a very hands-on course, and you will be required to do a great amount of work on your own.
+
+<br>
+
+__Can I ask you to write me a Letter of Recommendation (LoR)?__ <br>
+One-unit courses do not provide me with enough information about students to write a strong letter of recommendation. Therefore, I am unwilling to provide a LoR based on your work on this course alone.
+
+<br>
+
+__I invited you to join my network in LinkedIn. Why haven't you accepted my invitation?__ <br>
+First: Don't take it personal. It's not you, it's me. Second: if you really want that I become part of your network, why don't you talk to me in person? We can meet in OH, or you can also schedule a meeting at a different time. Let me know you better than just as a distant contact in a social media networking site.
+

@@ -1,0 +1,41 @@
+---
+title: "12) Bindings and Environments"
+---
+
+
+## 📖 Names, Values and Environments
+
+This week we go down a technical rabbit hole to learn three important concepts. 
+First, we discuss how R differentiates between __names and values__. Second, 
+we talk about the so-called __copy-on-modify__ policy which is what R uses 
+to decide when a copy of an object needs to be made. And third, we briefly 
+review __environments__ which are basically the data structure that powers scoping. 
+Understanding all these notions will be helpful in our last week when we get to 
+talk about performance and memory usage of R code. 
+
+
+
+## 📰 Slides
+
+[12-names-values-environments.pdf](../slides/12-names-values-environments.pdf)
+
+
+
+## 🎯 Objectives
+
+At the end of this week you will be able to:
+
+- Describe the distinction between names and values 
+- Explain how <- creates a binding, or reference, between a name and a value
+- Provide an example of copy-on-modify policy
+- Describe the basic properties of an environment and their special purposes
+
+
+
+## 📚 Reading
+
+- <a href="https://adv-r.hadley.nz/names-values.html" target="_blank">https://adv-r.hadley.nz/names-values.html</a>
+
+- <a href="https://adv-r.hadley.nz/environments.html" target="_blank">https://adv-r.hadley.nz/environments.html</a>
+
+

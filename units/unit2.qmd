@@ -1,0 +1,57 @@
+---
+title: "2) Vectors and Factors"
+---
+
+
+## 📖 Vectors and Factors
+
+In this module we describe data types and their implementation in R objects like 
+__vectors__ and their cousins __factors__. We'll focus on important concepts like:
+
+- vectors and their data types (e.g. logical, integer, double or real, and character).
+
+- __creation of vectors__: various ways and functions to create vectors.
+
+- __implicit coercion__ rules: what R does when you combine values of different data types.
+
+- __vectorization__: when R applies calculations or operations to all the elements of a vector (element-wise).
+
+- __recycling__: what R does when you perform a calculation with vectors of different length.
+
+- __subsetting__ (aka indexing, subscripting, bracket notation)
+ 
+
+
+## 📰 Slides
+
+[02a-vectors-intro.pdf](../slides/02a-vectors-intro.pdf)
+
+[02b-vectors-subsetting.pdf](../slides/02b-vectors-subsetting.pdf)
+
+[02c-factors.pdf](../slides/02c-factors.pdf)
+
+
+
+## 🎯 Objectives
+
+At the end of this week you will be able to:
+
+- List the four common data types in R, and give examples for them
+- Explain why R vectors are said to be atomic objects
+- Describe and give an example of the implicit coercion rules
+- Describe and give an example of vectorized code
+- Describe and give an example of the recycling rule
+
+
+
+## 📚 Reading
+
+- <a href="https://www.gastonsanchez.com/R-coding-basics/1-01-vectors-intro.html" target="_blank">https://www.gastonsanchez.com/R-coding-basics/1-01-vectors-intro.html</a>
+
+- <a href="https://www.gastonsanchez.com/R-coding-basics/1-02-vectors-properties.html" target="_blank">https://www.gastonsanchez.com/R-coding-basics/1-02-vectors-properties.html</a>
+
+- <a href="https://www.gastonsanchez.com/R-coding-basics/1-03-vectors-creation.html" target="_blank">https://www.gastonsanchez.com/R-coding-basics/1-03-vectors-creation.html</a>
+ 
+- <a href="https://www.gastonsanchez.com/R-coding-basics/1-04-vectors-concepts.html" target="_blank">https://www.gastonsanchez.com/R-coding-basics/1-04-vectors-concepts.html</a>
+
+

@@ -1,0 +1,43 @@
+---
+title: "5) Tidyverse part 1"
+---
+
+
+## 📖 Intro to dplyr and ggplot2
+
+In addition to learning about the "classic" way to work with data frames, we will 
+briefly touch on an "alternative" approach for working with tables provided by 
+the ecosystem of packages known as the `"tidyverse"`: <https://www.tidyverse.org>
+
+This week we start with the tidyverse package `"dplyr"`. Simply put, `"dplyr"` 
+comes with functions that allow you to manipulate data-tables (e.g. data-frames, 
+and other 2-dimensional objects) using a modern and syntactic way.
+
+
+
+## 📰 Slides
+
+[05a-intro-to-dplyr.pdf](../slides/05a-intro-to-dplyr.pdf)
+
+
+## 🎯 Objectives
+
+We'll go over the set of functions available in `"dplyr"` to perform common manipulations of tabular data.
+
+- Selecting rows with `slice()`, and `filter()`
+- Selecting columns with `select()`
+- Transforming columns with `mutate()`
+- Arranging rows with `arrange()`
+- Grouping data with `group_by()`
+- Summarizing data with `summarize()`  
+
+
+
+## 📚 Reading
+
+- <a href="https://www.gastonsanchez.com/R-tidy-hurricanes/2-01-intro-ggplot.html" target="_blank">https://www.gastonsanchez.com/R-tidy-hurricanes/2-01-intro-ggplot.html</a>
+- <a href="https://www.gastonsanchez.com/R-tidy-hurricanes/2-02-intro-dplyr.html" target="_blank">https://www.gastonsanchez.com/R-tidy-hurricanes/2-02-intro-dplyr.html</a>
+- In case you are curious, here's an interesting opinion by UC-Davis Prof. Norman Matloff about the tidyverse: 
+<a href="https://github.com/matloff/TidyverseSkeptic" target="_blank">https://github.com/matloff/TidyverseSkeptic</a>
+
+

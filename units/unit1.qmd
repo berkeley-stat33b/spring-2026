@@ -1,0 +1,44 @@
+---
+title: "1) Intro"
+---
+
+
+## 📖 Welcome
+
+Welcome to STAT 33B. Our first meeting is on Wed Aug-27 where we begin with 
+the usual review of the course policies, logistics, overall expectations, 
+topics in a nutshell, etc.
+
+ 
+
+## 📰 Slides
+
+[01a-getting-started-with-R-and-Rstudio.pdf](../slides/01a-getting-started-with-R-and-Rstudio.pdf)
+
+[01b-a-bit-of-history-about-R.pdf](../slides/01b-a-bit-of-history-about-R.pdf)
+
+
+
+## 💻 Software
+
+We'll be using R and RStudio, preferably installed in your computer.
+
+__Please download and install the following software__ (both are free, 
+and they are available for Max, Windows, and Linux computers)
+
+- <a href="https://cran.r-project.org/" target="_blank">Install R</a>
+
+- <a href="https://www.rstudio.com/products/rstudio/download/#download" target="_blank">Install RStudio</a> (Desktop free version)
+
+In case of emergency, you can also use RStudio from Berkeley datahub: <https://r.datahub.berkeley.edu/>
+ 
+
+
+## 📚 Reading
+
+Please spend some time outside class to review the following documentation:
+
+- <a href="../syllabus.html" target="_blank">syllabus</a>
+- <a href="../email.html" target="_blank">communication via email</a>
+- <a href="../faqs.html" target="_blank">some frequently asked questions</a>
+

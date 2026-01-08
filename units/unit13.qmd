@@ -1,0 +1,36 @@
+---
+title: "13) Scoping"
+---
+
+
+## 📖 Scoping Rules
+
+This week we review more technical aspects of functions in R. Specifically, 
+we will focus on the scoping mechanisms used by R to find the value of a variable.
+
+
+
+## 📰 Slides
+
+[13-functions-scoping.pdf](../slides/13-functions-scoping.pdf)
+
+
+
+## 🎯 Objectives
+
+- Provide an example of "name masking"
+- Provide an example of "functions versus variables"
+- Provide an example of "fresh start"
+- Provide an example of "dynamic lookup"
+
+
+
+## 📚 Reading
+
+- <a href="https://adv-r.hadley.nz/functions.html#lexical-scoping" target="_blank">https://adv-r.hadley.nz/functions.html#lexical-scoping</a>
+
+- <a href="https://adv-r.hadley.nz/names-values.html" target="_blank">https://adv-r.hadley.nz/names-values.html</a>
+
+- <a href="http://adv-r.had.co.nz/Environments.html" target="_blank">http://adv-r.had.co.nz/Environments.html</a>
+
+

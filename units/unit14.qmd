@@ -1,0 +1,40 @@
+---
+title: "14) Performance"
+---
+
+
+## 📖 Performance and Profiling
+
+This week we review more underlying principles that have to do with performance in R.
+
+
+
+## 📰 Slides
+
+[14-performance-profiling.pdf](../slides/14-performance-profiling.pdf)
+
+
+
+## 🎯 Objectives
+
+At the end of this week you will be able to:
+
+- Provide an example of copy-on-modify policy.
+- Apply the function `system.time()` to time commands in R.
+- Apply yhe function `Rprof()` and `summaryRprof()` to profile code in R.  
+
+
+
+## 📚 Reading
+
+- <a href="http://adv-r.had.co.nz/Performance.html" target="_blank">http://adv-r.had.co.nz/Performance.html</a>
+
+- <a href="https://adv-r.hadley.nz/perf-measure.html" target="_blank">https://adv-r.hadley.nz/perf-measure.html</a>
+
+
+
+## 🔬 Lab
+
+Practice measuring performance.
+
+

@@ -1,0 +1,38 @@
+---
+title: "7) Tidyverse part 3"
+---
+
+
+## 📖 More about dplyr and ggplot
+
+This week we continue our discussion of basic tidyverse packages.
+
+
+
+## 📰 Slides
+
+[06a-more-dplyr.pdf](../slides/06a-more-dplyr.pdf)
+
+
+
+## 🎯 Objectives
+
+At the end of this week you will be able to:
+
+- Get a first contact with `"ggplot2"`
+- Describe the purpose of the aesthetic mapping function `aes()`
+- Describe the notion of "layers" and how to use them for making a graphic using `"ggplot2"`
+ 
+
+
+## 📚 Reading
+
+- <a href="https://www.gastonsanchez.com/R-tidy-hurricanes/2-03-intro-pipes.html" target="_blank">https://www.gastonsanchez.com/R-tidy-hurricanes/2-03-intro-pipes.html</a>
+
+- <a href="https://www.gastonsanchez.com/R-tidy-hurricanes/3-01-storms-year.html" target="_blank">https://www.gastonsanchez.com/R-tidy-hurricanes/3-01-storms-year.html</a>
+
+- <a href="https://www.gastonsanchez.com/R-tidy-hurricanes/3-02-storms-1975.html" target="_blank">https://www.gastonsanchez.com/R-tidy-hurricanes/3-02-storms-1975.html</a>
+
+- <a href="https://www.gastonsanchez.com/R-tidy-hurricanes/3-04-summary-1975.html" target="_blank">https://www.gastonsanchez.com/R-tidy-hurricanes/3-04-Summary-1975.html</a>
+
+

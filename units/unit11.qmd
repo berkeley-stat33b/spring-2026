@@ -1,0 +1,37 @@
+---
+title: "11) Functions"
+---
+
+
+## 📖 Lecture
+
+This week we review the syntax used by R for writing functions.
+
+
+
+## 📰 Slides
+
+[11-functions.pdf](../slides/11-functions.pdf)
+
+
+
+## 🎯 Objectives
+
+At the end of this week you will be able to:
+
+- Describe the main parts of a function in R (i.e. anatomy of a function)
+- Give a simple example for creating a function
+- Explain the difference between positional arguments, and named arguments
+- Provide an example for creating a "binary operator" (or infix) function
+  
+
+
+## 📚 Reading
+
+- <a href="https://www.gastonsanchez.com/R-coding-basics/5-01-functions-intro.html" target="_blank">https://www.gastonsanchez.com/R-coding-basics/5-01-functions-intro.html</a>
+
+- <a href="https://www.gastonsanchez.com/R-coding-basics/5-06-more-functions.html" target="_blank">https://www.gastonsanchez.com/R-coding-basics/5-06-more-functions.html</a>
+
+- <a href="https://adv-r.hadley.nz/functions.html" target="_blank">https://adv-r.hadley.nz/functions.html</a>
+
+

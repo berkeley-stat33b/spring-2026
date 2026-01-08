@@ -1,0 +1,37 @@
+---
+title: "Staff"
+---
+
+
+Append `@berkeley.edu` to all email addresses.
+
+Office hours are subject to change.
+
+You can attend OH of any staff member.
+
+-----
+
+:::: {.grid}
+
+::: {.g-col-6}
+**Instructor:** <a href='https://www.gastonsanchez.com' target='_blank'>Gaston Sanchez</a><br>
+`gastonsanchez`<br>
+Office hours: <br>
+- Tue 3:00 - 4:00PM, Evans 309<br>
+
+**Tutor:** Assmaa Aziz<br>
+`aaziz`<br>
+Office hours: <br>
+- Mon 1:00PM - 3:00PM, Evans 426<br>
+- Tue 11:30AM - 1:30PM, Evans 446<br>
+:::
+
+::: {.g-col-6}
+**GSI**: <a href="https://statistics.berkeley.edu/people/brian-fernando" target="_blank">Brian Fernando</a><br>
+`bmfernan`<br>
+Office hours:<br>
+- Tue 1:30 - 3:30PM, Evans 446<br>
+- Thu 1:30 - 3:30PM, Evans 446
+:::
+
+::::

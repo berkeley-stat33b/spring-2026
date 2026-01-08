@@ -1,0 +1,42 @@
+---
+title: "9) Conditionals"
+---
+
+
+## 📖 Conditional Statements
+
+This week we introduce the notion of R expressions, and we provide the syntax 
+used by R to handle if-else statements and related conditionals constructs.
+
+
+
+## 📰 Slides
+
+[09-conditionals.pdf](../slides/09-conditionals.pdf)
+
+
+
+## 🎯 Objectives
+
+At the end of this week you will be able to:
+
+- Describe what curly braces `{...}` are used for in R.
+- Write if-else statements to handle simple or multiple conditions
+- Describe the purpose of the _vectorized_ function `ifelse()`
+- Describe and give an example of `switch()`
+- Describe and give an example of the __congruent vectors strategy__ (which is connected with the __lookup-vector trick__)
+- Describe and give an example of the "dplyr" function `case_when()`
+
+
+
+## 📚 Reading
+
+- <a href="https://www.gastonsanchez.com/R-coding-basics/5-02-expressions.html" target="_blank">https://www.gastonsanchez.com/R-coding-basics/5-02-expressions.html</a>
+
+- <a href="https://www.gastonsanchez.com/R-coding-basics/5-03-conditionals.html" target="_blank">https://www.gastonsanchez.com/R-coding-basics/5-03-conditionals.html</a>
+
+- <a href="https://adv-r.hadley.nz/control-flow.html#choices" target="_blank">https://adv-r.hadley.nz/control-flow.html#choices</a>
+
+- <a href="https://rstudio-education.github.io/hopr/programs.html#if-statements" target="_blank">https://rstudio-education.github.io/hopr/programs.html#if-statements</a>
+
+

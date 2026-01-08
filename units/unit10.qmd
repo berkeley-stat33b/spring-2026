@@ -1,0 +1,43 @@
+---
+title: "10) Iterations"
+---
+
+
+## 📖 Iterations and Loops
+
+This week we introduce the syntax used by R to handle iteration constructs such as 
+for loops and while loops, among other idioms.
+
+
+
+## 📰 Slides
+
+[10-iterations.pdf](../slides/10-iterations.pdf)
+
+
+
+## 🎯 Objectives
+
+At the end of this week you will be able to:
+
+- Describe the anatomy of a `for` loop in R
+- Describe the anatomy of a `while` loop in R
+- Describe the anatomy of a `repeat` loop in R
+- Get familiar with the `next` statement to skip iterations
+- Get familiar with the `break` statement to stop loops from iterating
+- Provide examples for `apply()`, `lapply()`, `sapply()` functions
+- Provide an example of the "dplyr" function `across()`
+
+
+
+## 📚 Reading
+
+- <a href="https://www.gastonsanchez.com/R-coding-basics/5-04-for-loop.html" target="_blank">https://www.gastonsanchez.com/R-coding-basics/5-04-for-loop.html</a>
+
+- <a href="https://www.gastonsanchez.com/R-coding-basics/5-05-while-loop.html" target="_blank">https://www.gastonsanchez.com/R-coding-basics/5-05-while-loop.html</a>
+
+- <a href="https://rstudio-education.github.io/hopr/loops.html" target="_blank">https://rstudio-education.github.io/hopr/loops.html</a>
+
+- <a href="https://adv-r.hadley.nz/control-flow.html#loops" target="_blank">https://adv-r.hadley.nz/control-flow.html#loops</a>
+
+

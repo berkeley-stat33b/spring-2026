@@ -1,0 +1,54 @@
+---
+title: "6) Tidyverse part 2"
+---
+
+
+## 📖 More about dplyr and ggplot
+
+Last week we discussed the basics of dplyr. This week you'll learn about the 
+__Grammar of Graphics__ and its central idea: a graphic involves mapping data to geometric 
+objects and their visual attributes. This is the underlying framework behind the 
+mechanics and core functions available in “ggplot2” for creating simple graphics:
+
+- Begin your graphic specification with `ggplot()`
+- Indicate where the `data` comes from
+- Establish which variables are going to be mapped into visual attributes: `aes()`
+- Decide what kind of geometric object(s) will be used to display data; e.g. `geom_point()`
+- Optional: do you need to use __facets__?
+- Optional: do you need to explicitly use one or more statistical __transformations__?
+- Optional: do you need to explicitly set a non-default system of __coordinates__?
+- Optional: do you need to explicitly use a non-default __theme of graphical elements__?
+
+In addition, we introduce so-called pipelines and the use of the pipe operators `|>` and `%>%`.
+
+
+
+## 📰 Slides
+
+[06a-intro-to-ggplot.pdf](../slides/06a-intro-to-ggplot.pdf)
+
+[06b-more-dplyr.pdf](../slides/06b-more-dplyr.pdf)
+
+
+
+## 🎯 Objectives
+
+At the end of this week you will be able to:
+
+- Get a first contact with `"ggplot2"`
+- Describe the purpose of the aesthetic mapping function `aes()`
+- Describe the notion of "layers" and how to use them for making a graphic using `"ggplot2"`
+ 
+
+
+## 📚 Reading
+
+- <a href="https://www.gastonsanchez.com/R-tidy-hurricanes/2-03-intro-pipes.html" target="_blank">https://www.gastonsanchez.com/R-tidy-hurricanes/2-03-intro-pipes.html</a>
+
+- <a href="https://www.gastonsanchez.com/R-tidy-hurricanes/3-01-storms-year.html" target="_blank">https://www.gastonsanchez.com/R-tidy-hurricanes/3-01-storms-year.html</a>
+
+- <a href="https://www.gastonsanchez.com/R-tidy-hurricanes/3-02-storms-1975.html" target="_blank">https://www.gastonsanchez.com/R-tidy-hurricanes/3-02-storms-1975.html</a>
+
+- <a href="https://www.gastonsanchez.com/R-tidy-hurricanes/3-04-summary-1975.html" target="_blank">https://www.gastonsanchez.com/R-tidy-hurricanes/3-04-Summary-1975.html</a>
+
+
