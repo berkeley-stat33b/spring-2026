@@ -3,16 +3,16 @@ project:
 
 website:
   favicon: assets/favicon.ico
-  site-url: https://stat33b.berkeley.edu/fall-2025/
+  site-url: https://stat33b.berkeley.edu/spring-2026/
   google-analytics: G-CES9J82GLL
   sidebar:
     style: docked
-    title: "STAT 33B <br><small>Fall 2025</small>"
+    title: "STAT 33B <br><small>Spring 2026</small>"
     logo: assets/stat_bear.png
     logo-alt: "UC Berkeley Statistics logo"
     tools:
       - icon: github
-        href: https://github.com/berkeley-stat33b/fall-2025/
+        href: https://github.com/berkeley-stat33b/spring-2026/
         aria-label: GitHub
     contents:
       - href: index.qmd
