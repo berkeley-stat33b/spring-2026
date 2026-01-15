@@ -677,8 +677,8 @@
     ]
   },
   {
-    "objectID": "syllabus.html#description",
-    "href": "syllabus.html#description",
+    "objectID": "syllabus.html#description-outdated---fall-2025",
+    "href": "syllabus.html#description-outdated---fall-2025",
     "title": "Syllabus",
     "section": "",
     "text": "STAT 33B is a course designed primarily for those who are already familiar with programming in another language (e.g. Python, C, Java), and want to understand how R works, and for those who already know the basics of R programming and want to gain a more in-depth understanding of the language in order to improve their coding.\nThe focus is on the underlying paradigms in R, such as atomic and non-atomic vectors, functional programming, environments, and object systems (time permitting).\nThe goal of this course is to better understand programming principles in R and to write better R code that capitalizes on the language’s design.\nTopics include (not necessarily covered in the following order):\n\n🔠 data types and data structures in R (e.g. vectors, arrays, lists, data frames)\n🔨 Tools for data manipulation\n📊 Tools for data visualization\n📥 Data input/output\n📝 Writing simple functions\n🔀 Control flow structures (e.g. conditionals, iterations)\n📑 Argument matching\n📢 Function calls\n➕ The formula language of R (time permitting)",
