@@ -3,7 +3,7 @@ title: "Syllabus"
 ---
 
 
-## Description
+## Description (outdated - Fall 2025)
 
 STAT 33B is a course designed primarily for those who are already familiar with 
 programming in another language (e.g. Python, C, Java), and want to understand 
