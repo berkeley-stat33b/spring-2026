@@ -1,5 +1,5 @@
 ---
-title: "STAT 33B: Intro to Adv. Prog. in R"
+title: "[OUTDATED - new version coming soon] STAT 33B: Intro to Adv. Prog. in R"
 listing:
   - id: schedule
     template: schedule.ejs
