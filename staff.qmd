@@ -7,7 +7,7 @@ title: "Staff"
 ::: {.g-col-4}
 <img src="assets/andrea-headshot.jpg" width="200"><br>
 **Instructor:** <a href="https://statistics.berkeley.edu/people/andrea-massari" target='_blank'>Andrea Massari</a><br>
-*You can call me Andrea or anything you're comfortable with. Also, send memes.* <br>
+*You can call me Andrea or anything you're comfortable with.* <br>
 `amassari at berkeley dot edu`<br>
 <!-- Office hours: <br> -->
 <!-- TBD -->
