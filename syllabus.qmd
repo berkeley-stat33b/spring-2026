@@ -125,17 +125,16 @@ Please plan ahead and pace yourself. Don't wait until the last day to do an assi
 
 ## 📄 Exams (40% of final grade)
 
-- There will be one in-person midterm scheduled for March 16th 2026.
-- The midterm will take place during class time (Monday, 3pm-4pm, [Hearst Mining 390](https://rtl.berkeley.edu/classroom-database/hearst-mining-0390))
+- There will be one in-person midterm scheduled for March 16th 2026. The midterm will take place during class time (Monday, 3pm-4pm, [Hearst Mining 390](https://rtl.berkeley.edu/classroom-database/hearst-mining-0390))
 
-- There will be one in-person final exam.
-- The final exam will be held on Thursday, Dec-18th, 7pm-10pm, location TBD as scheduled by the University.
+- There will be one in-person final exam. The final exam will be held on Wednesday, May 13th, 7pm-10pm, location TBD as scheduled by the University.
 - Unless you have accommodations as determined by the university and approved by the instructor, you must take the exam at the date indicated above.
 
-The overall grade for the exams is a combination of midterm and final.
+The overall grade for the exams is a **combination of midterm and final**.
+
 - The final will be divided into two parts: final_p1 (covers same material as midterm) and final_p2 (covers material after midterm).
 - Exams grade = 50% final_p2 + 50% max(final_p1, 50% final_p1 + 50% midterm)
-- the idea is that if you don't do well on the mideterm, you can neutralize that result by doing better on that same part of the final.
+- The idea is that if you don't do well on the midterm, you can neutralize that result by doing better on that same part of the final.
 
 ## 💯 Grading Structure
 
