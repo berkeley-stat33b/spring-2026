@@ -19,32 +19,32 @@ website:
         text: Home / Schedule
       - href: syllabus.qmd
         text: Syllabus
+      - href: calendar.qmd
+        text: Google Calendar
       - href: about.qmd
         text: About
       - section: "Units"
         contents:
           - units/unit1.qmd
-          - units/unit2.qmd
-          - units/unit3.qmd
-          - units/unit4.qmd
-          - units/unit5.qmd
-          - units/unit6.qmd
-          - units/unit7.qmd
-          - units/unit8.qmd
-          - units/unit9.qmd
-          - units/unit10.qmd
-          - units/unit11.qmd
-          - units/unit12.qmd
-          - units/unit13.qmd
-          - units/unit14.qmd
+#          - units/unit2.qmd
+#          - units/unit3.qmd
+#          - units/unit4.qmd
+#          - units/unit5.qmd
+#          - units/unit6.qmd
+#          - units/unit7.qmd
+#          - units/unit8.qmd
+#          - units/unit9.qmd
+#          - units/unit10.qmd
+#          - units/unit11.qmd
+#          - units/unit12.qmd
+#          - units/unit13.qmd
+#          - units/unit14.qmd
       - section: "Other"
         contents:
           - href: staff.qmd
             text: Staff
           - href: cheatsheets.qmd
             text: Cheatsheets
-          - href: email.qmd
-            text: Email
           - href: faqs.qmd
             text: FAQs
           - href: ed-netiquette.qmd

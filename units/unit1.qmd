@@ -5,10 +5,7 @@ title: "1) Intro"
 
 ## 📖 Welcome
 
-Welcome to STAT 33B. Our first meeting is on Wed Aug-27 where we begin with 
-the usual review of the course policies, logistics, overall expectations, 
-topics in a nutshell, etc.
-
+Welcome to STAT 33B. Our first meeting is on Mon Jan 26th where we begin with the usual review of the course policies, logistics, overall expectations, topics in a nutshell, etc.
  
 
 ## 📰 Slides
@@ -16,7 +13,6 @@ topics in a nutshell, etc.
 [01a-getting-started-with-R-and-Rstudio.pdf](../slides/01a-getting-started-with-R-and-Rstudio.pdf)
 
 [01b-a-bit-of-history-about-R.pdf](../slides/01b-a-bit-of-history-about-R.pdf)
-
 
 
 ## 💻 Software
@@ -31,7 +27,6 @@ and they are available for Max, Windows, and Linux computers)
 - <a href="https://www.rstudio.com/products/rstudio/download/#download" target="_blank">Install RStudio</a> (Desktop free version)
 
 In case of emergency, you can also use RStudio from Berkeley datahub: <https://r.datahub.berkeley.edu/>
- 
 
 
 ## 📚 Reading
