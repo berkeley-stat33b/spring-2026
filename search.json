@@ -367,7 +367,7 @@
     "href": "faqs.html",
     "title": "Some Frequently Asked Questions",
     "section": "",
-    "text": "Will STAT 33B be offered in hybrid mode (both in-person and remotely, simultaneously)?  No, STAT 33B will not be offered in hybrid mode. Instead, all classes and sections are to be delivered in-person. If you have time conflicts with lecture and/or section, please don’t take STAT 33B this semester.\n\nWill there be live webcast or recordings of lectures?  Unless Campus authorities decide to switch to remote instruction, there won’t be live webcast or live zoom recordings. With that said, lectures may be recorded for archival purposes, but not necessarily be shared with the class.\n\nDo you have an illness policy (e.g. Covid, Flu)?  Maintaining your health and that of the Berkeley community is of primary importance to course staff, so if you are feeling ill or have been exposed to illness, please do not come to class. All of the materials used in class will be posted either in this website or in bCourses. Likewise, you’re encouraged to reach out to fellow students to discuss the class materials or stop by office hours to chat with the GSI, the tutor, or the instructor.\nHaving said that, we expect you to attend lecture and lab. Past experience tells us that students who constantly miss lecture/lab tend to have a mediocre performance.\nAlso, missing lecture/lab does not give you the right to use OH as a replacement for receiving instruction. We are always willing to help you understand the learning materials during OH, but this also requires that you make an honest effort reviewing them before coming to OH.\n\nSTAT 33A or 33B?  You might be wondering what the difference is between STAT 33A and STAT 33B. Broadly speaking, the topics in STAT 33A are a subset of the topics in 33B. Please keep in mind that STAT 33A is not offered this Fall-2025 semester.\n33A is designed for people that have never programmed before, the pace of certain parts is slower, and more examples are provided. 33A puts slightly more emphasis on data analysis packages than 33B. The primary goal of 33A is that students finish the course with the basic programming skills necessary for a typical data analysis or implementation of a simple algorithm.\n33B is designed for students with previous programming experience (not necessarily in R). The curriculum assumes students will already be familiar with programming concepts such as variables, if-else statements, loops, and functions, so these topics are covered more quickly than in 33A. The extra time is used to cover details about how R works at a lower level. The primary goal of 33B is that students finish the course with the programming skills necessary to help developing and maintaining software in R.\nBTW: STAT 33B is not supposed to be taken after STAT 33A.\n\nI am a concurrent student. What are my chances of enrolling in the class?  Depending on the size of the waitlist, and the available space in the labs, you may or may not have a chance to join the class. For example, there have been semesters in which only 10% of concurrent applications have been accepted. Likewise, there have been semesters in which 100% of concurrent applications have been accepted.\nKeep in mind that the approval process for concurrent enrollment students takes place between the 2nd and 3rd week of instruction, and it is a somewhat slow 2-step process, which takes some days, and it involves not only my intervention but also the participation of one of the advisors in the Dept. of Statistics.\n\nI am a grad student officially enrolled. Do you have a grading structure for grad students?  This semester we don’t have a special grading structure for graduate students. All students will be evaluated with the same criteria. See the course syllabus for more information about the grading structure.\n\nWhat if I join the class late?  If you join the class within the first two weeks, read the syllabus and lecture notes, take a look at bCourses to get a sense of any assignments that may have already passed, and visit office hours to check that you’re up to date with things.\nAfter two weeks into the semester, you’ll have too much material that you’ll need to make up, so you will have to wait to a subsequent semester to take STAT 33B.\n\nAre time conflicts allowed?  STAT 33B does not allow students to enroll with time conflicts.\n\nI would like to switch lab sections with other student. Is this possible?  You should attend the lab section you are officially enrolled in. If you have a time conflict, then do not enroll in STAT 33B this semester.\n\nIs this course a good fit if I don’t have any programming experience?  No. We expect that all of you come with previous coding experience and be already familiar with concepts such as data types, variables, functions, conditionals, and iterations.\n\nIs this course a good fit if I already have some programming experience?  It depends. This course should be a good fit if you are truly interested in learning about R and its “behind the scenes”. Having said that, if what you are looking for is a general programming course, or a statistical programming course, STAT 33B is not a good fit.\n\nCan we work in groups?  Yes, absolutely. We strongly encourage you to not work alone. Well, let me rephrase that. You should try to first work on your own (trial and error). Take notes of the things you don’t understand. Then get with other people and discuss ideas, share tips (but not the entire solution).\n\nAren’t you suppose to teach us?  Yes. But you don’t learn programming by watching someone else program. The same way that you don’t learn to swim by simply watching someone else swimming. You have to get into the pool, and do all the drills your instructor says. This is a very hands-on course, and you will be required to do a great amount of work on your own.\n\nCan I ask you to write me a Letter of Recommendation (LoR)?  One-unit courses do not provide me with enough information about students to write a strong letter of recommendation. Therefore, I am unwilling to provide a LoR based on your work on this course alone.\n\nI invited you to join my network in LinkedIn. Why haven’t you accepted my invitation?  First: Don’t take it personal. It’s not you, it’s me. Second: if you really want that I become part of your network, why don’t you talk to me in person? We can meet in OH, or you can also schedule a meeting at a different time. Let me know you better than just as a distant contact in a social media networking site.",
+    "text": "Will STAT 33B be offered in hybrid mode (both in-person and remotely, simultaneously)?  No, STAT 33B will not be offered in hybrid mode. Instead, all classes and sections are to be delivered in-person. If you have time conflicts with lecture and/or section, please don’t take STAT 33B this semester.\n\nWill there be live webcast or recordings of lectures?  Yes. Lectures will be recorded and we plan on sharing them.\n\nDo you have an illness policy (e.g. Covid, Flu)?  Maintaining your health and that of the Berkeley community is of primary importance to course staff, so if you are feeling ill or have been exposed to illness, please do not come to class. All of the materials used in class will be posted either in this website or in bCourses. Likewise, you’re encouraged to reach out to fellow students to discuss the class materials or stop by office hours to chat with the GSI, the tutor, or the instructor.\nHaving said that, we expect you to attend lecture and lab. Past experience tells us that students who constantly miss lecture/lab tend to have a mediocre performance.\nAlso, missing lecture/lab does not give you the right to use OH as a replacement for receiving instruction. We are always willing to help you understand the learning materials during OH, but this also requires that you make an honest effort reviewing them before coming to OH.\n\nSTAT 33A or 33B?  You might be wondering what the difference is between STAT 33A and STAT 33B. Broadly speaking, the topics in STAT 33A are a subset of the topics in 33B. Please keep in mind that STAT 33A is not offered this Fall-2025 semester.\n33A is designed for people that have never programmed before, the pace of certain parts is slower, and more examples are provided. 33A puts slightly more emphasis on data analysis packages than 33B. The primary goal of 33A is that students finish the course with the basic programming skills necessary for a typical data analysis or implementation of a simple algorithm.\n33B is designed for students with previous programming experience (not necessarily in R). The curriculum assumes students will already be familiar with programming concepts such as variables, if-else statements, loops, and functions, so these topics are covered more quickly than in 33A. The extra time is used to cover details about how R works at a lower level. The primary goal of 33B is that students finish the course with the programming skills necessary to help developing and maintaining software in R.\nBTW: STAT 33B is not supposed to be taken after STAT 33A.\n\nI am a concurrent student. What are my chances of enrolling in the class? \nNone. Sorry.\n\nI am a grad student officially enrolled. Do you have a grading structure for grad students?  This semester we don’t have a special grading structure for graduate students. All students will be evaluated with the same criteria. See the course syllabus for more information about the grading structure.\n\nWhat if I join the class late?  If you join the class within the first two weeks, read the syllabus and lecture notes, take a look at bCourses to get a sense of any assignments that may have already passed, and visit office hours to check that you’re up to date with things.\nAfter two weeks into the semester, you’ll have too much material that you’ll need to make up, so you will have to wait to a subsequent semester to take STAT 33B.\n\nAre time conflicts allowed?  STAT 33B does not allow students to enroll with time conflicts.\n\nI would like to switch lab sections with other student. Is this possible?  You should attend the lab section you are officially enrolled in. If you have a time conflict, then do not enroll in STAT 33B this semester.\n\nIs this course a good fit if I don’t have any programming experience?  No. We expect that all of you come with previous coding experience and be already familiar with concepts such as data types, variables, functions, conditionals, and iterations.\n\nIs this course a good fit if I already have some programming experience?  It depends. This course should be a good fit if you are truly interested in learning about R and its “behind the scenes”. Having said that, if what you are looking for is a general programming course, or a statistical programming course, STAT 33B is not a good fit.\n\nCan we work in groups?  Yes, absolutely. We strongly encourage you to not work alone. Well, let me rephrase that. You should try to first work on your own (trial and error). Take notes of the things you don’t understand. Then get with other people and discuss ideas, share tips (but not the entire solution).\n\nAren’t you suppose to teach us?  Yes. But you don’t learn programming by watching someone else program. The same way that you don’t learn to swim by simply watching someone else swimming. You have to get into the pool, and do all the drills your instructor says. This is a very hands-on course, and you will be required to do a great amount of work on your own.",
     "crumbs": [
       "Other",
       "FAQs"
@@ -378,7 +378,7 @@
     "href": "staff.html",
     "title": "Staff",
     "section": "",
-    "text": "Instructor: Andrea Massari You can call me Andrea or anything you’re comfortable with. Also, send memes.  amassari at berkeley dot edu    \n\n\n GSI: Thong Trinh thong at berkeley dot edu      \n\n\n Tutor: Ethan Chant xx_ethan_xx at berkeley dot edu\n\n\n\n\n Tutor: John Zhuang zhuangzian at berkeley dot edu\n\n\n Reader: Aidan Chan aidanmshen at berkeley dot edu\n\n\n Reader: Emily Hsu emilyhsu1 at berkeley dot edu      \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIn general, please use Ed to communicate with the course staff.\nUnless otherwise indicated, email should only be used for private concerns directed to a specific member of the teaching staff.\n:::",
+    "text": "Instructor: Andrea Massari You can call me Andrea or anything you’re comfortable with. Also, send memes.  amassari at berkeley dot edu    \n\n\n GSI: Thong Trinh thong at berkeley dot edu      \n\n\n Tutor: Ethan Chant xx_ethan_xx at berkeley dot edu\n\n\n\n\n Tutor: John Zhuang zhuangzian at berkeley dot edu\n\n\n Reader: Aidan Chan aidanmshen at berkeley dot edu\n\n\n Reader: Emily Hsu emilyhsu1 at berkeley dot edu      \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIn general, please use Ed to communicate with the course staff.\nUnless otherwise indicated, email should only be used for private concerns directed to a specific member of the teaching staff.",
     "crumbs": [
       "Other",
       "Staff"
@@ -411,18 +411,7 @@
     "href": "ed-netiquette.html#keep-in-mind-common-rules-of-netiquette",
     "title": "Ed-Discussion Netiquette",
     "section": "Keep in mind common rules of netiquette",
-    "text": "Keep in mind common rules of netiquette\n\nDon’t post irrelevant links, comments, thoughts or pictures.\nDon’t type in ALL CAPS! If you do it will look like you are screaming.\nDon’t write anything that sounds angry or sarcastic even as a joke, because without hearing your tone of voice, your peers might not realize you’re joking.\nAlways remember to say “please” and “thank you” when soliciting help from your classmates.\nRespect the opinion of your classmates. If you feel the need to disagree, do so respectfully and acknowledge the valid points in your classmate’s argument.\nRefrain from personal abuse. Don’t badmouth others or call them offensive words. You may express robust disagreement with what someone says, but don’t call them names.\nBe forgiving. If your classmate makes a mistake, don’t badger him or her for it. Just let it go.\nIf you reply to a question from a classmate, make sure your answer is accurate.\nBe brief. If you write a long dissertation in response to a simple question, it’s unlikely that anyone will spend the time to read through it all.\nRemember that your public posts are not anonymous. They can be read by your classmates.\nDon’t expect other people to do your homework for you. If you’re looking for technical help, for example, don’t ask questions you could easily answer yourself by reading the manual or help documentation provided with the software tools used in this course.",
-    "crumbs": [
-      "Other",
-      "Ed Netiquette"
-    ]
-  },
-  {
-    "objectID": "ed-netiquette.html#ask-lab-and-hw-questions-only-in-the-designated-lab-and-hw-posts",
-    "href": "ed-netiquette.html#ask-lab-and-hw-questions-only-in-the-designated-lab-and-hw-posts",
-    "title": "Ed-Discussion Netiquette",
-    "section": "Ask Lab and HW questions only in the designated Lab and HW posts",
-    "text": "Ask Lab and HW questions only in the designated Lab and HW posts\nWe’ve created individual posts for each type of assignment. Please ask questions, discuss problems, or help out in those posts only. Before asking a question, read through (or search) the whole thread to see if your question has been answered. Likewise, stay on topic.",
+    "text": "Keep in mind common rules of netiquette\n\nDon’t post irrelevant links, comments, thoughts or pictures.\nDon’t type in ALL CAPS! If you do it will look like you are screaming.\nDon’t write anything that sounds angry or sarcastic even as a joke, because without hearing your tone of voice, your peers might not realize you’re joking.\nRespect the opinion of your classmates. If you feel the need to disagree, do so respectfully and acknowledge the valid points in your classmate’s argument.\nRefrain from personal abuse. Don’t badmouth others or call them offensive words. You may express robust disagreement with what someone says, but don’t call them names.\nBe forgiving. If your classmate makes a mistake, don’t badger him or her for it. Just let it go.\nIf you reply to a question from a classmate, make sure your answer is accurate.\nBe brief. If you write a long dissertation in response to a simple question, it’s unlikely that anyone will spend the time to read through it all.\nRemember that your public posts are not anonymous. They can be read by your classmates.\nDon’t expect other people to do your homework for you. If you’re looking for technical help, for example, don’t ask questions you could easily answer yourself by reading the manual or help documentation provided with the software tools used in this course.",
     "crumbs": [
       "Other",
       "Ed Netiquette"
@@ -519,7 +508,7 @@
   {
     "objectID": "cheatsheets.html",
     "href": "cheatsheets.html",
-    "title": "Cheat Sheets",
+    "title": "Cheat Sheets ready to use",
     "section": "",
     "text": "Cheat sheets are your friends, use them at all times.\n\nrstudio-IDE-cheatsheet.pdf\nrmarkdown-cheatsheet-2.0.pdf\nbase-r-cheatsheet.pdf\ndplyr-cheatsheet.pdf\nggplot2-cheatsheet-2.1.pdf\ndata-import-cheatsheet.pdf",
     "crumbs": [
@@ -530,7 +519,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "[OUTDATED - new version coming soon] STAT 33B: Intro to Adv. Prog. in R",
+    "title": "STAT 33B: Introduction to Advanced Programming in R",
     "section": "",
     "text": "Ed\n\n  DataHub (R)\n\n  Gradescope\n\n  bcourses\n\nNo matching items",
     "crumbs": [
@@ -540,88 +529,11 @@
   {
     "objectID": "index.html#schedule",
     "href": "index.html#schedule",
-    "title": "[OUTDATED - new version coming soon] STAT 33B: Intro to Adv. Prog. in R",
+    "title": "STAT 33B: Introduction to Advanced Programming in R",
     "section": "Schedule 📅",
     "text": "Schedule 📅\nTentative calendar subject to change.\n\nWeek 1\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n                 No Classes this week\n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Jan 21\n             \n             \n               Worksheet  No Lab today\n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 2\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  Unit 1: Introduction\n             \n             \n                \n             \n                  \n             \n          \n  \n  \n  \n             \n             \n             \n               Slides  Starting with R and RStudio (pdf) \n             \n             \n               A bit of history about R (pdf)\n              \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Jan 26\n             \n             \n               Lecture  Course Policies, Syllabus, etc\n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Jan 28\n             \n             \n               Worksheet  WS 1: Introduction (in section)\n             \n             \n                \n             \n                  \n             \n          \n  \n  \n  \n             \n             \n             \n               Homework  HW 1: Quarto notebooks (due 02/01)\n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \nNo matching items",
     "crumbs": [
       "Home / Schedule"
-    ]
-  },
-  {
-    "objectID": "email.html",
-    "href": "email.html",
-    "title": "Communication via Email",
-    "section": "",
-    "text": "Email: gastonsanchez [at] berkeley [dot] edu\nYou should limit your emails to serious problems that cannot be addressed during office hours or via Ed. The vast majority of questions can be answered during OH and/or Ed. Email should not be used for information that is readily available in course materials (syllabus, discussion forum, announcements, etc.) or from fellow students.\nI do not explain course material over email and will not respond to emails with such requests. Please use office hours, or discussion section, (or schedule another time to meet with the teaching staff if you have irreconcilable conflicts with the office hours).",
-    "crumbs": [
-      "Other",
-      "Email"
-    ]
-  },
-  {
-    "objectID": "email.html#reading-and-responding-email",
-    "href": "email.html#reading-and-responding-email",
-    "title": "Communication via Email",
-    "section": "Reading and responding email",
-    "text": "Reading and responding email\nFor general emails, I will reply to general questions or concerns within 2 to 3 business days, Monday through Friday, during regular academic hours (9:00AM-5:00PM).\nPlease note that I do not read email between 5pm and 9am, or during the weekends. Likewise, I do not respond to emails on the weekend.\nex. If you send an email at 6pm on Friday night, you can expect that I will read it around 9am on Monday morning, and should likely receive a response by around 9am on Tuesday morning.\nIf, for any reason, I haven’t responded to your email after four business days, please email me again. I am human, and there are times when student emails fall through the cracks inadvertently.\nI prefer to have conversations in person rather than via email, thus allowing us to get to know each other better and fostering a more collegial learning atmosphere.",
-    "crumbs": [
-      "Other",
-      "Email"
-    ]
-  },
-  {
-    "objectID": "email.html#communicate-in-a-professional-manner",
-    "href": "email.html#communicate-in-a-professional-manner",
-    "title": "Communication via Email",
-    "section": "Communicate in a professional manner",
-    "text": "Communicate in a professional manner\nIf you believe your situation warrants an email, please feel free to send me a professional email. E-mail communication should be courteous and respectful in manner and tone. Please do not send e-mails that are curt or demanding.\nHere’s a short example of an unprofessional email. Let’s assume you missed a quiz, for whatever reason. Do not write and say: “I missed a quiz. When can I make it up?” Instead, explain why you have extenuating circumstances, and ask the teaching staff if they will allow you to make up the quiz. Most likely you won’t be able to make it up, but at least you are asking in a professional way.\nIf you are unsure of how to write an email to me or any other professor, please consult this amusing blog post that gives you a useful template:\nhttps://medium.com/@lportwoodstacer/how-to-email-your-professor-without-being-annoying-af-cf64ae0e4087",
-    "crumbs": [
-      "Other",
-      "Email"
-    ]
-  },
-  {
-    "objectID": "email.html#subject-line",
-    "href": "email.html#subject-line",
-    "title": "Communication via Email",
-    "section": "Subject line",
-    "text": "Subject line\nIf you wish for your email to make it into my inbox, do not leave the subject line blank. Instead, make sure the subject of your email contains the code course and a brief explanation of the nature of the email. For example: “Stat 33B-Question about Homework” or “Stat 33B-Request for Meeting”.",
-    "crumbs": [
-      "Other",
-      "Email"
-    ]
-  },
-  {
-    "objectID": "email.html#avoid-these-subjects",
-    "href": "email.html#avoid-these-subjects",
-    "title": "Communication via Email",
-    "section": "Avoid these subjects",
-    "text": "Avoid these subjects\n\nAvoid emailing me to explain why you missed or will miss class. I usually don’t need to know. If you think this can affect your performance, then schedule a meeting with me.\nDo not email me to let me know you made a mistake in your submitted assignment. Please refer to the HW policies (see syllabus).\nDo not email me to ask for extra credit. Here’s why: https://marktomforde.com/academic/undergraduates/NoExtraCredit.html\nAbove all, do not email me to engage in grade grubbing. Here’s why: https://marktomforde.com/academic/undergraduates/GradeGrubbing.html",
-    "crumbs": [
-      "Other",
-      "Email"
-    ]
-  },
-  {
-    "objectID": "email.html#scheduling-a-meeting",
-    "href": "email.html#scheduling-a-meeting",
-    "title": "Communication via Email",
-    "section": "Scheduling a meeting",
-    "text": "Scheduling a meeting\nIf you wish to schedule a meeting with me, your message should include at least two times when you would like to meet and a brief (one-two sentence) description of the reason for the meeting.",
-    "crumbs": [
-      "Other",
-      "Email"
-    ]
-  },
-  {
-    "objectID": "email.html#emails-regarding-letters-of-recommendation",
-    "href": "email.html#emails-regarding-letters-of-recommendation",
-    "title": "Communication via Email",
-    "section": "Emails regarding letters of recommendation",
-    "text": "Emails regarding letters of recommendation\nOne-unit courses do not provide me with enough information about students to write a strong letter of recommendation. Therefore, I am unwilling to provide a letter based on your work on this course alone.",
-    "crumbs": [
-      "Other",
-      "Email"
     ]
   },
   {
@@ -651,7 +563,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "NoteInfo\n\n\n\nInstructor: Gaston Sanchez\nLecture: Wed 2pm-3pm in Latimer 120\nLab:\n\nLab 101, Fri 9am-10am, Evans 342 (GSI Brian)\nLab 102, Fri 10am-11am, Evans 342 (GSI Brian)\nLab 103, Fri 1pm-2pm, Evans 342 (GSI Brian)\nLab 104, Fri 2pm-3pm, Evans 342 (GSI Brian)\n\nCode #: 23941\nUnits: 1\nFinal Exam: Thr Dec-18th, 3pm-6pm, location TBD.\nThis course introduces the R statistical software to students with minimal prior exposure to programming.\nThe course aims to prepare students to carry out a basic data analysis and to write simple functions. The focus is on the computational model that underlies the R language with the goal of providing a foundation for further coding.",
+    "text": "NoteInfo\n\n\n\nLecture: Mon 3pm-4pm in Hearst Mining 390\nLab:\n\nLab 101, Wed 9am-10am, Evans 344\nLab 102, Wed 10am-11am, Evans 344\nLab 103, Wed 1pm-2pm, Evans 344\nLab 104, Wed 2pm-3pm, Evans 334\n\nUnits: 1\nFinal Exam: Wed May 13th, 7pm-10pm, location TBD.\nThis course introduces the R statistical software to students with minimal prior exposure to programming.\nThe course aims to prepare students to carry out a basic data analysis and to write simple functions. The focus is on the computational model that underlies the R language with the goal of providing a foundation for further coding.",
     "crumbs": [
       "About"
     ]
@@ -661,7 +573,7 @@
     "href": "about.html#more-information",
     "title": "About",
     "section": "More Information",
-    "text": "More Information\n\nSchedule\nSyllabus\nStaff\nCommunication via email\nEd Netiquette\nQ&As",
+    "text": "More Information\n\nSchedule\nSyllabus\nStaff\nEd Netiquette\nQ&As",
     "crumbs": [
       "About"
     ]
@@ -671,7 +583,7 @@
     "href": "syllabus.html",
     "title": "Syllabus",
     "section": "",
-    "text": "N.B. Syllabus subject to change.\nStudents in Stat 131A are expected to have read the syllabus in its entirety by the second week of the course.",
+    "text": "N.B. Syllabus subject to change.\nStudents in Stat 33B are expected to have read the syllabus in its entirety by the second week of the course.",
     "crumbs": [
       "Syllabus"
     ]
@@ -761,7 +673,7 @@
     "href": "syllabus.html#participation-and-worksheets-15-of-final-grade",
     "title": "Syllabus",
     "section": "📝 Participation and Worksheets (15% of final grade)",
-    "text": "📝 Participation and Worksheets (15% of final grade)\nPLEASE, DO NOT COME TO CLASS IF YOU THINK YOU MIGHT BE SICK! EVEN A LITTLE!!!\n\nYou’ll recover more slowly, get other people sick, and lose lecture time, OH, group tutoring and in general make the class harder and less useful for yourself and everyone else.\nwe are a mask friendly class\nAttending section every week is an essential part of the course and you will be provided with printed worksheets to apply your knowledge by working through questions solo or in groups, and also to start working on the weekly coding assignments.\nYou must attend the lab section you are officially enrolled in.\nWorksheets will be handed out during section.\nThey consist of questions to check your understanding from the slides you have to read before each lecture.\nRegardless of whether you work solo or in groups, you must turn in your answered worksheet at the end of section (i.e. individual submission).\nTurned-in worksheets will be graded credit / no-credit for completion where full credit is given if you earnestly engaged with the assignment (that is, put in a good effort to complete the problems).\nSolutions will be posted on bCourses one day after lab discussion.\nBecause we won’t give worksheets back, we suggest that you take a picture or scan them so that you can compare your answers with the solutions.\nThe first worksheet will not count towards your participation score. From the remaining worksheets, your lowest 2 scores will be dropped in the calculation of your overall grade.",
+    "text": "📝 Participation and Worksheets (15% of final grade)\nPLEASE, DO NOT COME TO CLASS IF YOU THINK YOU MIGHT BE SICK! EVEN A LITTLE!!!\n\nYou’ll recover more slowly, get other people sick, and lose lecture time, OH, group tutoring and in general make the class harder and less useful for yourself and everyone else.\nwe are a mask-friendly class\nAttending section every week is an essential part of the course and you will be provided with printed worksheets to apply your knowledge by working through questions solo or in groups, and also to start working on the weekly coding assignments.\nYou must attend the lab section you are officially enrolled in.\nWorksheets will be handed out during section.\nThey consist of questions to check your understanding from the slides you have to read before each lecture.\nRegardless of whether you work solo or in groups, you must turn in your answered worksheet at the end of section (i.e. individual submission).\nTurned-in worksheets will be graded credit / no-credit for completion where full credit is given if you earnestly engaged with the assignment (that is, put in a good effort to complete the problems).\nSolutions will be posted on bCourses one day after lab discussion.\nBecause we won’t give worksheets back, we suggest that you take a picture or scan them so that you can compare your answers with the solutions.\nThe first worksheet will not count towards your participation score. From the remaining worksheets, your lowest 2 scores will be dropped in the calculation of your overall grade.",
     "crumbs": [
       "Syllabus"
     ]
