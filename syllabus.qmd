@@ -85,6 +85,11 @@ Unfortunately, doing all the work is not a guarantee of enrollment. You will onl
 
 ## 📝 Participation and Worksheets (15% of final grade)
 
+**PLEASE, DO NOT COME TO CLASS IF YOU THINK YOU MIGHT BE SICK! EVEN A LITTLE!!!**
+
+- You'll recover more slowly, get other people sick, and lose lecture time, OH, group tutoring and in general make the class harder and less useful for yourself and everyone else.
+- **we are a mask friendly class**
+
 - Attending section every week is an essential part of the course and you will be provided with printed worksheets to apply your knowledge by working through questions solo or in groups, and also to start working on the weekly coding assignments.
 - You must attend the lab section you are officially enrolled in.
 - Worksheets will be handed out during section.

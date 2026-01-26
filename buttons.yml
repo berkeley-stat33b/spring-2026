@@ -1,9 +1,12 @@
-- button: bCourses
-  link: https://bcourses.berkeley.edu/courses/1546288
-  color: "#e7298a"
 - button: Ed
-  link: https://edstem.org/us/courses/80560/discussion
-  color: "#7570b3"
-- button: R-DataHub
+  link: https://edstem.org/us/courses/91440/discussion/
+  color: purple
+- button: DataHub (R)
   link: https://r.datahub.berkeley.edu
-  color: "#666666"
+  color: green
+- button: Gradescope
+  link: https://www.gradescope.com/courses/1213988
+  color: orange
+- button: bcourses
+  link: https://bcourses.berkeley.edu/courses/1551507
+  color: blue

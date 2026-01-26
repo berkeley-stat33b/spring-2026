@@ -10,28 +10,78 @@ Office hours are subject to change.
 You can attend OH of any staff member.
 
 -----
+::: {.grid}
 
-:::: {.grid}
-
-::: {.g-col-6}
-**Instructor:** <a href='https://www.gastonsanchez.com' target='_blank'>Gaston Sanchez</a><br>
-`gastonsanchez`<br>
-Office hours: <br>
-- Tue 3:00 - 4:00PM, Evans 309<br>
-
-**Tutor:** Assmaa Aziz<br>
-`aaziz`<br>
-Office hours: <br>
-- Mon 1:00PM - 3:00PM, Evans 426<br>
-- Tue 11:30AM - 1:30PM, Evans 446<br>
+::: {.g-col-4}
+<img src="assets/andrea-headshot.jpg" width="200"><br>
+**Instructor:** <a href="https://statistics.berkeley.edu/people/andrea-massari" target='_blank'>Andrea Massari</a><br>
+*You can call me Andrea or anything you're comfortable with. Also, send memes.* <br>
+`amassari at berkeley dot edu`<br>
+<!-- Office hours: <br> -->
+<!-- TBD -->
+<!-- - Thursday 3pm-5pm, Evans 309 <br> -->
+<!-- - Friday 2:00pm-4:30pm, Evans 309<br> -->
 :::
 
-::: {.g-col-6}
-**GSI**: <a href="https://statistics.berkeley.edu/people/brian-fernando" target="_blank">Brian Fernando</a><br>
-`bmfernan`<br>
-Office hours:<br>
-- Tue 1:30 - 3:30PM, Evans 446<br>
-- Thu 1:30 - 3:30PM, Evans 446
+::: {.g-col-4}
+<img src="assets/van-headshot.jpg" width="200"><br>
+**GSI**: <a href="https://bse.berkeley.edu/thong-trinh" target="_blank">Van Hovenga</a><br>
+`thong at berkeley dot edu`<br>
+<!-- Office hours:<br> -->
+<!-- TBD -->
+<!-- - Monday 11am-12pm, Evans 432<br> -->
+<!-- - Tuesday 4pm-5pm, Evans 432<br> -->
+<!-- - Wednesday 2pm-3pm, Evans 432<br> -->
+<!-- - Friday 12pm-1pm, Evans 432 -->
 :::
+
+::: {.g-col-4}
+<img src="assets/monica-headshot.jpg" width="200"><br>
+**Tutor**: <a href="" target="_blank">Ethan Chant</a><br>
+`xx_ethan_xx at berkeley dot edu`<br>
+
+::: {.g-col-4}
+<img src="assets/monica-headshot.jpg" width="200"><br>
+**Tutor**: <a href="" target="_blank">John Zhuang</a><br>
+`zhuangzian at berkeley dot edu`<br>
+
+::: {.g-col-4}
+<img src="assets/monica-headshot.jpg" width="200"><br>
+**Reader**: <a href="" target="_blank">Aidan Chan</a><br>
+`aidanmshen at berkeley dot edu`<br>
+
+::: {.g-col-4}
+<img src="assets/monica-headshot.jpg" width="200"><br>
+**Reader**: <a href="" target="_blank">Emily Hsu</a><br>
+`emilyhsu1 at berkeley dot edu`<br>
+<!-- Office hours:<br> -->
+<!-- TBD -->
+<!-- - Monday 11am-12pm, Evans 432<br> -->
+<!-- - Tuesday 4pm-5pm, Evans 432<br> -->
+<!-- - Wednesday 2pm-3pm, Evans 432<br> -->
+<!-- - Friday 12pm-1pm, Evans 432 -->
+:::
+
+<!-- ::: {.g-col-4} -->
+<!-- **Tutor:** Person Z<br> -->
+<!-- `z@berkeley.edu`<br> -->
+<!-- Office hours: <br> -->
+<!-- - Wednesday 2:30pm - 4:30pm, Evans 434<br> -->
+<!-- - Sunday 2pm - 6pm, <a href="https://berkeley.zoom.us/j/99887452083?pwd=T1pXWC9HZFpTRHQzc1MrOElUakFUdz09">Zoom</a> -->
+<!-- ::: -->
+
+<!-- ::: {.g-col-4} -->
+<!-- **Tutor**: Person W<br> -->
+<!-- `w@berkeley.edu`<br> -->
+<!-- Office hours: <br> -->
+<!-- - Wednesday 10am-2pm, Evans 432<br> -->
+<!-- - Thursday 3-5pm, Evans 434 -->
+<!-- ::: -->
+
+:::
+
+**In general, please use [Ed](https://estem.org) to communicate with the course staff.** 
+
+Unless otherwise indicated, email should only be used for private concerns directed to a specific member of the teaching staff. 
 
 ::::
