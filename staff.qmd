@@ -2,14 +2,6 @@
 title: "Staff"
 ---
 
-
-Append `@berkeley.edu` to all email addresses.
-
-Office hours are subject to change.
-
-You can attend OH of any staff member.
-
------
 ::: {.grid}
 
 ::: {.g-col-4}
@@ -25,7 +17,7 @@ You can attend OH of any staff member.
 
 ::: {.g-col-4}
 <img src="assets/van-headshot.jpg" width="200"><br>
-**GSI**: <a href="https://bse.berkeley.edu/thong-trinh" target="_blank">Van Hovenga</a><br>
+**GSI**: <a href="https://bse.berkeley.edu/thong-trinh" target="_blank">Thong Trinh</a><br>
 `thong at berkeley dot edu`<br>
 <!-- Office hours:<br> -->
 <!-- TBD -->
@@ -35,20 +27,29 @@ You can attend OH of any staff member.
 <!-- - Friday 12pm-1pm, Evans 432 -->
 :::
 
+
 ::: {.g-col-4}
 <img src="assets/monica-headshot.jpg" width="200"><br>
 **Tutor**: <a href="" target="_blank">Ethan Chant</a><br>
 `xx_ethan_xx at berkeley dot edu`<br>
+:::
+
+:::
+
+::: {.grid}
 
 ::: {.g-col-4}
 <img src="assets/monica-headshot.jpg" width="200"><br>
 **Tutor**: <a href="" target="_blank">John Zhuang</a><br>
 `zhuangzian at berkeley dot edu`<br>
+:::
+
 
 ::: {.g-col-4}
 <img src="assets/monica-headshot.jpg" width="200"><br>
 **Reader**: <a href="" target="_blank">Aidan Chan</a><br>
 `aidanmshen at berkeley dot edu`<br>
+:::
 
 ::: {.g-col-4}
 <img src="assets/monica-headshot.jpg" width="200"><br>
@@ -84,4 +85,4 @@ You can attend OH of any staff member.
 
 Unless otherwise indicated, email should only be used for private concerns directed to a specific member of the teaching staff. 
 
-::::
+:::
