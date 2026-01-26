@@ -2,21 +2,19 @@
 title: "Syllabus"
 ---
 
+**N.B. Syllabus subject to change.**
 
-## Description (outdated - Fall 2025)
+**Students in Stat 131A are expected to have read the syllabus in its entirety by the second week of the course.**
 
-STAT 33B is a course designed primarily for those who are already familiar with 
-programming in another language (e.g. Python, C, Java), and want to understand 
-how R works, and for those who already know the basics of R programming and want 
-to gain a more in-depth understanding of the language in order to improve their coding.
+## Description
 
-The focus is on the underlying paradigms in R, such as atomic and non-atomic vectors, 
-functional programming, environments, and object systems (time permitting).
+STAT 33B is a course designed primarily for those who are already familiar with programming in another language (e.g. Python, C, Java), and want to understand how R works, and for those who already know the basics of R programming and want to gain a more in-depth understanding of the language in order to improve their coding.
 
-The goal of this course is to better understand programming principles in R and 
-to write better R code that capitalizes on the language's design.
+The focus is on the underlying paradigms in R, such as atomic and non-atomic vectors, functional programming, environments, and object systems (time permitting).
 
-Topics include (not necessarily covered in the following order):
+The goal of this course is to better understand programming principles in R and to write better R code that capitalizes on the language's design.
+
+Topics might include (not necessarily covered in the following order):
 
 - 🔠 data types and data structures in R (e.g. vectors, arrays, lists, data frames)
 - 🔨 Tools for data manipulation
@@ -26,52 +24,37 @@ Topics include (not necessarily covered in the following order):
 - 🔀 Control flow structures (e.g. conditionals, iterations)
 - 📑 Argument matching
 - 📢 Function calls
-- ➕ The formula language of R (time permitting)
+- ➕ The formula language of R
+
+### Communication
+
+**Strictly follow these guidelines whenever you need to get in touch**:
+
+1. Create a public [ED post](https://edstem.org/us/courses/91440/discussion). This will be helpful for so many others!
+2. If the matter is confidential, create a private ED post (visible to the course staff only).
+3. If the matter is even more confidential, you can email one specific staff member, but this should be an absolute last resort. We reserve the right to ignore your emails, if we believe you should have gone through ED instad. Canvas messages will always be ignored.
 
 
 ## 🏫 Mode of Instruction
 
-This semester STAT 33B is structured as a flipped class, meaning that you will gain 
-initial exposure to new concepts before class (mostly in the form of slides and 
-suggested readings) and then apply that knowledge through activities like discussions, 
-problem-solving, and coding during class-and-lab time, as well as outside the classroom.
+This semester STAT 33B is structured as a flipped class, meaning that you will gain initial exposure to new concepts before class (mostly in the form of slides and suggested readings) and then apply that knowledge through activities like discussions, problem-solving, and coding during class-and-lab time, as well as outside the classroom.
 
-__Before Class__. It is your responsibility to become familiar with the topics that 
-appear in the slides sections. Optionally, you may want to review the recommended readings. 
-Likewise, there will be ungraded practice coding exercises in case you want apply your 
-knowledge or test your understanding of the weekly concepts.
+__Before Class__. It is your responsibility to become familiar with the topics that appear in the slides sections. Optionally, you may want to review the recommended readings. Likewise, there will be ungraded practice coding exercises in case you want to apply your knowledge or test your understanding of the weekly concepts.
 
-__During class on Wed__. Class time will be spent on live demos to illustrate R programming 
-concepts with some small, yet real-life, examples. Do not be surprised or worried about 
-not following the details of R code during class – that is not the point (furthermore, 
-there will sometimes be code that is really specific to the instructional purposes of 
-the lecture, e.g. to make a specific plot, and is beyond the scope of what you would be 
-expected to understand how to do yourself). Commented demo files will be shared in 
-bCourses right after class, or one day after class.
+__During class on Mondays__. Class time will be spent on live demos to illustrate R programming concepts with some small, yet real-life, examples. Do not be surprised or worried about not following the details of R code during class – that is not the point (furthermore, there will sometimes be code that is really specific to the instructional purposes of the lecture, e.g. to make a specific plot, and is beyond the scope of what you would be expected to understand how to do yourself). *[TBD]Commented demo files will be shared in bCourses right after class, or one day after class.*
 
-__During Section on Fri__. Lab time will be dedicated to apply your knowledge by working 
-through questions (in the format of printed worksheets) solo or in groups, and also 
-to start working on the weekly coding assignment.
+__During Section on Wednesdays__. Lab time will be dedicated to applying your knowledge by working through questions (in the format of printed worksheets) solo or in groups, and also to start working on the weekly coding assignment.
 
-__After Section__. You will keep working on the weekly homework (coding) assignment. 
-These assignments are typically extensions of the examples discussed in lecture. 
-However, assignments will sometimes ask you to learn about a topic related to but not covered in lecture/lab.
-
+__After Section__. You will keep working on the weekly homework (coding) assignment. These assignments are typically extensions of the examples discussed in lecture. However, assignments will sometimes ask you to learn about a topic related to but not covered in lecture/lab.
 
 ## ℹ️ Prerequisites
 
-Although this course __does not have any prerequisites__, the curriculum and format 
-are designed specifically for students __who have previous programming experience__. 
-Students with no or minimal programming experience should not be taking this course; 
-instead they should consider other courses such as _STAT 33A Introduction to Programming in R_ 
-or _BJC The Beauty and Joy of Computing_. BTW: you don't need to have taken an introductory 
-course in statistics.
-
+Although this course __does not have any prerequisites__, the curriculum and format are designed specifically for students __who have previous programming experience__. Students with no or minimal programming experience should not be taking this course; instead they should consider other courses such as _STAT 33A Introduction to Programming in R_ 
+or _BJC The Beauty and Joy of Computing_. BTW: you don't need to have taken an introductory course in statistics.
 
 ## 📚 Textbooks
 
-This course does not have an "official" textbook although weekly readings will be assigned 
-from the following books:
+This course does not have an "official" textbook although weekly readings will be assigned from the following books:
 
 - R Coding Basics (by G. Sanchez). <https://www.gastonsanchez.com/R-coding-basics>
 - Advanced R, 2nd Edition (by H. Wickham). <https://adv-r.hadley.nz>
@@ -81,303 +64,165 @@ from the following books:
 
 ## 🤞 Expectations
 
-This is a programming course rather than a math or statistics course. Programming 
-is a broad topic, so it's not possible for lecture to provide you with a specific 
-recipe for every situation you may encounter. Instead, one of the goals of this class 
-is to help you become comfortable reading R code, and understanding its underlying 
-working principles, as well as its documentation.
+This is a programming course rather than a math or statistics course. Programming is a broad topic, so it's not possible for lecture to provide you with a specific recipe for every situation you may encounter. Instead, one of the goals of this class is to help you become comfortable reading R code, and understanding its underlying working principles, as well as its documentation.
 
-We don't expect you to become an R expert. That takes YEARS of practice and learning. 
-Instead, we want to give you a good foundation to understand R's programming language.
+We don't expect you to become an R expert. That takes YEARS of practice and learning. Instead, we want to give you a good foundation to understand the R programming language.
 
- 
 ## 🏫 Course Culture
 
-Students taking Stat 33B come from a wide range of backgrounds. We hope to foster 
-an inclusive and supportive learning environment based on curiosity rather than competition. 
-All members of the course community---the instructor, GSI, students, and readers---are 
-expected to treat each other with courtesy and respect.
+Students taking Stat 33B come from a wide range of backgrounds. We hope to foster an inclusive and supportive learning environment based on **curiosity and mutual help rather than competition**. 
+All members of the course community---the instructor, GSI, tutors, students, and readers---are expected to treat each other with courtesy and respect.
 
-You will be interacting with course staff and fellow students in several different 
-environments: in class, in lab, over the discussion forum, and in office hours. 
-Some of these will be in person, some of them will be online, but the same expectations 
-hold: be kind, be respectful, be professional.
+You will be interacting with course staff and fellow students in several different environments: in class, in lab, over the discussion forum, and in office hours. Some of these will be in person, some of them will be online, but the same expectations hold: be kind, be respectful.
 
-If you are concerned about classroom environment issues created by other students or 
-course staff, please come talk to us about it.
-
+If you are concerned about classroom environment issues created by other students or course staff, please come talk to us about it.
 
 ## ⏳ Waitlisted Students and Late Joining
 
-We will not be offering extensions if you are admitted or enrolled into the 
-course later. So it is your responsibility to stay up to date on the assignments. 
-With that said, please keep in mind our policies for Participation and HW 
-(see sections below).
+We will not be offering extensions if you are admitted or enrolled into the course later. So it is your responsibility to stay up to date on the assignments. With that said, please keep in mind our policies for Participation and HW (see sections below).
 
-Unfortunately, doing all the work is not a guarantee of enrollment. You will 
-only be enrolled if there is space in your lab. Enrollment will proceed by CalCentral.
+Unfortunately, doing all the work is not a guarantee of enrollment. You will only be enrolled if there is space in your lab. Enrollment will proceed through CalCentral.
 
+## 📝 Participation and Worksheets (15% of final grade)
 
-## 📝 Participation and Worksheets (12% of final grade)
-
-- Attending section every week is an essential part of the course and you will be 
-provided with printed worksheets to apply your knowledge by working through 
-questions solo or in groups, and also to start working on the weekly coding assignments.
+- Attending section every week is an essential part of the course and you will be provided with printed worksheets to apply your knowledge by working through questions solo or in groups, and also to start working on the weekly coding assignments.
 - You must attend the lab section you are officially enrolled in.
-- Worksheets will be handed-out during section.
+- Worksheets will be handed out during section.
 - They consist of questions to check your understanding from the slides 
 you have to read before each lecture.
-- Regardless of whether you work solo or in groups, you must turn in your answered 
-worksheet at the end of section (i.e. individual submission).
-- Turned-in worksheets will be graded credit / no-credit for completion where 
-full credit is given if you earnestly engage with the assignment (that is, 
-put in a good effort to complete the problems).
-- Solutions will be posted on bCourses one day after lab discussion.
-- Because we won't give worksheets back, we suggest that you take a picture 
-or scan them so that you can compare your answers with the solutions.
-- The first worksheet __will not__ count towards your participation score. 
-From the remaining worksheets, your __lowest 2 scores will be dropped__ in the 
-calculation of your overall grade.
+- Regardless of whether you work solo or in groups, you must turn in your answered worksheet at the end of section (i.e. individual submission).
+- Turned-in worksheets will be graded credit / no-credit for completion where full credit is given if you earnestly engaged with the assignment (that is, put in a good effort to complete the problems).
+- Solutions will be posted on [bCourses](https://bcourses.berkeley.edu/courses/1551507) one day after lab discussion.
+- Because we won't give worksheets back, we suggest that you take a picture or scan them so that you can compare your answers with the solutions.
+- The first worksheet __will not__ count towards your participation score. From the remaining worksheets, your __lowest 2 scores will be dropped__ in the calculation of your overall grade.
 
-
-## 📁 Homework (40% of final grade)
+## 📁 Homework (45% of final grade)
 
 - There will be weekly homework (coding) assignments.
 - These assignments will typically be extensions of the examples presented during lecture.
-- You will start working on a HW assignment during the second half of section, 
-and will have four more days (Sat, Sun, Mon, Tue) to complete them.
-- HW assignments will submitted through bCourses (individual submission).
-- HW will be __due at 10:50PM on Tuesday__ after they were assigned in section, 
-and there will be a grace submission period of 10 minutes. See Late Submission 
-Policy below for more information about late submissions.
-- You must write your own answers (using your own words and/or code). Copy and 
-plagiarism will not be tolerated (see Academic Honesty policy).
-- If you don't submit all required files, you will receive an automatic 10% deduction.
-- If you submit the incorrect files, you will receive no credit.
-- The first HW __will not__ count towards your HW score. From the remaining HW assignments, 
-your __2 lowest scores will be dropped__ in the calculation of your overall grade.
-
+- You will start working on a HW assignment during the second half of section, and will have four more days to complete them.
+- HW assignments will be submitted through [gradescope](https://www.gradescope.com/courses/1213988) (individual submission).
+- HW will be __due at 11:59PM on Sunday__ after they were assigned in section. Late submissions until class time on Monday will incur an automated 15% deduction.
+- You must write your own answers (using your own words and/or code). Cheating and plagiarism will not be tolerated (see Academic Honesty policy).
+- If you don't submit all required files, or incorrect files, you will receive no credit on those parts of the assignment.
+- The first HW __will not__ count towards your HW score. From the remaining HW assignments, your __2 lowest scores will be dropped__ in the calculation of your overall grade.
 
 
 ## 🕚 Late Submission Policy {#late-policy}
 
-Given that STAT 33B is a 1-unit course, unless you have applicable DSP accommodations, 
-we won't be able to offer extensions of any kind. 
+Given that STAT 33B is a 1-unit course, unless you have applicable DSP accommodations, we won't be able to offer extensions of any kind on top of what above specified. 
 
-If you cannot turn in a printed worksheet with your handwritten answers (because 
-you did not attend lab, or you forgot to turn the worksheet in), please recall 
-that we are dropping the 2 lowest worksheet scores.
+If you cannot turn in a printed worksheet with your handwritten answers (because you did not attend lab, or you forgot to turn the worksheet in), please recall that we are dropping the 2 lowest worksheet scores.
 
 In case you are not able to submit a HW assignment on time, our default policy is:
 
-- Submissions within 24 hours after the deadline will receive an 11% deduction.
-- Submissions within 48 hours after the deadline will receive a 22% deduction.
-- Submissions that are 48 hours or more after the deadline will receive no credit.
+- Submissions within the start of the next Monday class will incur an automated 15% deduction.
 
-This late submission policy is in place to take care of any extenuating circumstances 
-that prevent you from submitting a HW assignment by the due date. In addition, 
-recall that we are dropping the 2 lowest HW scores.
+This late submission policy is in place to take care of any extenuating circumstances that prevent you from submitting a HW assignment by the due date. In addition, recall that we are dropping the 2 lowest HW scores.
 
-__Extensions for DSP students__: If you are enrolled with DSP and have accommodations 
-for assignment extensions, you may request occasional extensions up to 2 days. 
-Please email your GSI, and cc Prof. Sanchez, to make such a request, preferably 
-2 days before the assignment's deadline.
-
-Please plan ahead and pace yourself. Don't wait until the last day to do an assignment. <br>
-<span style="background-color: #b1ff00;">__Don't wait until the last minute to submit your assignments.__</span>
-
- 
-## 📄 Midterm (12% of final grade)
-
-- There will be one in-person midterm scheduled on Oct-15th.
-- The midterm will take place during class time (Wed, 2-3PM, Latimer 120)
+Please plan ahead and pace yourself. Don't wait until the last day to do an assignment. <br><span style="background-color: #b1ff00;">__Don't wait until the last minute to submit your assignments.__</span>
 
 
-## 📝 Final Exam (36% of final grade)
+## 📄 Exams (40% of final grade)
+
+- There will be one in-person midterm scheduled for March 16th 2026.
+- The midterm will take place during class time (Monday, 3pm-4pm, [Hearst Mining 390](https://rtl.berkeley.edu/classroom-database/hearst-mining-0390))
 
 - There will be one in-person final exam.
-- To pass the course, you have to complete the final exam.
-- The final exam will be held on Thursday, Dec-18th, 3pm-6pm, location TBA 
-as scheduled by the University.
-- Unless you have accommodations as determined by the university and approved 
-by the instructor, you must take the exam at the date indicated above.
-- Please check your course schedule and make sure that you can take the 
-final exam on the date indicated above. Otherwise, do not take the class 
-if you are not available at this date.
+- The final exam will be held on Thursday, Dec-18th, 7pm-10pm, location TBD as scheduled by the University.
+- Unless you have accommodations as determined by the university and approved by the instructor, you must take the exam at the date indicated above.
 
+The overall grade for the exams is a combination of midterm and final.
+- The final will be divided into two parts: final_p1 (covers same material as midterm) and final_p2 (covers material after midterm).
+- Exams grade = 50% final_p2 + 50% max(final_p1, 50% final_p1 + 50% midterm)
+- the idea is that if you don't do well on the mideterm, you can neutralize that result by doing better on that same part of the final.
 
 ## 💯 Grading Structure
 
 Grades will be assigned using the following scheme:
 
-1) **12% Worksheets and participation** (2 drops)
-2) **40% HW** (2 drops)
-6) **12% Midterm**
-7) **36% Final Exam**
+1) **15% Worksheets and participation** (2 drops)
+2) **45% HW** (2 drops)
+6) **40% Exams**
 
-- To complete the course, you must take the final exam.
-- To give you a rough idea of the grading scheme, the assignment of letter grades 
-will be:
+- To give you an idea of the grading scheme, the assignment of letter grades will be roughly:
 
-  - 😀 90-100% (Excellent) A-/A range
-  - 🙂 80-90% (Good) B-/B/B+ range
-  - 😐 70-80% (Fair) C-/C/C+ range
-  - 🙁 60-70% (Deficient) D
-  - 😞 Below 60% (Failed) F
+  - 😀 >= 88% (Excellent) A-/A/A+ range
+  - 🙂 >= 77% (Good) B-/B/B+ range
+  - 😐 >= 66% (Fair) C-/C/C+ range
+  - 🙁 >= 60% (Deficient) D
+  - 😞 < 60% (Failed) F
 
-- If you are taking the class pass-fail, the cut-oﬀ for passing is 70% (C-).
-- As a matter of course policy, I do not round up when calculating letter grades. 
-Ex: if your overall score is 79.9999%, then the highest letter grade that you can expect is a C+, not a B-.
-- There is no curve; your grade will depend only on how well you do, 
+- **N.B. Small adjustments might be applied to better reflect exam and assignments difficulty**
+- If you are taking the class pass-fail, the cut-oﬀ for passing is 66% (C-).
+- As a matter of course policy, I do not round up when calculating letter grades. Ex: if your overall score is 79.9999%, then the highest letter grade that you can expect is a C+, not a B-.
+- There is no curve: your grade will depend only on how well you do, 
 and not on how well everyone else does.
-- Letter grades are final; I don't enter into negotiations with students about grades.
-- Please do not engage in [grade grubbing](https://marktomforde.com/academic/undergraduates/GradeGrubbing.html).
-- Also, please remember that we grade your course performance, not your personal worth.
-
+- Also, please remember that we grade your course performance, not your personal worth. **You will get all my respect, help, and care, no matter how well you do in the class, as long as you don't disrupt or disrespect others.**
 
 ## ⚠️ Generative A.I. Policy
 
-Generative A.I. refers to artificial intelligence technologies, like those used for 
-ChatGPT, Gemini or similar, that can draw on a large corpus of training data 
-to create new written, visual, or audio content.
+Generative A.I. refers to artificial intelligence technologies, like those used for ChatGPT, Gemini or similar, that can draw on a large corpus of training data to create new written, visual, or audio content.
 
 There are two principles we use to guide our class policy on AI use:
 
-- **Cognitive dimension**: Working with AI should not reduce your ability to 
-think clearly. The use of AI should facilitate—rather than hinder—learning. 
-- **Ethical dimension**: Students using AI should be transparent about their use 
-and make sure it aligns with academic integrity. 
+- **Cognitive dimension**: Working with AI should not reduce your ability to think clearly. The use of AI should facilitate—rather than hinder—learning. 
+- **Ethical dimension**: Students using AI should be transparent about their use and make sure it aligns with academic integrity. 
 
-In this course, we'll be developing skills that are important to practice on your own. 
-Because use of generative A.I. may inhibit the development of those skills, 
-the use of these tools __is permitted__ in this course for the following activities:
+In this course, we'll be developing skills that are important to practice on your own. Because use of generative A.I. may inhibit the development of those skills, the use of these tools __is permitted__ in this course for the following activities:
 
 - Brainstorming and refining your ideas;
-- Checking syntax errors or bugs in your code; and
-- Polishing your spelling and grammar (when applicable).
 
-The use of generative A.I. tools __is not permitted__ in this course for the following activities:
+The use of generative A.I. tools __is not permitted__ in this course for the anything else, including:
 
 - Impersonating you in classroom contexts, such as by using the tool to 
 compose discussion board prompts assigned to you or content that you put 
 into a discussion forum/chat.
 - Attempting to pass off AI-generated work as your own.
 - Writing a draft of your assignment.
-- Writing entire blocks of code, functions, or scripts to complete class assignments.
+- Writing/checking code, functions, or scripts to complete class assignments.
 
-In the event that some of your code is generated by AI, please give credit to 
-the tool(s) you are using.
+In the very rare event that any of your work is produced by AI, please give credit to the tool(s) you are using.
 
-If you are unsure of whether and how much of a submission has been AI-generated, 
-or whether you are in violation of a certain policy, please reach out to us and ask for guidance.
-
+If you are unsure of whether you are in violation of a certain policy, please reach out to us and ask for guidance.
 
 ## ☝️ Academic Honesty
 
 You should not share your code or answers, directly or indirectly, with 
 other students. Doing so doesn't help them; it just sets them up for 
-trouble on exams. Feel free to discuss the problems with others beforehand, 
-but not the solutions. Please complete your own work and keep it to yourself 
-(e.g. avoid sharing it in hosting platforms like Github or similar). 
-If you suspect other people may be plagiarizing you, let us know ASAP.
+trouble on exams. Feel free to discuss the problems with others beforehand, but not the solutions. Please complete your own work and keep it to yourself (e.g. avoid sharing it in hosting platforms like Github or similar). If you suspect other people may be plagiarizing you, let us know ASAP.
 
-We expect you to do your own work and to uphold the standards of intellectual 
-integrity. Collaborating on homework is fine and we encourage you to work 
-together---but copying is not, nor is having somebody else submit assignments 
-for you. Likewise, obtaining and/or using solutions from previous years or 
-from the internet, if such happen to be available, is considered cheating.
+We expect you to do your own work and to uphold the standards of intellectual integrity. Collaborating on homework is fine and we encourage you to work together---but copying is not, nor is having somebody else submit assignments for you. Likewise, obtaining and/or using solutions from previous years or from the internet, if such happen to be available, is considered cheating.
 
-Beyond the templates or starting code provided by the teaching staff, 
-any writing, code, media, or other submissions not explicitly identified 
-as AI-generated will be assumed as original to the student. Submitting 
-AI-generated work without identifying it as such will be considered a 
-violation of the [Code of Student Conduct](https://conduct.berkeley.edu/wp-content/uploads/2023/07/Code_of_Conduct-July_2023.pdf).
+Beyond the templates or starting code provided by the teaching staff, any writing, code, media, or other submissions not explicitly identified as AI-generated will be assumed as original to the student. Submitting AI-generated work without identifying it as such will be considered a violation of the [Code of Student Conduct](https://conduct.berkeley.edu/wp-content/uploads/2023/07/Code_of_Conduct-July_2023.pdf).
 
-Cheating will not be tolerated. Any evidence of academic misconduct will 
-result in a score of zero (0) on the entire assignment or examination, 
-and a failing letter grade. We will always report incidences of cheating 
-to the [Center for Student Conduct](http://sa.berkeley.edu/conduct).
+Cheating will not be tolerated. Any evidence of academic misconduct will result in a score of zero (0) on the entire assignment or examination, and a failing letter grade. We will always report incidences of cheating to the [Center for Student Conduct](http://sa.berkeley.edu/conduct).
 
-If you are having trouble with an assignment or studying for an exam, or 
-if you are uncertain about permissible and impermissible conduct or 
-collaboration, please contact us.
+If you are having trouble with an assignment or studying for an exam, or if you are uncertain about permissible and impermissible conduct or collaboration, please contact us.
 
-Rather than copying someone else's work, ask for help. You are not alone 
-in this course! The course staff is here to help you succeed. If you invest 
-the time to learn the material and complete the projects, you won't need to copy any answers.
-
-
-
-## ✉️ Email Policy
-
-If you wish for your email to make it into our inbox, the subject of your 
-email must contain the text: __Stat 33B__.
-
-Please refer to my email guidelines for more information: [communication via email](./email.html)
- 
-
+Rather than copying someone else's work, ask for help. You are not alone in this course! The course staff is here to help you succeed. If you invest the time to learn the material and complete the projects, you won't need to copy any answers.
 
 ## 🚸 Special Accommodations
 
-Students needing accommodations for any physical, psychological, or 
-learning disability, should contact the teaching staff during the first 
-two weeks of the semester,  and see <http://dsp.berkeley.edu> to learn 
-about Berkeley's policy. If you are a DSP student, please contact us at 
-least three weeks prior to a midterm or final so that we can work out acceptable accommodations.
+Students needing accommodations for any physical, psychological, or learning disability, should contact the teaching staff during the first two weeks of the semester,  and see <http://dsp.berkeley.edu> to learn about Berkeley's policy. If you are a DSP student, please contact us at least three weeks prior to a midterm or final so that we can work out acceptable accommodations.
 
-For relevant DSP accommodations that provide occasional extensions on 
-assignments, please see the above [Late Policy](#late-policy).
-
-
+For relevant DSP accommodations that provide occasional extensions on assignments, please see the above [Late Policy](#late-policy).
 
 ## ❗Incomplete Grade
 
-Under emergency/special circumstances, students may petition me to receive 
-an Incomplete grade. By University policy, for a student to get an Incomplete 
-requires (i) that the student was performing **passing-level work** until the time 
-that (ii) something happened that---through no fault of the student---prevented 
-the student from completing the coursework. If you take the final, you completed 
-the course, even if you took it while ill, exhausted, mourning, etc. 
+Under emergency/special circumstances, students may petition me to receive an Incomplete grade. By University policy, for a student to get an Incomplete requires (i) that the student was performing **passing-level work** until the time that (ii) something happened that---through no fault of the student---prevented the student from completing the coursework. If you take the final, you completed the course, even if you took it while ill, exhausted, mourning, etc. 
 
-The time to talk to me about incomplete grades is **BEFORE you take the final** 
-(several weeks before), when the situation that prevents you from finishing 
-the course presents itself. Please clearly state your reasoning in your comments to me.
+The time to talk to me about incomplete grades is **BEFORE you take the final** (several weeks before if possible), when the situation that prevents you from finishing the course presents itself. Please clearly state your reasoning in your comments to me.
 
-It is your responsibility to develop good time management skills, good 
-studying habits, know your limits, and learn to ask for professional help. 
-Life happens. Social, family, cultural, scholar, and individual circumstances 
-can affect your performance (both positive and negatively). If you find 
-yourself in a situation that raises concerns about passing the course, 
-please contact me as soon as possible.
+It is your responsibility to develop good time management skills, good studying habits, know your limits, and learn to ask for professional help. Life happens. Social, family, cultural, scholar, and individual circumstances can affect your performance (both positive and negatively). If you find yourself in a situation that raises concerns about passing the course, please contact me as soon as possible.
 
-**Above all, please-please-please do not wait till the end of the semester to 
-share your concerns about passing the course because it will be too late by then.**
-
-
+**Above all, please-please-please do not wait till the end of the semester to share your concerns about passing the course because it will be too late by then.**
 
 ## 🌻 Safe and Inclusive Environment
 
-Whenever a faculty member, staff member, post-doc, or GSI is responsible 
-for the supervision of a student, a personal relationship between them 
-of a romantic or sexual nature, even if consensual, is against university policy. 
-Any such relationship jeopardizes the integrity of the educational process.
+Whenever a faculty member, staff member, post-doc, or GSI is responsible for the supervision of a student, a personal relationship between them of a romantic or sexual nature, even if consensual, is against university policy. Any such relationship jeopardizes the integrity of the educational process. Although faculty and staff can act as excellent resources for students, you should be aware that they are required to report any violations of this campus policy. If you wish to have a confidential discussion on matters related to this policy, you may contact the Confidential Care Advocates on campus for support related to counseling or sensitive issues. Appointments can be made by calling (510) 642-1988.
 
-Although faculty and staff can act as excellent resources for students, 
-you should be aware that they are required to report any violations of 
-this campus policy. If you wish to have a confidential discussion on matters 
-related to this policy, you may contact the Confidential Care Advocates on campus 
-for support related to counseling or sensitive issues. Appointments can be made 
-by calling (510) 642-1988.
-
-The classroom, lab, and work place should be safe and inclusive environments 
-for everyone. The Office for the Prevention of Harassment and Discrimination 
-(OPHD) is responsible for ensuring the University provides an environment 
-for faculty, staff and students that is free from discrimination and 
-harassment on the basis of categories including race, color, national origin, 
-age, sex, gender, gender identity, and sexual orientation. Questions or concerns? 
-Call (510) 643-7985, email <ask_ophd@berkeley.edu>, or go to <https://svsh.berkeley.edu/>.
-
-
+The classroom, lab, and work place should be safe and inclusive environments for everyone. The Office for the Prevention of Harassment and Discrimination (OPHD) is responsible for ensuring the University provides an environment for faculty, staff and students that is free from discrimination and harassment on the basis of categories including race, color, national origin, age, sex, gender, gender identity, and sexual orientation. Questions or concerns? Call (510) 643-7985, email <ask_ophd@berkeley.edu>, or go to <https://svsh.berkeley.edu/>.
 
 ## 🎉 Last But Not Least
 
