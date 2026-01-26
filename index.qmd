@@ -13,10 +13,10 @@ listing:
 :::
 
 
-::: {.callout-note title="Announcements 📣"}
+<!--::: {.callout-note title="Announcements 📣"}
 
 Final Exam on Thu Dec-18th, 3-6PM, in Latimer 120
-:::
+::: -->
 
 
 ## Schedule 📅

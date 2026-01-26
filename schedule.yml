@@ -2,6 +2,17 @@
   days:
     - date: "About"
       items:
+        - type: #"Overview"
+          id: ""
+          name: "No Classes this week"
+    - date: "Jan 21"
+      items:
+        - type: "Worksheet"
+          name: "No Lab today"
+- week: 2
+  days:
+    - date: "About"
+      items:
         - type: "Overview"
           id: ""
           name: "Unit 1: Introduction"
@@ -13,416 +24,448 @@
           auxil:
             id: "A bit of history about R (pdf)"
             href: "slides/01b-a-bit-of-history-about-R.pdf"
-    - date: "Aug 27"
+    - date: "Jan 26"
       items:
         - type: "Lecture"
           id: ""
           name: "Course Policies, Syllabus, etc"
           href: ""
-    - date: "Aug 29"
+    - date: "Jan 28"
       items:
         - type: "Worksheet"
           name: "WS 1: Introduction (in section)"
           href: ""
         - type: "Homework"
           id: ""
-          name: "HW 1: Quarto notebooks (due 9/02)"
-          href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8926266"
-- week: 2
-  days:
-    - date: "About"
-      items:
-        - type: "Overview"
-          id: ""
-          name: "Unit 2: Vectors and factors"
-          href: "./units/unit2.html"
-        - type: "Slides"
-          id: ""
-          name: "Introduction to Vectors (pdf)"
-          href: "slides/02a-vectors-intro.pdf"
-          auxil:
-            id: "Subsetting Vectors (pdf)"
-            href: "slides/02b-vectors-subsetting.pdf"
-        - type: "Additional"
-          id: ""
-          name: "Introduction to Factors (pdf)"
-          href: "slides/02c-factors.pdf"
-    - date: "Sep 3"
-      items:
-        - type: "Lecture"
-          id: ""
-          name: "A Bit of Financial Math"
-          href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=92016611"
-    - date: "Sep 5"
-      items:
-        - type: "Worksheet"
-          name: "WS 2: Vectors and Factors (in section)"
-          href: ""
-        - type: "Homework"
-          id: ""
-          name: "HW 2: Vectors (avail due 9/09)"
-          href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8926267"
-- week: 3
-  days:
-    - date: "About"
-      items:
-        - type: "Overview"
-          id: ""
-          name: "Unit 3: Matrices and Lists"
-          href: "./units/unit3.html"
-        - type: "Slides"
-          id: ""
-          name: "Matrices (pdf)"
-          href: "slides/03a-matrices.pdf"
-          auxil:
-            id: "Lists (pdf)"
-            href: "slides/03b-lists.pdf"
-    - date: "Sep 10"
-      items:
-        - type: "Lecture"
-          id: ""
-          name: "A Bit of Matrix Decompositions"
-          href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=92020177"
-    - date: "Sep 12"
-      items:
-        - type: "Worksheet"
-          name: "WS 3: Matrices and Lists (in section)"
-          href: ""
-        - type: "Homework"
-          id: ""
-          name: "HW 3: Matrices and Lists (due 9/16)"
-          href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8926268"
-- week: 4
-  days:
-    - date: "About"
-      items:
-        - type: "Overview"
-          id: ""
-          name: "Unit 4: Data Frames"
-          href: "./units/unit4.html"
-        - type: "Slides"
-          id: ""
-          name: "Data Frames (pdf)"
-          href: "slides/04a-data-frames.pdf"
-          auxil:
-            id: "Importing Tables (pdf)"
-            href: "slides/04b-import-tables.pdf"
-    - date: "Sep 17"
-      items:
-        - type: "Lecture"
-          id: ""
-          name: "Data Frames and Tables"
-          href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=92020176"
-    - date: "Sep 19"
-      items:
-        - type: "Worksheet"
-          name: "WS 4: Data Frames (in section)"
-          href: ""
-        - type: "Homework"
-          id: ""
-          name: "HW 4: Data Frames (due 9/23)"
-          href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8926269"
-- week: 5
-  days:
-    - date: "About"
-      items:
-        - type: "Overview"
-          id: ""
-          name: "Unit 5: Tidyverse part 1"
-          href: "./units/unit5.html"
-        - type: "Slides"
-          id: ""
-          name: "Intro to dplyr (pdf)"
-          href: "slides/05a-intro-to-dplyr.pdf"
-    - date: "Sep 24"
-      items:
-        - type: "Lecture"
-          id: ""
-          name: "Data wrangling with dplyr"
-          href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=92626309"
-    - date: "Sep 26"
-      items:
-        - type: "Worksheet"
-          id: ""
-          name: "WS 5: tidyverse (in section)"
-          href: ""
-        - type: "Homework"
-          id: ""
-          name: "HW 5: Tidyverse 1 (due 9/30)"
-          href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8926270"
-- week: 6
-  days:
-    - date: "About"
-      items:
-        - type: "Overview"
-          id: ""
-          name: "Unit 6: Tidyverse part 2"
-          href: "./units/unit6.html"
-        - type: "Slides"
-          id: ""
-          name: "Intro to ggplot (pdf)"
-          href: "slides/06a-intro-to-ggplot.pdf"
-    - date: "Oct 1"
-      items:
-        - type: "Lecture"
-          id: ""
-          name: "Graphics with ggplot2"
-          href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=92694864"
-    - date: "Oct 3"
-      items:
-        - type: "Worksheet"
-          id: ""
-          name: "WS 6: dplyr (in section)"
-          href: ""
-        - type: "Homework"
-          id: ""
-          name: "HW 6: Tidyverse 2 (due 10/7)"
-          href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8926271"
-- week: 7
-  days:
-    - date: "About"
-      items:
-        - type: "Overview"
-          id: ""
-          name: "Unit 7: Tidyverse part 3"
-          href: "./units/unit7.html"
-        - type: "Slides"
-          id: ""
-          name: "More dplyr and tidyr (pdf)"
-          href: "slides/06b-more-dplyr.pdf"
-    - date: "Oct 8"
-      items:
-        - type: "Lecture"
-          id: ""
-          name: "Choropleth Maps"
-          href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=92053410"
-    - date: "Oct 10"
-      items:
-        - type: "Worksheet"
-          id: ""
-          name: "WS 7: ggplot (in section)"
-          href: ""
-        - type: "Homework"
-          id: ""
-          name: "HW 7: Tidyverse 3 (due 10/21)"
-          href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8928052"
-- week: 8
-  days:
-    - date: "About"
-      items:
-        - type: "Overview"
-          id: ""
-          name: "Unit 8: Midterm"
-          href: "./units/unit8.html"
-    - date: "Oct 15"
-      items:
-        - type: "Midterm"
-          id: ""
-          name: "Midterm Test"
-          href: ""
-    - date: "Oct 17"
-      items:
-        - type: "Worksheet"
-          id: ""
-          name: "WS 8: plots with gganimate"
-          href: ""
-        - type: "Homework"
-          id: ""
-          name: "No HW 8"
-          href: ""
-- week: 9
-  days:
-    - date: "About"
-      items:
-        - type: "Overview"
-          id: ""
-          name: "Unit 9: Conditional Statements"
-          href: "./units/unit9.html"
-        - type: "Slides"
-          id: ""
-          name: "Conditionals (pdf)"
-          href: "slides/09-conditionals.pdf"
-    - date: "Oct 22"
-      items:
-        - type: "Lecture"
-          id: ""
-          name: "Conditional Statements"
-          href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=92053506"
-    - date: "Oct 24"
-      items:
-        - type: "Worksheet"
-          id: ""
-          name: "WS 9: Conditionals (in section)"
-          href: ""
-        - type: "Homework"
-          id: ""
-          name: "HW 9: Conditionals (due 10/28)"
-          href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8929107"
-- week: 10
-  days:
-    - date: "About"
-      items:
-        - type: "Overview"
-          id: ""
-          name: "Unit 10: Iterations"
-          href: "./units/unit10.html"
-        - type: "Slides"
-          id: ""
-          name: "Iterations and Loops (pdf)"
-          href: "slides/10-iterations.pdf"
-    - date: "Oct 29"
-      items:
-        - type: "Lecture"
-          id: ""
-          name: "Iterations and Loops"
-          href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=92169209"
-    - date: "Oct 31"
-      items:
-        - type: "Worksheet"
-          id: ""
-          name: "WS 10: Iterations (in section)"
-          href: ""
-        - type: "Homework"
-          id: ""
-          name: "HW 10: Iterations (due 11/04)"
-          href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8929108"
-- week: 11
-  days:
-    - date: "About"
-      items:
-        - type: "Overview"
-          id: ""
-          name: "Unit 11: Functions"
-          href: "./units/unit11.html"
-        - type: "Slides"
-          id: ""
-          name: "Functions (pdf)"
-          href: "slides/11-functions.pdf"
-    - date: "Nov 5"
-      items:
-        - type: "Lecture"
-          id: ""
-          name: "About R functions"
-          href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=93044356"
-    - date: "Nov 7"
-      items:
-        - type: "Worksheet"
-          id: ""
-          name: "WS 11: Functions (in section)"
-          href: ""
-        - type: "Homework"
-          id: ""
-          name: "HW 11: Functions (due 11/12)"
-          href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8929109"
-- week: 12
-  days:
-    - date: "About"
-      items:
-        - type: "Overview"
-          id: ""
-          name: "Unit 12: Bindings and Environments"
-          href: "./units/unit12.html"
-        - type: "Slides"
-          id: ""
-          name: "Names, Values and Environments (pdf)"
-          href: "slides/12-names-values-environments.pdf"
-    - date: "Nov 12"
-      items:
-        - type: "Lecture"
-          id: ""
-          name: "Bindings and Environments"
-          href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=93012460"
-    - date: "Nov 14"
-      items:
-        - type: "Worksheet"
-          id: ""
-          name: "WS 12: Bindings and environments (in section)"
-          href: ""
-        - type: "Homework"
-          id: ""
-          name: "HW 12: Bindigns and Envs (due 11/18)"
-          href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8929111"
-- week: 13
-  days:
-    - date: "About"
-      items:
-        - type: "Overview"
-          id: ""
-          name: "Unit 13: Scoping"
-          href: "./units/unit13.html"
-        - type: "Slides"
-          id: ""
-          name: "Scoping Principles (pdf)"
-          href: "slides/13-functions-scoping.pdf"
-    - date: "Nov 19"
-      items:
-        - type: "Lecture"
-          id: ""
-          name: "Scoping Rules"
-          href: ""
-    - date: "Nov 21"
-      items:
-        - type: "Worksheet"
-          id: ""
-          name: "WS 13: Scoping (in section)"
-          href: ""
-        - type: "Homework"
-          id: ""
-          name: "HW 13: Scoping (due 12/02)"
-          href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8929110"
-- week: "Thanksgiving Break"
-  days:
-    - date: "Nov 26"
-      items:
-        - type: "Lectur2"
-          id: ""
-          name: "Thanksgiving"
-          href: ""
-    - date: "Nov 28"
-      items:
-        - type: "Lectur2"
-          id: ""
-          name: "Thanksgiving"
-          href: ""
-- week: 14
-  days:
-    - date: "About"
-      items:
-        - type: "Overview"
-          id: ""
-          name: "Unit 14: Performance"
-          href: "./units/unit14.html"
-        - type: "Slides"
-          id: ""
-          name: "Performance and Profiling (pdf)"
-          href: "slides/14-performace-profiling.pdf"
-    - date: "Dec 3"
-      items:
-        - type: "Lecture"
-          id: ""
-          name: "Timing and Profiling Code"
-          href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=93305198"
-    - date: "Dec 5"
-      items:
-        - type: "Worksheet"
-          id: ""
-          name: "WS 14: Performance (in section)"
-          href: ""
-        - type: "Homework"
-          id: ""
-          name: "HW 14: Performance and Profiling (due 12/09)"
-          href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8929112"
-- week: 15
-  days:
-    - date: "About"
-      items:
-        - type: "Overview"
-          id: ""
-          name: "RRR Week"
-- week: 16
-  days:
-    - date: "Dec 18"
-      items:
-        - type: "Final"
-          id: ""
-          name: "Final Exam 12/18 (3-6pm)"
+          name: "HW 1: Quarto notebooks (due 02/01)"
+          href: #"https://bcourses.berkeley.edu/courses/1546288/assignments/8926266"
+
+
+# - week: 1
+#   days:
+#     - date: "About"
+#       items:
+#         - type: "Overview"
+#           id: ""
+#           name: "Unit 1: Introduction"
+#           href: "./units/unit1.html"
+#         - type: "Slides"
+#           id: ""
+#           name: "Starting with R and RStudio (pdf) "
+#           href: "slides/01a-getting-started-with-R-and-RStudio.pdf"
+#           auxil:
+#             id: "A bit of history about R (pdf)"
+#             href: "slides/01b-a-bit-of-history-about-R.pdf"
+#     - date: "Aug 27"
+#       items:
+#         - type: "Lecture"
+#           id: ""
+#           name: "Course Policies, Syllabus, etc"
+#           href: ""
+#     - date: "Aug 29"
+#       items:
+#         - type: "Worksheet"
+#           name: "WS 1: Introduction (in section)"
+#           href: ""
+#         - type: "Homework"
+#           id: ""
+#           name: "HW 1: Quarto notebooks (due 9/02)"
+#           href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8926266"
+# - week: 2
+#   days:
+#     - date: "About"
+#       items:
+#         - type: "Overview"
+#           id: ""
+#           name: "Unit 2: Vectors and factors"
+#           href: "./units/unit2.html"
+#         - type: "Slides"
+#           id: ""
+#           name: "Introduction to Vectors (pdf)"
+#           href: "slides/02a-vectors-intro.pdf"
+#           auxil:
+#             id: "Subsetting Vectors (pdf)"
+#             href: "slides/02b-vectors-subsetting.pdf"
+#         - type: "Additional"
+#           id: ""
+#           name: "Introduction to Factors (pdf)"
+#           href: "slides/02c-factors.pdf"
+#     - date: "Sep 3"
+#       items:
+#         - type: "Lecture"
+#           id: ""
+#           name: "A Bit of Financial Math"
+#           href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=92016611"
+#     - date: "Sep 5"
+#       items:
+#         - type: "Worksheet"
+#           name: "WS 2: Vectors and Factors (in section)"
+#           href: ""
+#         - type: "Homework"
+#           id: ""
+#           name: "HW 2: Vectors (avail due 9/09)"
+#           href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8926267"
+# - week: 3
+#   days:
+#     - date: "About"
+#       items:
+#         - type: "Overview"
+#           id: ""
+#           name: "Unit 3: Matrices and Lists"
+#           href: "./units/unit3.html"
+#         - type: "Slides"
+#           id: ""
+#           name: "Matrices (pdf)"
+#           href: "slides/03a-matrices.pdf"
+#           auxil:
+#             id: "Lists (pdf)"
+#             href: "slides/03b-lists.pdf"
+#     - date: "Sep 10"
+#       items:
+#         - type: "Lecture"
+#           id: ""
+#           name: "A Bit of Matrix Decompositions"
+#           href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=92020177"
+#     - date: "Sep 12"
+#       items:
+#         - type: "Worksheet"
+#           name: "WS 3: Matrices and Lists (in section)"
+#           href: ""
+#         - type: "Homework"
+#           id: ""
+#           name: "HW 3: Matrices and Lists (due 9/16)"
+#           href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8926268"
+# - week: 4
+#   days:
+#     - date: "About"
+#       items:
+#         - type: "Overview"
+#           id: ""
+#           name: "Unit 4: Data Frames"
+#           href: "./units/unit4.html"
+#         - type: "Slides"
+#           id: ""
+#           name: "Data Frames (pdf)"
+#           href: "slides/04a-data-frames.pdf"
+#           auxil:
+#             id: "Importing Tables (pdf)"
+#             href: "slides/04b-import-tables.pdf"
+#     - date: "Sep 17"
+#       items:
+#         - type: "Lecture"
+#           id: ""
+#           name: "Data Frames and Tables"
+#           href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=92020176"
+#     - date: "Sep 19"
+#       items:
+#         - type: "Worksheet"
+#           name: "WS 4: Data Frames (in section)"
+#           href: ""
+#         - type: "Homework"
+#           id: ""
+#           name: "HW 4: Data Frames (due 9/23)"
+#           href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8926269"
+# - week: 5
+#   days:
+#     - date: "About"
+#       items:
+#         - type: "Overview"
+#           id: ""
+#           name: "Unit 5: Tidyverse part 1"
+#           href: "./units/unit5.html"
+#         - type: "Slides"
+#           id: ""
+#           name: "Intro to dplyr (pdf)"
+#           href: "slides/05a-intro-to-dplyr.pdf"
+#     - date: "Sep 24"
+#       items:
+#         - type: "Lecture"
+#           id: ""
+#           name: "Data wrangling with dplyr"
+#           href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=92626309"
+#     - date: "Sep 26"
+#       items:
+#         - type: "Worksheet"
+#           id: ""
+#           name: "WS 5: tidyverse (in section)"
+#           href: ""
+#         - type: "Homework"
+#           id: ""
+#           name: "HW 5: Tidyverse 1 (due 9/30)"
+#           href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8926270"
+# - week: 6
+#   days:
+#     - date: "About"
+#       items:
+#         - type: "Overview"
+#           id: ""
+#           name: "Unit 6: Tidyverse part 2"
+#           href: "./units/unit6.html"
+#         - type: "Slides"
+#           id: ""
+#           name: "Intro to ggplot (pdf)"
+#           href: "slides/06a-intro-to-ggplot.pdf"
+#     - date: "Oct 1"
+#       items:
+#         - type: "Lecture"
+#           id: ""
+#           name: "Graphics with ggplot2"
+#           href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=92694864"
+#     - date: "Oct 3"
+#       items:
+#         - type: "Worksheet"
+#           id: ""
+#           name: "WS 6: dplyr (in section)"
+#           href: ""
+#         - type: "Homework"
+#           id: ""
+#           name: "HW 6: Tidyverse 2 (due 10/7)"
+#           href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8926271"
+# - week: 7
+#   days:
+#     - date: "About"
+#       items:
+#         - type: "Overview"
+#           id: ""
+#           name: "Unit 7: Tidyverse part 3"
+#           href: "./units/unit7.html"
+#         - type: "Slides"
+#           id: ""
+#           name: "More dplyr and tidyr (pdf)"
+#           href: "slides/06b-more-dplyr.pdf"
+#     - date: "Oct 8"
+#       items:
+#         - type: "Lecture"
+#           id: ""
+#           name: "Choropleth Maps"
+#           href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=92053410"
+#     - date: "Oct 10"
+#       items:
+#         - type: "Worksheet"
+#           id: ""
+#           name: "WS 7: ggplot (in section)"
+#           href: ""
+#         - type: "Homework"
+#           id: ""
+#           name: "HW 7: Tidyverse 3 (due 10/21)"
+#           href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8928052"
+# - week: 8
+#   days:
+#     - date: "About"
+#       items:
+#         - type: "Overview"
+#           id: ""
+#           name: "Unit 8: Midterm"
+#           href: "./units/unit8.html"
+#     - date: "Oct 15"
+#       items:
+#         - type: "Midterm"
+#           id: ""
+#           name: "Midterm Test"
+#           href: ""
+#     - date: "Oct 17"
+#       items:
+#         - type: "Worksheet"
+#           id: ""
+#           name: "WS 8: plots with gganimate"
+#           href: ""
+#         - type: "Homework"
+#           id: ""
+#           name: "No HW 8"
+#           href: ""
+# - week: 9
+#   days:
+#     - date: "About"
+#       items:
+#         - type: "Overview"
+#           id: ""
+#           name: "Unit 9: Conditional Statements"
+#           href: "./units/unit9.html"
+#         - type: "Slides"
+#           id: ""
+#           name: "Conditionals (pdf)"
+#           href: "slides/09-conditionals.pdf"
+#     - date: "Oct 22"
+#       items:
+#         - type: "Lecture"
+#           id: ""
+#           name: "Conditional Statements"
+#           href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=92053506"
+#     - date: "Oct 24"
+#       items:
+#         - type: "Worksheet"
+#           id: ""
+#           name: "WS 9: Conditionals (in section)"
+#           href: ""
+#         - type: "Homework"
+#           id: ""
+#           name: "HW 9: Conditionals (due 10/28)"
+#           href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8929107"
+# - week: 10
+#   days:
+#     - date: "About"
+#       items:
+#         - type: "Overview"
+#           id: ""
+#           name: "Unit 10: Iterations"
+#           href: "./units/unit10.html"
+#         - type: "Slides"
+#           id: ""
+#           name: "Iterations and Loops (pdf)"
+#           href: "slides/10-iterations.pdf"
+#     - date: "Oct 29"
+#       items:
+#         - type: "Lecture"
+#           id: ""
+#           name: "Iterations and Loops"
+#           href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=92169209"
+#     - date: "Oct 31"
+#       items:
+#         - type: "Worksheet"
+#           id: ""
+#           name: "WS 10: Iterations (in section)"
+#           href: ""
+#         - type: "Homework"
+#           id: ""
+#           name: "HW 10: Iterations (due 11/04)"
+#           href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8929108"
+# - week: 11
+#   days:
+#     - date: "About"
+#       items:
+#         - type: "Overview"
+#           id: ""
+#           name: "Unit 11: Functions"
+#           href: "./units/unit11.html"
+#         - type: "Slides"
+#           id: ""
+#           name: "Functions (pdf)"
+#           href: "slides/11-functions.pdf"
+#     - date: "Nov 5"
+#       items:
+#         - type: "Lecture"
+#           id: ""
+#           name: "About R functions"
+#           href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=93044356"
+#     - date: "Nov 7"
+#       items:
+#         - type: "Worksheet"
+#           id: ""
+#           name: "WS 11: Functions (in section)"
+#           href: ""
+#         - type: "Homework"
+#           id: ""
+#           name: "HW 11: Functions (due 11/12)"
+#           href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8929109"
+# - week: 12
+#   days:
+#     - date: "About"
+#       items:
+#         - type: "Overview"
+#           id: ""
+#           name: "Unit 12: Bindings and Environments"
+#           href: "./units/unit12.html"
+#         - type: "Slides"
+#           id: ""
+#           name: "Names, Values and Environments (pdf)"
+#           href: "slides/12-names-values-environments.pdf"
+#     - date: "Nov 12"
+#       items:
+#         - type: "Lecture"
+#           id: ""
+#           name: "Bindings and Environments"
+#           href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=93012460"
+#     - date: "Nov 14"
+#       items:
+#         - type: "Worksheet"
+#           id: ""
+#           name: "WS 12: Bindings and environments (in section)"
+#           href: ""
+#         - type: "Homework"
+#           id: ""
+#           name: "HW 12: Bindigns and Envs (due 11/18)"
+#           href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8929111"
+# - week: 13
+#   days:
+#     - date: "About"
+#       items:
+#         - type: "Overview"
+#           id: ""
+#           name: "Unit 13: Scoping"
+#           href: "./units/unit13.html"
+#         - type: "Slides"
+#           id: ""
+#           name: "Scoping Principles (pdf)"
+#           href: "slides/13-functions-scoping.pdf"
+#     - date: "Nov 19"
+#       items:
+#         - type: "Lecture"
+#           id: ""
+#           name: "Scoping Rules"
+#           href: ""
+#     - date: "Nov 21"
+#       items:
+#         - type: "Worksheet"
+#           id: ""
+#           name: "WS 13: Scoping (in section)"
+#           href: ""
+#         - type: "Homework"
+#           id: ""
+#           name: "HW 13: Scoping (due 12/02)"
+#           href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8929110"
+# - week: "Thanksgiving Break"
+#   days:
+#     - date: "Nov 26"
+#       items:
+#         - type: "Lectur2"
+#           id: ""
+#           name: "Thanksgiving"
+#           href: ""
+#     - date: "Nov 28"
+#       items:
+#         - type: "Lectur2"
+#           id: ""
+#           name: "Thanksgiving"
+#           href: ""
+# - week: 14
+#   days:
+#     - date: "About"
+#       items:
+#         - type: "Overview"
+#           id: ""
+#           name: "Unit 14: Performance"
+#           href: "./units/unit14.html"
+#         - type: "Slides"
+#           id: ""
+#           name: "Performance and Profiling (pdf)"
+#           href: "slides/14-performace-profiling.pdf"
+#     - date: "Dec 3"
+#       items:
+#         - type: "Lecture"
+#           id: ""
+#           name: "Timing and Profiling Code"
+#           href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=93305198"
+#     - date: "Dec 5"
+#       items:
+#         - type: "Worksheet"
+#           id: ""
+#           name: "WS 14: Performance (in section)"
+#           href: ""
+#         - type: "Homework"
+#           id: ""
+#           name: "HW 14: Performance and Profiling (due 12/09)"
+#           href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8929112"
+# - week: 15
+#   days:
+#     - date: "About"
+#       items:
+#         - type: "Overview"
+#           id: ""
+#           name: "RRR Week"
+# - week: 16
+#   days:
+#     - date: "Dec 18"
+#       items:
+#         - type: "Final"
+#           id: ""
+#           name: "Final Exam 12/18 (3-6pm)"
