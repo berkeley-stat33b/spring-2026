@@ -84,5 +84,3 @@ title: "Staff"
 **In general, please use [Ed](https://estem.org) to communicate with the course staff.** 
 
 Unless otherwise indicated, email should only be used for private concerns directed to a specific member of the teaching staff. 
-
-:::

@@ -4,23 +4,19 @@ title: "About"
 
 ::: {.callout-note}
 ## Info
-__Instructor__: <a href='https://www.gastonsanchez.com' target='_blank'>Gaston Sanchez</a>
 
-__Lecture__: Wed 2pm-3pm in [Latimer 120](https://www.berkeley.edu/map/latimer-hall/)
+__Lecture__: Mon 3pm-4pm in [Hearst Mining 390](https://rtl.berkeley.edu/classroom-database/hearst-mining-0390)
 
 __Lab__:
 
-- Lab 101, Fri 9am-10am, Evans 342 (GSI Brian)
-- Lab 102, Fri 10am-11am, Evans 342 (GSI Brian)
-- Lab 103, Fri 1pm-2pm, Evans 342 (GSI Brian)
-- Lab 104, Fri 2pm-3pm, Evans 342 (GSI Brian)
-
-
-__Code #__: 23941
+- Lab 101, Wed 9am-10am, Evans 344
+- Lab 102, Wed 10am-11am, Evans 344
+- Lab 103, Wed 1pm-2pm, Evans 344
+- Lab 104, Wed 2pm-3pm, Evans 334
 
 __Units__: 1
 
-__Final Exam__: Thr Dec-18th, 3pm-6pm, location TBD.
+__Final Exam__: Wed May 13th, 7pm-10pm, location TBD.
 :::
 
 
@@ -37,7 +33,6 @@ that underlies the R language with the goal of providing a foundation for furthe
 - [Schedule](.)
 - [Syllabus](./syllabus.html)
 - [Staff](./staff.html)
-- [Communication via email](./email.html)
 - [Ed Netiquette](./ed-netiquette.html)
 - [Q&As](./faqs.html)
 

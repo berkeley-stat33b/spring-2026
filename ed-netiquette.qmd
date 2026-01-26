@@ -15,8 +15,6 @@ In order to make Ed-Discussion a better resource for everyone, we've outlined so
 
 - We want to make sure that you are helping each other out, and having instructors give away the answers isn't the most beneficial for your education either.
 
-
-
 ## Keep in mind common rules of netiquette
 
 - Don't post irrelevant links, comments, thoughts or pictures.
@@ -24,8 +22,6 @@ In order to make Ed-Discussion a better resource for everyone, we've outlined so
 - Don't type in ALL CAPS! If you do it will look like you are screaming.
 
 - Don't write anything that sounds angry or sarcastic even as a joke, because without hearing your tone of voice, your peers might not realize you're joking.
-
-- Always remember to say "please" and "thank you" when soliciting help from your classmates.
 
 - Respect the opinion of your classmates. If you feel the need to disagree, do so respectfully and acknowledge the valid points in your classmate's argument.
 
@@ -41,14 +37,6 @@ In order to make Ed-Discussion a better resource for everyone, we've outlined so
 
 - Don't expect other people to do your homework for you. If you're looking for technical help, for example, don't ask questions you could easily answer yourself by reading the manual or help documentation provided with the software tools used in this course.
 
-
-
-## Ask Lab and HW questions only in the designated Lab and HW posts
-
-We've created individual posts for each type of assignment. Please ask questions, discuss problems, or help out in those posts only. Before asking a question, read through (or search) the whole thread to see if your question has been answered. Likewise, stay on topic.
-
-
-
 ## Do NOT post answers in discussion forums
 
 Please don't give away the answer on any discussion forum. You can explain things in a way that still lets other students figure out the essence of the problem on their own, but don't spoil the problem. For example, don't point to a useful stackoverflow or YouTube link that works out essentially what the problem is asking about.
@@ -56,7 +44,6 @@ Please don't give away the answer on any discussion forum. You can explain thing
 That is not cool.
 
 Post such spoilers after the HW is due. That is totally fine. If you are not sure, post privately to instructors and then we'll let you know.
-
 
 
 ## Ask questions about assignments only
