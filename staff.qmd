@@ -16,7 +16,7 @@ title: "Staff"
 :::
 
 ::: {.g-col-4}
-<img src="assets/van-headshot.jpg" width="200"><br>
+<img src="assets/thong-headshot.jpg" width="200"><br>
 **GSI**: <a href="https://bse.berkeley.edu/thong-trinh" target="_blank">Thong Trinh</a><br>
 `thong at berkeley dot edu`<br>
 <!-- Office hours:<br> -->
