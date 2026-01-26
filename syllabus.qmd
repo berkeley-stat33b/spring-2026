@@ -4,7 +4,7 @@ title: "Syllabus"
 
 **N.B. Syllabus subject to change.**
 
-**Students in Stat 131A are expected to have read the syllabus in its entirety by the second week of the course.**
+**Students in Stat 33B are expected to have read the syllabus in its entirety by the second week of the course.**
 
 ## Description
 
@@ -130,7 +130,7 @@ Unfortunately, doing all the work is not a guarantee of enrollment. You will onl
 **PLEASE, DO NOT COME TO CLASS IF YOU THINK YOU MIGHT BE SICK! EVEN A LITTLE!!!**
 
 - You'll recover more slowly, get other people sick, and lose lecture time, OH, group tutoring and in general make the class harder and less useful for yourself and everyone else.
-- **we are a mask friendly class**
+- **we are a mask-friendly class**
 
 - Attending section every week is an essential part of the course and you will be provided with printed worksheets to apply your knowledge by working through questions solo or in groups, and also to start working on the weekly coding assignments.
 - You must attend the lab section you are officially enrolled in.
