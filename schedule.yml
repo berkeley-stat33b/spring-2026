@@ -27,7 +27,7 @@
     - date: "Jan 26"
       items:
         - type: "Lecture"
-          id: ""
+          id: "1"
           name: "Course Policies, Syllabus, etc"
           href: ""
     - date: "Jan 28"
@@ -39,7 +39,40 @@
           id: ""
           name: "HW 1: Quarto notebooks (due 02/01)"
           href: #"https://bcourses.berkeley.edu/courses/1546288/assignments/8926266"
-
+- week: 2
+  days:
+    - date: "About"
+      items:
+        - type: "Overview"
+          id: ""
+          name: "Unit 2: Vectors and factors"
+          href: "./units/unit2.html"
+        - type: "Slides"
+          id: ""
+          name: "Introduction to Vectors (pdf)"
+          href: "slides/02a-vectors-intro.pdf"
+          auxil:
+            id: "Subsetting Vectors (pdf)"
+            href: "slides/02b-vectors-subsetting.pdf"
+        - type: "Additional"
+          id: ""
+          name: "Introduction to Factors (pdf)"
+          href: "slides/02c-factors.pdf"
+    - date: "Sep 3"
+      items:
+        - type: "Lecture"
+          id: "2"
+          name: "A Bit of Financial Math"
+          href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=92016611"
+    - date: "Sep 5"
+      items:
+        - type: "Worksheet"
+          name: "WS 2: Vectors and Factors (in section)"
+          href: ""
+        - type: "Homework"
+          id: ""
+          name: "HW 2: Vectors (avail due 9/09)"
+          href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8926267"
 
 # - week: 1
 #   days:
