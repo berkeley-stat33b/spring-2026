@@ -62,8 +62,8 @@
       items:
         - type: "Lecture"
           id: "2"
-          name: "A Bit of Financial Math"
-          href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=92016611"
+          name: "Demo"
+          href: "https://bcourses.berkeley.edu/courses/1551507/files?preview=93782210"
 #    - date: "Feb 4"
 #      items:
 #        - type: "Worksheet"
