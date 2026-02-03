@@ -7,7 +7,7 @@
           name: "No Classes this week"
     - date: "Jan 21"
       items:
-        - type: "Worksheet"
+        - type: "Lab"
           name: "No Lab today"
 - week: 2
   days:
@@ -32,13 +32,11 @@
           href: ""
     - date: "Jan 28"
       items:
-        - type: "Worksheet"
-          name: "WS 1: Introduction (in section)"
-          href: ""
-        - type: "Homework"
-          id: ""
-          name: "HW 1: Quarto notebooks (due 02/01)"
-          href: #"https://bcourses.berkeley.edu/courses/1546288/assignments/8926266"
+        - type: "Lab"
+          id: "1"
+          name: "Introduction (not graded)"
+          href: "https://bcourses.berkeley.edu/courses/1551507/files/folder/labs?preview=93789437"
+
 - week: 3
   days:
     - date: "About"
@@ -64,15 +62,17 @@
           id: "2"
           name: "Demo"
           href: "https://bcourses.berkeley.edu/courses/1551507/files/folder/demos?preview=93789408"
-#    - date: "Feb 4"
-#      items:
-#        - type: "Worksheet"
-#          name: "WS 2: Vectors and Factors (in section)"
-#          href: ""
-#        - type: "Homework"
-#          id: ""
-#          name: "HW 2: Vectors (avail due 9/09)"
-#          href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8926267"
+    - date: "Feb 4"
+      items:
+        - type: "Lab"
+          id: "2"
+          name: "Vectors and Factors (due 02/05 11:59pm)"
+          href: "https://bcourses.berkeley.edu/courses/1551507/files/folder/labs?preview=93789440"
+        - type: "Homework"
+          id: "1"
+          name: "Atomic Objects (due 02/15 11:59pm)"
+          href: "https://bcourses.berkeley.edu/courses/1551507/files/folder/homeworks?preview=93790809"
+
 - week: 4
   days:
     - date: "About"
@@ -91,7 +91,7 @@
     - date: "Feb 9"
       items:
         - type: "Lecture"
-          id: ""
+          id: "3"
           name: "Matrices and Lists"
           href: "https://bcourses.berkeley.edu/courses/1551507/files/folder/demos?preview=93789409"
 #     - date: "Sep 12"
