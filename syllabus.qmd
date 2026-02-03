@@ -43,9 +43,9 @@ __Before Class__. It is your responsibility to become familiar with the topics t
 
 __During class on Mondays__. Class time will be spent on live demos to illustrate R programming concepts with some small, yet real-life, examples. Do not be surprised or worried about not following the details of R code during class – that is not the point (furthermore, there will sometimes be code that is really specific to the instructional purposes of the lecture, e.g. to make a specific plot, and is beyond the scope of what you would be expected to understand how to do yourself). *[TBD]Commented demo files will be shared in bCourses right after class, or one day after class.*
 
-__During Section on Wednesdays__. Lab time will be dedicated to applying your knowledge by working through questions (in the format of printed worksheets) solo or in groups, and also to start working on the weekly coding assignment.
+__During Section on Wednesdays__. Lab time will be dedicated to applying your knowledge by working through questions (in the format of lab exercises) solo or in groups.
 
-__After Section__. You will keep working on the weekly homework (coding) assignment. These assignments are typically extensions of the examples discussed in lecture. However, assignments will sometimes ask you to learn about a topic related to but not covered in lecture/lab.
+__After Section__. You will keep working on the lab exercises and start/continue working on the homework assignments. These assignments are typically extensions of the examples discussed in lecture. However, they will sometimes ask you to learn about a topic related to but not covered in lecture/lab.
 
 
 ### Office hours (OH) and Group Tutoring 🗓️
@@ -125,47 +125,43 @@ We will not be offering extensions if you are admitted or enrolled into the cour
 
 Unfortunately, doing all the work is not a guarantee of enrollment. You will only be enrolled if there is space in your lab. Enrollment will proceed through CalCentral.
 
-## 📝 Participation and Worksheets (15% of final grade)
+## 📝 Attendance and Labs (5% + 10% of final grade)
 
 **PLEASE, DO NOT COME TO CLASS IF YOU THINK YOU MIGHT BE SICK! EVEN A LITTLE!!!**
 
 - You'll recover more slowly, get other people sick, and lose lecture time, OH, group tutoring and in general make the class harder and less useful for yourself and everyone else.
 - **we are a mask-friendly class**
 
-- Attending section every week is an essential part of the course and you will be provided with printed worksheets to apply your knowledge by working through questions solo or in groups, and also to start working on the weekly coding assignments.
+- Attending lab section every week is an essential part of the course and you will be working on lab exercises to apply your knowledge by working through questions solo or in groups.
 - You must attend the lab section you are officially enrolled in.
-- Worksheets will be handed out during section.
-- They consist of questions to check your understanding from the slides 
-you have to read before each lecture.
-- Regardless of whether you work solo or in groups, you must turn in your answered worksheet at the end of section (i.e. individual submission).
-- Turned-in worksheets will be graded credit / no-credit for completion where full credit is given if you earnestly engaged with the assignment (that is, put in a good effort to complete the problems).
-- Solutions will be posted on [bCourses](https://bcourses.berkeley.edu/courses/1551507) one day after lab discussion.
-- Because we won't give worksheets back, we suggest that you take a picture or scan them so that you can compare your answers with the solutions.
-- The first worksheet __will not__ count towards your participation score. From the remaining worksheets, your __lowest 2 scores will be dropped__ in the calculation of your overall grade.
+- We will __drop 2 attendances__ in the calculation of your overall grade.
+- They consist of questions to check your understanding from the slides you have to read before each lecture.
+- Regardless of whether you work solo or in groups, you must turn in your answered lab on gradescope (i.e. individual submission).
+- Labs will be graded credit / no-credit for completion where full credit is given if you earnestly engaged with the assignment (that is, put in a good effort to complete the problems).
+- Solutions will be posted on [bCourses](https://bcourses.berkeley.edu/courses/1551507) on the Friday after lab discussion.
+- The first lab __will not__ count towards your score. From the remaining labs, your __lowest 2 scores will be dropped__ in the calculation of your overall grade.
 
 ## 📁 Homework (45% of final grade)
 
-- There will be weekly homework (coding) assignments.
+- There will be bi-weekly homework (coding) assignments.
 - These assignments will typically be extensions of the examples presented during lecture.
-- You will start working on a HW assignment during the second half of section, and will have four more days to complete them.
 - HW assignments will be submitted through [gradescope](https://www.gradescope.com/courses/1213988) (individual submission).
-- HW will be __due at 11:59PM on Sunday__ after they were assigned in section. Late submissions until class time on Monday will incur an automated 15% deduction.
+- HW will be __due at 11:59PM on the Sunday__ of the second week after they were assigned in section (~12 days). Late submissions until class time on Monday will incur an automated 15% deduction.
 - You must write your own answers (using your own words and/or code). Cheating and plagiarism will not be tolerated (see Academic Honesty policy).
 - If you don't submit all required files, or incorrect files, you will receive no credit on those parts of the assignment.
-- The first HW __will not__ count towards your HW score. From the remaining HW assignments, your __2 lowest scores will be dropped__ in the calculation of your overall grade.
+- Your __lowest HW score will be dropped__ in the calculation of your overall grade.
 
 
 ## 🕚 Late Submission Policy {#late-policy}
 
 Given that STAT 33B is a 1-unit course, unless you have applicable DSP accommodations, we won't be able to offer extensions of any kind on top of what above specified. 
 
-If you cannot turn in a printed worksheet with your handwritten answers (because you did not attend lab, or you forgot to turn the worksheet in), please recall that we are dropping the 2 lowest worksheet scores.
+In case you are not able to submit an assignment on time, our default policy is:
 
-In case you are not able to submit a HW assignment on time, our default policy is:
+- HW submissions within the start of the next Monday class will incur an automated 15% deduction.
+- Late lab submissions will not be accepted.
 
-- Submissions within the start of the next Monday class will incur an automated 15% deduction.
-
-This late submission policy is in place to take care of any extenuating circumstances that prevent you from submitting a HW assignment by the due date. In addition, recall that we are dropping the 2 lowest HW scores.
+This late submission policy is in place to take care of any extenuating circumstances that prevent you from submitting a HW assignment by the due date. In addition, recall that we are dropping the lowest HW score and two lowest lab scores.
 
 Please plan ahead and pace yourself. Don't wait until the last day to do an assignment. <br><span style="background-color: #b1ff00;">__Don't wait until the last minute to submit your assignments.__</span>
 
@@ -187,8 +183,9 @@ The overall grade for the exams is a **combination of midterm and final**.
 
 Grades will be assigned using the following scheme:
 
-1) **15% Worksheets and participation** (2 drops)
-2) **45% HW** (2 drops)
+1) **5% Attendance** (2 drops)
+1) **10% Labs** (2 drops)
+2) **45% HW** (1 drop)
 6) **40% Exams**
 
 - To give you an idea of the grading scheme, the assignment of letter grades will be roughly:
