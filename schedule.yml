@@ -63,7 +63,7 @@
         - type: "Lecture"
           id: "2"
           name: "Demo"
-          href: "https://bcourses.berkeley.edu/courses/1551507/files?preview=93782210"
+          href: "https://bcourses.berkeley.edu/courses/1551507/files/folder/demos?preview=93789408"
 #    - date: "Feb 4"
 #      items:
 #        - type: "Worksheet"
@@ -73,7 +73,36 @@
 #          id: ""
 #          name: "HW 2: Vectors (avail due 9/09)"
 #          href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8926267"
-
+- week: 4
+  days:
+    - date: "About"
+      items:
+        - type: "Overview"
+          id: ""
+          name: "Unit 3: Matrices and Lists"
+          href: "./units/unit3.html"
+        - type: "Slides"
+          id: ""
+          name: "Matrices (pdf)"
+          href: "slides/03a-matrices.pdf"
+          auxil:
+            id: "Lists (pdf)"
+            href: "slides/03b-lists.pdf"
+    - date: "Feb 9"
+      items:
+        - type: "Lecture"
+          id: ""
+          name: "Matrices and Lists"
+          href: "https://bcourses.berkeley.edu/courses/1551507/files/folder/demos?preview=93789409"
+#     - date: "Sep 12"
+#       items:
+#         - type: "Worksheet"
+#           name: "WS 3: Matrices and Lists (in section)"
+#           href: ""
+#         - type: "Homework"
+#           id: ""
+#           name: "HW 3: Matrices and Lists (due 9/16)"
+#           href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8926268"
 # - week: 1
 #   days:
 #     - date: "About"
