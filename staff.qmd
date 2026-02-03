@@ -52,7 +52,7 @@ title: "Staff"
 :::
 
 ::: {.g-col-4}
-<img src="assets/monica-headshot.jpg" width="200"><br>
+<img src="assets/emily-headshot.jpg" width="200"><br>
 **Reader**: <a href="" target="_blank">Emily Hsu</a><br>
 `emilyhsu1 at berkeley dot edu`<br>
 <!-- Office hours:<br> -->
