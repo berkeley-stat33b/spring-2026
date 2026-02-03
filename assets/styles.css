@@ -5,7 +5,7 @@
     width: 101px;
     color: white;
     font-size: 0.9em;
-    display: inline-block; // a bit of separation from text outside button
+    display: inline-block; /* a bit of separation from text outside button */
 }
 
 .label-Overview { background-color: #a3a3a3}
