@@ -96,7 +96,7 @@
           href: "https://bcourses.berkeley.edu/courses/1551507/files/folder/demos?preview=93789409"
 #     - date: "Sep 12"
 #       items:
-#         - type: "Worksheet"
+#         - type: "Lab"
 #           name: "WS 3: Matrices and Lists (in section)"
 #           href: ""
 #         - type: "Homework"
@@ -126,7 +126,7 @@
 #           href: ""
 #     - date: "Aug 29"
 #       items:
-#         - type: "Worksheet"
+#         - type: "Lab"
 #           name: "WS 1: Introduction (in section)"
 #           href: ""
 #         - type: "Homework"
@@ -160,7 +160,7 @@
 #           href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=92016611"
 #     - date: "Sep 5"
 #       items:
-#         - type: "Worksheet"
+#         - type: "Lab"
 #           name: "WS 2: Vectors and Factors (in section)"
 #           href: ""
 #         - type: "Homework"
@@ -190,7 +190,7 @@
 #           href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=92020177"
 #     - date: "Sep 12"
 #       items:
-#         - type: "Worksheet"
+#         - type: "Lab"
 #           name: "WS 3: Matrices and Lists (in section)"
 #           href: ""
 #         - type: "Homework"
@@ -220,7 +220,7 @@
 #           href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=92020176"
 #     - date: "Sep 19"
 #       items:
-#         - type: "Worksheet"
+#         - type: "Lab"
 #           name: "WS 4: Data Frames (in section)"
 #           href: ""
 #         - type: "Homework"
@@ -247,7 +247,7 @@
 #           href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=92626309"
 #     - date: "Sep 26"
 #       items:
-#         - type: "Worksheet"
+#         - type: "Lab"
 #           id: ""
 #           name: "WS 5: tidyverse (in section)"
 #           href: ""
@@ -275,7 +275,7 @@
 #           href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=92694864"
 #     - date: "Oct 3"
 #       items:
-#         - type: "Worksheet"
+#         - type: "Lab"
 #           id: ""
 #           name: "WS 6: dplyr (in section)"
 #           href: ""
@@ -303,7 +303,7 @@
 #           href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=92053410"
 #     - date: "Oct 10"
 #       items:
-#         - type: "Worksheet"
+#         - type: "Lab"
 #           id: ""
 #           name: "WS 7: ggplot (in section)"
 #           href: ""
@@ -327,7 +327,7 @@
 #           href: ""
 #     - date: "Oct 17"
 #       items:
-#         - type: "Worksheet"
+#         - type: "Lab"
 #           id: ""
 #           name: "WS 8: plots with gganimate"
 #           href: ""
@@ -355,7 +355,7 @@
 #           href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=92053506"
 #     - date: "Oct 24"
 #       items:
-#         - type: "Worksheet"
+#         - type: "Lab"
 #           id: ""
 #           name: "WS 9: Conditionals (in section)"
 #           href: ""
@@ -383,7 +383,7 @@
 #           href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=92169209"
 #     - date: "Oct 31"
 #       items:
-#         - type: "Worksheet"
+#         - type: "Lab"
 #           id: ""
 #           name: "WS 10: Iterations (in section)"
 #           href: ""
@@ -411,7 +411,7 @@
 #           href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=93044356"
 #     - date: "Nov 7"
 #       items:
-#         - type: "Worksheet"
+#         - type: "Lab"
 #           id: ""
 #           name: "WS 11: Functions (in section)"
 #           href: ""
@@ -439,7 +439,7 @@
 #           href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=93012460"
 #     - date: "Nov 14"
 #       items:
-#         - type: "Worksheet"
+#         - type: "Lab"
 #           id: ""
 #           name: "WS 12: Bindings and environments (in section)"
 #           href: ""
@@ -467,7 +467,7 @@
 #           href: ""
 #     - date: "Nov 21"
 #       items:
-#         - type: "Worksheet"
+#         - type: "Lab"
 #           id: ""
 #           name: "WS 13: Scoping (in section)"
 #           href: ""
@@ -509,7 +509,7 @@
 #           href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=93305198"
 #     - date: "Dec 5"
 #       items:
-#         - type: "Worksheet"
+#         - type: "Lab"
 #           id: ""
 #           name: "WS 14: Performance (in section)"
 #           href: ""
