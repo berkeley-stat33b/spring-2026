@@ -92,7 +92,7 @@
       items:
         - type: "Lecture"
           id: "3"
-          name: "Matrices and Lists"
+          name: "Demo"
           href: "https://bcourses.berkeley.edu/courses/1551507/files/folder/demos?preview=93789409"
 #     - date: "Sep 12"
 #       items:
