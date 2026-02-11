@@ -104,20 +104,14 @@
   days:
     - date: "About"
       items:
-        - type: "Overview"
+        - type: #"Overview"
           id: ""
-          name: "Holiday week: no new material"
-    - date: "Feb 16"
-      items:
-        - type: "Lecture"
-          id: ""
-          name: "Holiday: No lecture this week"
-          #href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=92626309"
+          name: "Holiday week: no lecture or new material"
     - date: "Feb 18"
       items:
         - type: "Lab"
           id: ""
-          name: "No new lab. Time for exercises and questions/doubts."
+          name: "Section time for exercises and questions/doubts. No new material"
           #href: ""
 # - week: 1
 #   days:
