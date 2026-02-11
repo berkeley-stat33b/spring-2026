@@ -98,7 +98,7 @@
       items:
         - type: "Lab"
           id: "3"
-          name: "Matrices and Lists (in section)"
+          name: "Matrices and Lists (due 02/12 11:59pm)"
           href: "https://bcourses.berkeley.edu/courses/1551507/files/folder/labs/lab3"
 - week: 5
   days:
