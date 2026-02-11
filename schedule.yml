@@ -35,7 +35,7 @@
         - type: "Lab"
           id: "1"
           name: "Introduction (not graded)"
-          href: "https://bcourses.berkeley.edu/courses/1551507/files/folder/labs?preview=93789437"
+          href: "https://bcourses.berkeley.edu/courses/1551507/files/folder/labs/lab1"
 
 - week: 3
   days:
@@ -67,7 +67,7 @@
         - type: "Lab"
           id: "2"
           name: "Vectors and Factors (due 02/05 11:59pm)"
-          href: "https://bcourses.berkeley.edu/courses/1551507/files/folder/labs?preview=93789440"
+          href: "https://bcourses.berkeley.edu/courses/1551507/files/folder/labs/lab2"
         - type: "Homework"
           id: "1"
           name: "Atomic Objects (due 02/15 11:59pm)"
@@ -94,15 +94,31 @@
           id: "3"
           name: "Demo"
           href: "https://bcourses.berkeley.edu/courses/1551507/files/folder/demos?preview=93789409"
-#     - date: "Sep 12"
-#       items:
-#         - type: "Lab"
-#           name: "WS 3: Matrices and Lists (in section)"
-#           href: ""
-#         - type: "Homework"
-#           id: ""
-#           name: "HW 3: Matrices and Lists (due 9/16)"
-#           href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8926268"
+    - date: "Feb 11"
+      items:
+        - type: "Lab"
+          id: "3"
+          name: "Matrices and Lists (in section)"
+          href: "https://bcourses.berkeley.edu/courses/1551507/files/folder/labs/lab3"
+- week: 5
+  days:
+    - date: "About"
+      items:
+        - type: "Overview"
+          id: ""
+          name: "Holiday week: no new material"
+    - date: "Feb 16"
+      items:
+        - type: "Lecture"
+          id: ""
+          name: "Holiday: No lecture this week"
+          #href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=92626309"
+    - date: "Feb 18"
+      items:
+        - type: "Lab"
+          id: ""
+          name: "No new lab. Time for exercises and questions/doubts."
+          #href: ""
 # - week: 1
 #   days:
 #     - date: "About"
