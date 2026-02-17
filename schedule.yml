@@ -100,6 +100,7 @@
           id: "3"
           name: "Matrices and Lists (due 02/12 11:59pm)"
           href: "https://bcourses.berkeley.edu/courses/1551507/files/folder/labs/lab3"
+
 - week: 5
   days:
     - date: "About"
@@ -113,6 +114,38 @@
           id: ""
           name: "Section time for exercises and questions/doubts. No new material"
           #href: ""
+
+- week: 6
+  days:
+    - date: "About"
+      items:
+        - type: "Overview"
+          id: ""
+          name: "Unit 4: Data Frames"
+          href: "./units/unit4.html"
+        - type: "Slides"
+          id: ""
+          name: "Data Frames (pdf)"
+          href: "slides/04a-data-frames.pdf"
+          auxil:
+            id: "Importing Tables (pdf)"
+            href: "slides/04b-import-tables.pdf"
+    - date: "Feb 23"
+      items:
+        - type: "Lecture"
+          id: ""
+          name: "Data Frames and Tables"
+          href: "https://bcourses.berkeley.edu/courses/1551507/files/folder/demos?preview=93789410"
+    - date: "Feb 25"
+      items:
+        - type: "Lab"
+#          name: "WS 4: Data Frames (in section)"
+#          href: ""
+#        - type: "Homework"
+#          id: ""
+#          name: "HW 4: Data Frames (due 9/23)"
+#          href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8926269"
+
 # - week: 1
 #   days:
 #     - date: "About"

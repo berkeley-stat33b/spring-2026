@@ -28,7 +28,7 @@ website:
           - units/unit1.qmd
           - units/unit2.qmd
           - units/unit3.qmd
-#          - units/unit4.qmd
+          - units/unit4.qmd
 #          - units/unit5.qmd
 #          - units/unit6.qmd
 #          - units/unit7.qmd
