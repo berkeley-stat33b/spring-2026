@@ -133,171 +133,51 @@
     - date: "Feb 23"
       items:
         - type: "Lecture"
-          id: ""
+          id: "4"
           name: "Data Frames and Tables"
           href: "https://bcourses.berkeley.edu/courses/1551507/files/folder/demos?preview=93789410"
     - date: "Feb 25"
       items:
         - type: "Lab"
-#          name: "WS 4: Data Frames (in section)"
+          id: "4"
+          name: "Data Frames basics (due 02/26 11:59pm)"
+          href: "https://bcourses.berkeley.edu/courses/1551507/files/folder/labs/lab4"
+        - type: "Homework"
+          id: "3"
+          name: "HW 3: Data Frames (due 03/08 11:59pm)"
+          href: "https://bcourses.berkeley.edu/courses/1551507/files/folder/homeworks/HW3"
+
+- week: 7
+  days:
+    - date: "About"
+      items:
+        - type: "Overview"
+          id: ""
+          name: "Unit 5: Tidyverse part 1"
+          href: "./units/unit5.html"
+        - type: "Slides"
+          id: ""
+          name: "Intro to dplyr (pdf)"
+          href: "slides/05a-intro-to-dplyr.pdf"
+    - date: "Mar 2"
+      items:
+        - type: "Lecture"
+          id: "5"
+          name: "Data wrangling with dplyr"
+          href: "https://bcourses.berkeley.edu/courses/1551507/files/folder/demos?preview=93789411"
+#    - date: "Mar 4"
+#      items:
+#        - type: "Lab"
+#          id: "5"
+#          name: "WS 5: tidyverse (in section)"
 #          href: ""
 #        - type: "Homework"
 #          id: ""
-#          name: "HW 4: Data Frames (due 9/23)"
-#          href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8926269"
+#          name: "HW 5: Tidyverse 1 (due 9/30)"
+#          href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8926270"
 
-# - week: 1
-#   days:
-#     - date: "About"
-#       items:
-#         - type: "Overview"
-#           id: ""
-#           name: "Unit 1: Introduction"
-#           href: "./units/unit1.html"
-#         - type: "Slides"
-#           id: ""
-#           name: "Starting with R and RStudio (pdf) "
-#           href: "slides/01a-getting-started-with-R-and-RStudio.pdf"
-#           auxil:
-#             id: "A bit of history about R (pdf)"
-#             href: "slides/01b-a-bit-of-history-about-R.pdf"
-#     - date: "Aug 27"
-#       items:
-#         - type: "Lecture"
-#           id: ""
-#           name: "Course Policies, Syllabus, etc"
-#           href: ""
-#     - date: "Aug 29"
-#       items:
-#         - type: "Lab"
-#           name: "WS 1: Introduction (in section)"
-#           href: ""
-#         - type: "Homework"
-#           id: ""
-#           name: "HW 1: Quarto notebooks (due 9/02)"
-#           href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8926266"
-# - week: 2
-#   days:
-#     - date: "About"
-#       items:
-#         - type: "Overview"
-#           id: ""
-#           name: "Unit 2: Vectors and factors"
-#           href: "./units/unit2.html"
-#         - type: "Slides"
-#           id: ""
-#           name: "Introduction to Vectors (pdf)"
-#           href: "slides/02a-vectors-intro.pdf"
-#           auxil:
-#             id: "Subsetting Vectors (pdf)"
-#             href: "slides/02b-vectors-subsetting.pdf"
-#         - type: "Additional"
-#           id: ""
-#           name: "Introduction to Factors (pdf)"
-#           href: "slides/02c-factors.pdf"
-#     - date: "Sep 3"
-#       items:
-#         - type: "Lecture"
-#           id: ""
-#           name: "A Bit of Financial Math"
-#           href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=92016611"
-#     - date: "Sep 5"
-#       items:
-#         - type: "Lab"
-#           name: "WS 2: Vectors and Factors (in section)"
-#           href: ""
-#         - type: "Homework"
-#           id: ""
-#           name: "HW 2: Vectors (avail due 9/09)"
-#           href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8926267"
-# - week: 3
-#   days:
-#     - date: "About"
-#       items:
-#         - type: "Overview"
-#           id: ""
-#           name: "Unit 3: Matrices and Lists"
-#           href: "./units/unit3.html"
-#         - type: "Slides"
-#           id: ""
-#           name: "Matrices (pdf)"
-#           href: "slides/03a-matrices.pdf"
-#           auxil:
-#             id: "Lists (pdf)"
-#             href: "slides/03b-lists.pdf"
-#     - date: "Sep 10"
-#       items:
-#         - type: "Lecture"
-#           id: ""
-#           name: "A Bit of Matrix Decompositions"
-#           href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=92020177"
-#     - date: "Sep 12"
-#       items:
-#         - type: "Lab"
-#           name: "WS 3: Matrices and Lists (in section)"
-#           href: ""
-#         - type: "Homework"
-#           id: ""
-#           name: "HW 3: Matrices and Lists (due 9/16)"
-#           href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8926268"
-# - week: 4
-#   days:
-#     - date: "About"
-#       items:
-#         - type: "Overview"
-#           id: ""
-#           name: "Unit 4: Data Frames"
-#           href: "./units/unit4.html"
-#         - type: "Slides"
-#           id: ""
-#           name: "Data Frames (pdf)"
-#           href: "slides/04a-data-frames.pdf"
-#           auxil:
-#             id: "Importing Tables (pdf)"
-#             href: "slides/04b-import-tables.pdf"
-#     - date: "Sep 17"
-#       items:
-#         - type: "Lecture"
-#           id: ""
-#           name: "Data Frames and Tables"
-#           href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=92020176"
-#     - date: "Sep 19"
-#       items:
-#         - type: "Lab"
-#           name: "WS 4: Data Frames (in section)"
-#           href: ""
-#         - type: "Homework"
-#           id: ""
-#           name: "HW 4: Data Frames (due 9/23)"
-#           href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8926269"
-# - week: 5
-#   days:
-#     - date: "About"
-#       items:
-#         - type: "Overview"
-#           id: ""
-#           name: "Unit 5: Tidyverse part 1"
-#           href: "./units/unit5.html"
-#         - type: "Slides"
-#           id: ""
-#           name: "Intro to dplyr (pdf)"
-#           href: "slides/05a-intro-to-dplyr.pdf"
-#     - date: "Sep 24"
-#       items:
-#         - type: "Lecture"
-#           id: ""
-#           name: "Data wrangling with dplyr"
-#           href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=92626309"
-#     - date: "Sep 26"
-#       items:
-#         - type: "Lab"
-#           id: ""
-#           name: "WS 5: tidyverse (in section)"
-#           href: ""
-#         - type: "Homework"
-#           id: ""
-#           name: "HW 5: Tidyverse 1 (due 9/30)"
-#           href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8926270"
+
+
 # - week: 6
 #   days:
 #     - date: "About"
@@ -574,3 +454,158 @@
 #         - type: "Final"
 #           id: ""
 #           name: "Final Exam 12/18 (3-6pm)"
+
+
+
+# - week: 1
+#   days:
+#     - date: "About"
+#       items:
+#         - type: "Overview"
+#           id: ""
+#           name: "Unit 1: Introduction"
+#           href: "./units/unit1.html"
+#         - type: "Slides"
+#           id: ""
+#           name: "Starting with R and RStudio (pdf) "
+#           href: "slides/01a-getting-started-with-R-and-RStudio.pdf"
+#           auxil:
+#             id: "A bit of history about R (pdf)"
+#             href: "slides/01b-a-bit-of-history-about-R.pdf"
+#     - date: "Aug 27"
+#       items:
+#         - type: "Lecture"
+#           id: ""
+#           name: "Course Policies, Syllabus, etc"
+#           href: ""
+#     - date: "Aug 29"
+#       items:
+#         - type: "Lab"
+#           name: "WS 1: Introduction (in section)"
+#           href: ""
+#         - type: "Homework"
+#           id: ""
+#           name: "HW 1: Quarto notebooks (due 9/02)"
+#           href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8926266"
+# - week: 2
+#   days:
+#     - date: "About"
+#       items:
+#         - type: "Overview"
+#           id: ""
+#           name: "Unit 2: Vectors and factors"
+#           href: "./units/unit2.html"
+#         - type: "Slides"
+#           id: ""
+#           name: "Introduction to Vectors (pdf)"
+#           href: "slides/02a-vectors-intro.pdf"
+#           auxil:
+#             id: "Subsetting Vectors (pdf)"
+#             href: "slides/02b-vectors-subsetting.pdf"
+#         - type: "Additional"
+#           id: ""
+#           name: "Introduction to Factors (pdf)"
+#           href: "slides/02c-factors.pdf"
+#     - date: "Sep 3"
+#       items:
+#         - type: "Lecture"
+#           id: ""
+#           name: "A Bit of Financial Math"
+#           href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=92016611"
+#     - date: "Sep 5"
+#       items:
+#         - type: "Lab"
+#           name: "WS 2: Vectors and Factors (in section)"
+#           href: ""
+#         - type: "Homework"
+#           id: ""
+#           name: "HW 2: Vectors (avail due 9/09)"
+#           href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8926267"
+# - week: 3
+#   days:
+#     - date: "About"
+#       items:
+#         - type: "Overview"
+#           id: ""
+#           name: "Unit 3: Matrices and Lists"
+#           href: "./units/unit3.html"
+#         - type: "Slides"
+#           id: ""
+#           name: "Matrices (pdf)"
+#           href: "slides/03a-matrices.pdf"
+#           auxil:
+#             id: "Lists (pdf)"
+#             href: "slides/03b-lists.pdf"
+#     - date: "Sep 10"
+#       items:
+#         - type: "Lecture"
+#           id: ""
+#           name: "A Bit of Matrix Decompositions"
+#           href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=92020177"
+#     - date: "Sep 12"
+#       items:
+#         - type: "Lab"
+#           name: "WS 3: Matrices and Lists (in section)"
+#           href: ""
+#         - type: "Homework"
+#           id: ""
+#           name: "HW 3: Matrices and Lists (due 9/16)"
+#           href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8926268"
+# - week: 4
+#   days:
+#     - date: "About"
+#       items:
+#         - type: "Overview"
+#           id: ""
+#           name: "Unit 4: Data Frames"
+#           href: "./units/unit4.html"
+#         - type: "Slides"
+#           id: ""
+#           name: "Data Frames (pdf)"
+#           href: "slides/04a-data-frames.pdf"
+#           auxil:
+#             id: "Importing Tables (pdf)"
+#             href: "slides/04b-import-tables.pdf"
+#     - date: "Sep 17"
+#       items:
+#         - type: "Lecture"
+#           id: ""
+#           name: "Data Frames and Tables"
+#           href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=92020176"
+#     - date: "Sep 19"
+#       items:
+#         - type: "Lab"
+#           name: "WS 4: Data Frames (in section)"
+#           href: ""
+#         - type: "Homework"
+#           id: ""
+#           name: "HW 4: Data Frames (due 9/23)"
+#           href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8926269"
+# - week: 5
+#   days:
+#     - date: "About"
+#       items:
+#         - type: "Overview"
+#           id: ""
+#           name: "Unit 5: Tidyverse part 1"
+#           href: "./units/unit5.html"
+#         - type: "Slides"
+#           id: ""
+#           name: "Intro to dplyr (pdf)"
+#           href: "slides/05a-intro-to-dplyr.pdf"
+#     - date: "Sep 24"
+#       items:
+#         - type: "Lecture"
+#           id: ""
+#           name: "Data wrangling with dplyr"
+#           href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=92626309"
+#     - date: "Sep 26"
+#       items:
+#         - type: "Lab"
+#           id: ""
+#           name: "WS 5: tidyverse (in section)"
+#           href: ""
+#         - type: "Homework"
+#           id: ""
+#           name: "HW 5: Tidyverse 1 (due 9/30)"
+#           href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8926270"
