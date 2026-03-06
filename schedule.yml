@@ -165,17 +165,45 @@
           id: "5"
           name: "Data wrangling with dplyr"
           href: "https://bcourses.berkeley.edu/courses/1551507/files/folder/demos?preview=93789411"
-#    - date: "Mar 4"
-#      items:
-#        - type: "Lab"
-#          id: "5"
-#          name: "WS 5: tidyverse (in section)"
-#          href: ""
-#        - type: "Homework"
-#          id: ""
-#          name: "HW 5: Tidyverse 1 (due 9/30)"
-#          href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8926270"
+    - date: "Mar 4"
+      items:
+       - type: "Lab"
+         id: "5"
+         name: "WS 5: tidyverse (in section)"
+         href: ""
+       - type: "Homework"
+         id: ""
+         name: "HW 5: Tidyverse 1 (due 9/30)"
+         href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8926270"
 
+- week: 8
+  days:
+    - date: "About"
+      items:
+        - type: "Overview"
+          id: ""
+          name: "Unit 6: Tidyverse part 2"
+          href: "./units/unit6.html"
+        - type: "Slides"
+          id: ""
+          name: "Intro to ggplot (pdf)"
+          href: "slides/06a-intro-to-ggplot.pdf"
+    - date: "Oct 1"
+      items:
+        - type: "Lecture"
+          id: "6"
+          name: "Graphics with ggplot2"
+          href: "https://bcourses.berkeley.edu/courses/1551507/files/folder/demos?preview=93789412"
+#     - date: "Oct 3"
+#       items:
+#         - type: "Lab"
+#           id: ""
+#           name: "WS 6: dplyr (in section)"
+#           href: ""
+#         - type: "Homework"
+#           id: ""
+#           name: "HW 6: Tidyverse 2 (due 10/7)"
+#           href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8926271"
 
 
 # - week: 6
