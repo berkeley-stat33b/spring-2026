@@ -1,5 +1,373 @@
 [
   {
+    "objectID": "cheatsheets.html",
+    "href": "cheatsheets.html",
+    "title": "Cheat Sheets ready to use",
+    "section": "",
+    "text": "Cheat sheets are your friends, use them at all times.\n\nrstudio-IDE-cheatsheet.pdf\nrmarkdown-cheatsheet-2.0.pdf\nbase-r-cheatsheet.pdf\ndplyr-cheatsheet.pdf\nggplot2-cheatsheet-2.1.pdf\ndata-import-cheatsheet.pdf",
+    "crumbs": [
+      "Other",
+      "Cheatsheets"
+    ]
+  },
+  {
+    "objectID": "license.html",
+    "href": "license.html",
+    "title": "License",
+    "section": "",
+    "text": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International\nThis work is licensed under CC BY-NC-SA 4.0\n\n\n\nShare: copy and redistribute the material in any medium or format.\nAdapt: remix, transform, and build upon the material.\nThe licensor cannot revoke these freedoms as long as you follow the license terms.\n\n\n\n\n\nAttribution: You must give appropriate credit , provide a link to the license, and indicate if changes were made . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.\nNonCommercial: You may not use the material for commercial purposes.\nShareAlike: If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.\nNo additional restrictions: You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.\n\nFor more information, see CC BY-NC-SA 4.0",
+    "crumbs": [
+      "Other",
+      "License"
+    ]
+  },
+  {
+    "objectID": "license.html#cc-by-nc-sa-4.0",
+    "href": "license.html#cc-by-nc-sa-4.0",
+    "title": "License",
+    "section": "",
+    "text": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International\nThis work is licensed under CC BY-NC-SA 4.0\n\n\n\nShare: copy and redistribute the material in any medium or format.\nAdapt: remix, transform, and build upon the material.\nThe licensor cannot revoke these freedoms as long as you follow the license terms.\n\n\n\n\n\nAttribution: You must give appropriate credit , provide a link to the license, and indicate if changes were made . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.\nNonCommercial: You may not use the material for commercial purposes.\nShareAlike: If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.\nNo additional restrictions: You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.\n\nFor more information, see CC BY-NC-SA 4.0",
+    "crumbs": [
+      "Other",
+      "License"
+    ]
+  },
+  {
+    "objectID": "staff.html",
+    "href": "staff.html",
+    "title": "Staff",
+    "section": "",
+    "text": "Instructor: Andrea Massari You can call me Andrea or anything you’re comfortable with.  amassari at berkeley dot edu    \n\n\n GSI: Thong Trinh thong at berkeley dot edu      \n\n\n Tutor: Ethan Chant xx_ethan_xx at berkeley dot edu\n\n\n\n\n Tutor: John Zhuang zhuangzian at berkeley dot edu\n\n\n Reader: Aidan Chan aidanmshen at berkeley dot edu\n\n\n Reader: Emily Hsu emilyhsu1 at berkeley dot edu      \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIn general, please use Ed to communicate with the course staff.\nUnless otherwise indicated, email should only be used for private concerns directed to a specific member of the teaching staff.",
+    "crumbs": [
+      "Other",
+      "Staff"
+    ]
+  },
+  {
+    "objectID": "units/unit6.html",
+    "href": "units/unit6.html",
+    "title": "6) Tidyverse part 2",
+    "section": "",
+    "text": "Last week we discussed the basics of dplyr. This week you’ll learn about the Grammar of Graphics and its central idea: a graphic involves mapping data to geometric objects and their visual attributes. This is the underlying framework behind the mechanics and core functions available in “ggplot2” for creating simple graphics:\n\nBegin your graphic specification with ggplot()\nIndicate where the data comes from\nEstablish which variables are going to be mapped into visual attributes: aes()\nDecide what kind of geometric object(s) will be used to display data; e.g. geom_point()\nOptional: do you need to use facets?\nOptional: do you need to explicitly use one or more statistical transformations?\nOptional: do you need to explicitly set a non-default system of coordinates?\nOptional: do you need to explicitly use a non-default theme of graphical elements?\n\nIn addition, we introduce so-called pipelines and the use of the pipe operators |&gt; and %&gt;%.",
+    "crumbs": [
+      "Units",
+      "6) Tidyverse part 2"
+    ]
+  },
+  {
+    "objectID": "units/unit6.html#more-about-dplyr-and-ggplot",
+    "href": "units/unit6.html#more-about-dplyr-and-ggplot",
+    "title": "6) Tidyverse part 2",
+    "section": "",
+    "text": "Last week we discussed the basics of dplyr. This week you’ll learn about the Grammar of Graphics and its central idea: a graphic involves mapping data to geometric objects and their visual attributes. This is the underlying framework behind the mechanics and core functions available in “ggplot2” for creating simple graphics:\n\nBegin your graphic specification with ggplot()\nIndicate where the data comes from\nEstablish which variables are going to be mapped into visual attributes: aes()\nDecide what kind of geometric object(s) will be used to display data; e.g. geom_point()\nOptional: do you need to use facets?\nOptional: do you need to explicitly use one or more statistical transformations?\nOptional: do you need to explicitly set a non-default system of coordinates?\nOptional: do you need to explicitly use a non-default theme of graphical elements?\n\nIn addition, we introduce so-called pipelines and the use of the pipe operators |&gt; and %&gt;%.",
+    "crumbs": [
+      "Units",
+      "6) Tidyverse part 2"
+    ]
+  },
+  {
+    "objectID": "units/unit6.html#slides",
+    "href": "units/unit6.html#slides",
+    "title": "6) Tidyverse part 2",
+    "section": "📰 Slides",
+    "text": "📰 Slides\n06a-intro-to-ggplot.pdf\n06b-more-dplyr.pdf",
+    "crumbs": [
+      "Units",
+      "6) Tidyverse part 2"
+    ]
+  },
+  {
+    "objectID": "units/unit6.html#objectives",
+    "href": "units/unit6.html#objectives",
+    "title": "6) Tidyverse part 2",
+    "section": "🎯 Objectives",
+    "text": "🎯 Objectives\nAt the end of this week you will be able to:\n\nGet a first contact with \"ggplot2\"\nDescribe the purpose of the aesthetic mapping function aes()\nDescribe the notion of “layers” and how to use them for making a graphic using \"ggplot2\"",
+    "crumbs": [
+      "Units",
+      "6) Tidyverse part 2"
+    ]
+  },
+  {
+    "objectID": "units/unit6.html#reading",
+    "href": "units/unit6.html#reading",
+    "title": "6) Tidyverse part 2",
+    "section": "📚 Reading",
+    "text": "📚 Reading\n\nhttps://www.gastonsanchez.com/R-tidy-hurricanes/2-03-intro-pipes.html\nhttps://www.gastonsanchez.com/R-tidy-hurricanes/3-01-storms-year.html\nhttps://www.gastonsanchez.com/R-tidy-hurricanes/3-02-storms-1975.html\nhttps://www.gastonsanchez.com/R-tidy-hurricanes/3-04-Summary-1975.html",
+    "crumbs": [
+      "Units",
+      "6) Tidyverse part 2"
+    ]
+  },
+  {
+    "objectID": "units/unit5.html",
+    "href": "units/unit5.html",
+    "title": "5) Tidyverse part 1",
+    "section": "",
+    "text": "In addition to learning about the “classic” way to work with data frames, we will briefly touch on an “alternative” approach for working with tables provided by the ecosystem of packages known as the \"tidyverse\": https://www.tidyverse.org\nThis week we start with the tidyverse package \"dplyr\". Simply put, \"dplyr\" comes with functions that allow you to manipulate data-tables (e.g. data-frames, and other 2-dimensional objects) using a modern and syntactic way.",
+    "crumbs": [
+      "Units",
+      "5) Tidyverse part 1"
+    ]
+  },
+  {
+    "objectID": "units/unit5.html#intro-to-dplyr-and-ggplot2",
+    "href": "units/unit5.html#intro-to-dplyr-and-ggplot2",
+    "title": "5) Tidyverse part 1",
+    "section": "",
+    "text": "In addition to learning about the “classic” way to work with data frames, we will briefly touch on an “alternative” approach for working with tables provided by the ecosystem of packages known as the \"tidyverse\": https://www.tidyverse.org\nThis week we start with the tidyverse package \"dplyr\". Simply put, \"dplyr\" comes with functions that allow you to manipulate data-tables (e.g. data-frames, and other 2-dimensional objects) using a modern and syntactic way.",
+    "crumbs": [
+      "Units",
+      "5) Tidyverse part 1"
+    ]
+  },
+  {
+    "objectID": "units/unit5.html#slides",
+    "href": "units/unit5.html#slides",
+    "title": "5) Tidyverse part 1",
+    "section": "📰 Slides",
+    "text": "📰 Slides\n05a-intro-to-dplyr.pdf",
+    "crumbs": [
+      "Units",
+      "5) Tidyverse part 1"
+    ]
+  },
+  {
+    "objectID": "units/unit5.html#objectives",
+    "href": "units/unit5.html#objectives",
+    "title": "5) Tidyverse part 1",
+    "section": "🎯 Objectives",
+    "text": "🎯 Objectives\nWe’ll go over the set of functions available in \"dplyr\" to perform common manipulations of tabular data.\n\nSelecting rows with slice(), and filter()\nSelecting columns with select()\nTransforming columns with mutate()\nArranging rows with arrange()\nGrouping data with group_by()\nSummarizing data with summarize()",
+    "crumbs": [
+      "Units",
+      "5) Tidyverse part 1"
+    ]
+  },
+  {
+    "objectID": "units/unit5.html#reading",
+    "href": "units/unit5.html#reading",
+    "title": "5) Tidyverse part 1",
+    "section": "📚 Reading",
+    "text": "📚 Reading\n\nhttps://www.gastonsanchez.com/R-tidy-hurricanes/2-01-intro-ggplot.html\nhttps://www.gastonsanchez.com/R-tidy-hurricanes/2-02-intro-dplyr.html\nIn case you are curious, here’s an interesting opinion by UC-Davis Prof. Norman Matloff about the tidyverse: https://github.com/matloff/TidyverseSkeptic",
+    "crumbs": [
+      "Units",
+      "5) Tidyverse part 1"
+    ]
+  },
+  {
+    "objectID": "units/unit1.html",
+    "href": "units/unit1.html",
+    "title": "1) Intro",
+    "section": "",
+    "text": "Welcome to STAT 33B. Our first meeting is on Mon Jan 26th where we begin with the usual review of the course policies, logistics, overall expectations, topics in a nutshell, etc.",
+    "crumbs": [
+      "Units",
+      "1) Intro"
+    ]
+  },
+  {
+    "objectID": "units/unit1.html#welcome",
+    "href": "units/unit1.html#welcome",
+    "title": "1) Intro",
+    "section": "",
+    "text": "Welcome to STAT 33B. Our first meeting is on Mon Jan 26th where we begin with the usual review of the course policies, logistics, overall expectations, topics in a nutshell, etc.",
+    "crumbs": [
+      "Units",
+      "1) Intro"
+    ]
+  },
+  {
+    "objectID": "units/unit1.html#slides",
+    "href": "units/unit1.html#slides",
+    "title": "1) Intro",
+    "section": "📰 Slides",
+    "text": "📰 Slides\n01a-getting-started-with-R-and-Rstudio.pdf\n01b-a-bit-of-history-about-R.pdf",
+    "crumbs": [
+      "Units",
+      "1) Intro"
+    ]
+  },
+  {
+    "objectID": "units/unit1.html#software",
+    "href": "units/unit1.html#software",
+    "title": "1) Intro",
+    "section": "💻 Software",
+    "text": "💻 Software\nWe’ll be using R and RStudio, preferably installed in your computer.\nPlease download and install the following software (both are free, and they are available for Max, Windows, and Linux computers)\n\nInstall R\nInstall RStudio (Desktop free version)\n\nIn case of emergency, you can also use RStudio from Berkeley datahub: https://r.datahub.berkeley.edu/",
+    "crumbs": [
+      "Units",
+      "1) Intro"
+    ]
+  },
+  {
+    "objectID": "units/unit1.html#reading",
+    "href": "units/unit1.html#reading",
+    "title": "1) Intro",
+    "section": "📚 Reading",
+    "text": "📚 Reading\nPlease spend some time outside class to review the following documentation:\n\nsyllabus\ncommunication via email\nsome frequently asked questions",
+    "crumbs": [
+      "Units",
+      "1) Intro"
+    ]
+  },
+  {
+    "objectID": "units/unit2.html",
+    "href": "units/unit2.html",
+    "title": "2) Vectors and Factors",
+    "section": "",
+    "text": "In this module we describe data types and their implementation in R objects like vectors and their cousins factors. We’ll focus on important concepts like:\n\nvectors and their data types (e.g. logical, integer, double or real, and character).\ncreation of vectors: various ways and functions to create vectors.\nimplicit coercion rules: what R does when you combine values of different data types.\nvectorization: when R applies calculations or operations to all the elements of a vector (element-wise).\nrecycling: what R does when you perform a calculation with vectors of different length.\nsubsetting (aka indexing, subscripting, bracket notation)",
+    "crumbs": [
+      "Units",
+      "2) Vectors and Factors"
+    ]
+  },
+  {
+    "objectID": "units/unit2.html#vectors-and-factors",
+    "href": "units/unit2.html#vectors-and-factors",
+    "title": "2) Vectors and Factors",
+    "section": "",
+    "text": "In this module we describe data types and their implementation in R objects like vectors and their cousins factors. We’ll focus on important concepts like:\n\nvectors and their data types (e.g. logical, integer, double or real, and character).\ncreation of vectors: various ways and functions to create vectors.\nimplicit coercion rules: what R does when you combine values of different data types.\nvectorization: when R applies calculations or operations to all the elements of a vector (element-wise).\nrecycling: what R does when you perform a calculation with vectors of different length.\nsubsetting (aka indexing, subscripting, bracket notation)",
+    "crumbs": [
+      "Units",
+      "2) Vectors and Factors"
+    ]
+  },
+  {
+    "objectID": "units/unit2.html#slides",
+    "href": "units/unit2.html#slides",
+    "title": "2) Vectors and Factors",
+    "section": "📰 Slides",
+    "text": "📰 Slides\n02a-vectors-intro.pdf\n02b-vectors-subsetting.pdf\n02c-factors.pdf",
+    "crumbs": [
+      "Units",
+      "2) Vectors and Factors"
+    ]
+  },
+  {
+    "objectID": "units/unit2.html#objectives",
+    "href": "units/unit2.html#objectives",
+    "title": "2) Vectors and Factors",
+    "section": "🎯 Objectives",
+    "text": "🎯 Objectives\nAt the end of this week you will be able to:\n\nList the four common data types in R, and give examples for them\nExplain why R vectors are said to be atomic objects\nDescribe and give an example of the implicit coercion rules\nDescribe and give an example of vectorized code\nDescribe and give an example of the recycling rule",
+    "crumbs": [
+      "Units",
+      "2) Vectors and Factors"
+    ]
+  },
+  {
+    "objectID": "units/unit2.html#reading",
+    "href": "units/unit2.html#reading",
+    "title": "2) Vectors and Factors",
+    "section": "📚 Reading",
+    "text": "📚 Reading\n\nhttps://www.gastonsanchez.com/R-coding-basics/1-01-vectors-intro.html\nhttps://www.gastonsanchez.com/R-coding-basics/1-02-vectors-properties.html\nhttps://www.gastonsanchez.com/R-coding-basics/1-03-vectors-creation.html\nhttps://www.gastonsanchez.com/R-coding-basics/1-04-vectors-concepts.html",
+    "crumbs": [
+      "Units",
+      "2) Vectors and Factors"
+    ]
+  },
+  {
+    "objectID": "units/unit8.html",
+    "href": "units/unit8.html",
+    "title": "8) Midterm",
+    "section": "",
+    "text": "Midterm test on Wed Oct-15, 2pm-3pm in Latimer 120\nLab section will take place as usual (Fri, worksheet 8)\nThere is no HW due this week; HW7 due date extended till Oct-21 (10:50 PM)\nAlso, there is no HW8 (because of midterm). Next assignment will be HW9 (released 10/24)"
+  },
+  {
+    "objectID": "units/unit8.html#midterm",
+    "href": "units/unit8.html#midterm",
+    "title": "8) Midterm",
+    "section": "",
+    "text": "Midterm test on Wed Oct-15, 2pm-3pm in Latimer 120\nLab section will take place as usual (Fri, worksheet 8)\nThere is no HW due this week; HW7 due date extended till Oct-21 (10:50 PM)\nAlso, there is no HW8 (because of midterm). Next assignment will be HW9 (released 10/24)"
+  },
+  {
+    "objectID": "units/unit13.html",
+    "href": "units/unit13.html",
+    "title": "13) Scoping",
+    "section": "",
+    "text": "This week we review more technical aspects of functions in R. Specifically, we will focus on the scoping mechanisms used by R to find the value of a variable."
+  },
+  {
+    "objectID": "units/unit13.html#scoping-rules",
+    "href": "units/unit13.html#scoping-rules",
+    "title": "13) Scoping",
+    "section": "",
+    "text": "This week we review more technical aspects of functions in R. Specifically, we will focus on the scoping mechanisms used by R to find the value of a variable."
+  },
+  {
+    "objectID": "units/unit13.html#slides",
+    "href": "units/unit13.html#slides",
+    "title": "13) Scoping",
+    "section": "📰 Slides",
+    "text": "📰 Slides\n13-functions-scoping.pdf"
+  },
+  {
+    "objectID": "units/unit13.html#objectives",
+    "href": "units/unit13.html#objectives",
+    "title": "13) Scoping",
+    "section": "🎯 Objectives",
+    "text": "🎯 Objectives\n\nProvide an example of “name masking”\nProvide an example of “functions versus variables”\nProvide an example of “fresh start”\nProvide an example of “dynamic lookup”"
+  },
+  {
+    "objectID": "units/unit13.html#reading",
+    "href": "units/unit13.html#reading",
+    "title": "13) Scoping",
+    "section": "📚 Reading",
+    "text": "📚 Reading\n\nhttps://adv-r.hadley.nz/functions.html#lexical-scoping\nhttps://adv-r.hadley.nz/names-values.html\nhttp://adv-r.had.co.nz/Environments.html"
+  },
+  {
+    "objectID": "units/unit10.html",
+    "href": "units/unit10.html",
+    "title": "10) Iterations",
+    "section": "",
+    "text": "This week we introduce the syntax used by R to handle iteration constructs such as for loops and while loops, among other idioms."
+  },
+  {
+    "objectID": "units/unit10.html#iterations-and-loops",
+    "href": "units/unit10.html#iterations-and-loops",
+    "title": "10) Iterations",
+    "section": "",
+    "text": "This week we introduce the syntax used by R to handle iteration constructs such as for loops and while loops, among other idioms."
+  },
+  {
+    "objectID": "units/unit10.html#slides",
+    "href": "units/unit10.html#slides",
+    "title": "10) Iterations",
+    "section": "📰 Slides",
+    "text": "📰 Slides\n10-iterations.pdf"
+  },
+  {
+    "objectID": "units/unit10.html#objectives",
+    "href": "units/unit10.html#objectives",
+    "title": "10) Iterations",
+    "section": "🎯 Objectives",
+    "text": "🎯 Objectives\nAt the end of this week you will be able to:\n\nDescribe the anatomy of a for loop in R\nDescribe the anatomy of a while loop in R\nDescribe the anatomy of a repeat loop in R\nGet familiar with the next statement to skip iterations\nGet familiar with the break statement to stop loops from iterating\nProvide examples for apply(), lapply(), sapply() functions\nProvide an example of the “dplyr” function across()"
+  },
+  {
+    "objectID": "units/unit10.html#reading",
+    "href": "units/unit10.html#reading",
+    "title": "10) Iterations",
+    "section": "📚 Reading",
+    "text": "📚 Reading\n\nhttps://www.gastonsanchez.com/R-coding-basics/5-04-for-loop.html\nhttps://www.gastonsanchez.com/R-coding-basics/5-05-while-loop.html\nhttps://rstudio-education.github.io/hopr/loops.html\nhttps://adv-r.hadley.nz/control-flow.html#loops"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "STAT 33B: Introduction to Advanced Programming in R",
+    "section": "",
+    "text": "Ed\n\n  DataHub (R)\n\n  Gradescope\n\n  bcourses\n\n\nNo matching items",
+    "crumbs": [
+      "Home / Schedule"
+    ]
+  },
+  {
+    "objectID": "index.html#schedule",
+    "href": "index.html#schedule",
+    "title": "STAT 33B: Introduction to Advanced Programming in R",
+    "section": "Schedule 📅",
+    "text": "Schedule 📅\nTentative calendar subject to change.\n\n\n   Week 1\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n                 No Classes this week\n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Jan 21\n             \n             \n               Lab  No Lab today\n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 2\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  Unit 1: Introduction\n             \n             \n                \n             \n                  \n             \n          \n  \n  \n  \n             \n             \n             \n               Slides  Starting with R and RStudio (pdf) \n             \n             \n               A bit of history about R (pdf)\n              \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Jan 26\n             \n             \n               Lecture 1 Course Policies, Syllabus, etc\n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Jan 28\n             \n             \n               Lab 1 Introduction (not graded)\n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 3\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  Unit 2: Vectors and factors\n             \n             \n                \n             \n                  \n             \n          \n  \n  \n  \n             \n             \n             \n               Slides  Introduction to Vectors (pdf)\n             \n             \n               Subsetting Vectors (pdf)\n              \n                  \n             \n          \n  \n  \n  \n             \n             \n             \n               Additional  Introduction to Factors (pdf)\n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Feb 2\n             \n             \n               Lecture 2 Demo\n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Feb 4\n             \n             \n               Lab 2 Vectors and Factors (due 02/05 11:59pm)\n             \n             \n                \n             \n                  \n             \n          \n  \n  \n  \n             \n             \n             \n               Homework 1 Atomic Objects (due 02/15 11:59pm)\n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 4\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  Unit 3: Matrices and Lists\n             \n             \n                \n             \n                  \n             \n          \n  \n  \n  \n             \n             \n             \n               Slides  Matrices (pdf)\n             \n             \n               Lists (pdf)\n              \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Feb 9\n             \n             \n               Lecture 3 Demo\n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Feb 11\n             \n             \n               Lab 3 Matrices and Lists (due 02/12 11:59pm)\n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 5\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n                 Holiday week: no lecture or new material\n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Feb 18\n             \n             \n               Lab  Section time for exercises and questions/doubts. No new material\n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 6\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  Unit 4: Data Frames\n             \n             \n                \n             \n                  \n             \n          \n  \n  \n  \n             \n             \n             \n               Slides  Data Frames (pdf)\n             \n             \n               Importing Tables (pdf)\n              \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Feb 23\n             \n             \n               Lecture 4 Data Frames and Tables\n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Feb 25\n             \n             \n               Lab 4 Data Frames basics (due 02/26 11:59pm)\n             \n             \n                \n             \n                  \n             \n          \n  \n  \n  \n             \n             \n             \n               Homework 3 HW 3: Data Frames (due 03/15 11:59pm)\n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 7\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  Unit 5: Tidyverse part 1\n             \n             \n                \n             \n                  \n             \n          \n  \n  \n  \n             \n             \n             \n               Slides  Intro to dplyr (pdf)\n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Mar 2\n             \n             \n               Lecture 5 Data wrangling with dplyr\n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Mar 4\n             \n             \n               Lab 5 Intro to dplyr (due 3/5 11:59pm)\n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 8\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  Unit 6: Tidyverse part 2\n             \n             \n                \n             \n                  \n             \n          \n  \n  \n  \n             \n             \n             \n               Slides  Intro to ggplot (pdf)\n             \n             \n               Midterm practice questions\n              \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Mar 9\n             \n             \n               Lecture 6 Graphics with ggplot2\n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Mar 11\n             \n             \n               Lab 6 Intro to ggplot2 (due 3/12 11:59pm)\n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 9\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  Midterm\n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Mar 16\n             \n             \n               Midterm  Midterm Test\n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n\nNo matching items",
+    "crumbs": [
+      "Home / Schedule"
+    ]
+  },
+  {
     "objectID": "ed-netiquette.html",
     "href": "ed-netiquette.html",
     "title": "Ed-Discussion Netiquette",
@@ -121,94 +489,15 @@
     ]
   },
   {
-    "objectID": "units/unit5.html",
-    "href": "units/unit5.html",
-    "title": "5) Tidyverse part 1",
+    "objectID": "faqs.html",
+    "href": "faqs.html",
+    "title": "Some Frequently Asked Questions",
     "section": "",
-    "text": "In addition to learning about the “classic” way to work with data frames, we will briefly touch on an “alternative” approach for working with tables provided by the ecosystem of packages known as the \"tidyverse\": https://www.tidyverse.org\nThis week we start with the tidyverse package \"dplyr\". Simply put, \"dplyr\" comes with functions that allow you to manipulate data-tables (e.g. data-frames, and other 2-dimensional objects) using a modern and syntactic way.",
+    "text": "Will STAT 33B be offered in hybrid mode (both in-person and remotely, simultaneously)?  No, STAT 33B will not be offered in hybrid mode. Instead, all classes and sections are to be delivered in-person. If you have time conflicts with lecture and/or section, please don’t take STAT 33B this semester.\n\nWill there be live webcast or recordings of lectures?  Yes. Lectures will be recorded and we plan on sharing them.\n\nDo you have an illness policy (e.g. Covid, Flu)?  Maintaining your health and that of the Berkeley community is of primary importance to course staff, so if you are feeling ill or have been exposed to illness, please do not come to class. All of the materials used in class will be posted either in this website or in bCourses. Likewise, you’re encouraged to reach out to fellow students to discuss the class materials or stop by office hours to chat with the GSI, the tutor, or the instructor.\nHaving said that, we expect you to attend lecture and lab. Past experience tells us that students who constantly miss lecture/lab tend to have a mediocre performance.\nAlso, missing lecture/lab does not give you the right to use OH as a replacement for receiving instruction. We are always willing to help you understand the learning materials during OH, but this also requires that you make an honest effort reviewing them before coming to OH.\n\nSTAT 33A or 33B?  You might be wondering what the difference is between STAT 33A and STAT 33B. Broadly speaking, the topics in STAT 33A are a subset of the topics in 33B. Please keep in mind that STAT 33A is not offered this Fall-2025 semester.\n33A is designed for people that have never programmed before, the pace of certain parts is slower, and more examples are provided. 33A puts slightly more emphasis on data analysis packages than 33B. The primary goal of 33A is that students finish the course with the basic programming skills necessary for a typical data analysis or implementation of a simple algorithm.\n33B is designed for students with previous programming experience (not necessarily in R). The curriculum assumes students will already be familiar with programming concepts such as variables, if-else statements, loops, and functions, so these topics are covered more quickly than in 33A. The extra time is used to cover details about how R works at a lower level. The primary goal of 33B is that students finish the course with the programming skills necessary to help developing and maintaining software in R.\nBTW: STAT 33B is not supposed to be taken after STAT 33A.\n\nI am a concurrent student. What are my chances of enrolling in the class? \nNone. Sorry.\n\nI am a grad student officially enrolled. Do you have a grading structure for grad students?  This semester we don’t have a special grading structure for graduate students. All students will be evaluated with the same criteria. See the course syllabus for more information about the grading structure.\n\nWhat if I join the class late?  If you join the class within the first two weeks, read the syllabus and lecture notes, take a look at bCourses to get a sense of any assignments that may have already passed, and visit office hours to check that you’re up to date with things.\nAfter two weeks into the semester, you’ll have too much material that you’ll need to make up, so you will have to wait to a subsequent semester to take STAT 33B.\n\nAre time conflicts allowed?  STAT 33B does not allow students to enroll with time conflicts.\n\nI would like to switch lab sections with other student. Is this possible?  You should attend the lab section you are officially enrolled in. If you have a time conflict, then do not enroll in STAT 33B this semester.\n\nIs this course a good fit if I don’t have any programming experience?  No. We expect that all of you come with previous coding experience and be already familiar with concepts such as data types, variables, functions, conditionals, and iterations.\n\nIs this course a good fit if I already have some programming experience?  It depends. This course should be a good fit if you are truly interested in learning about R and its “behind the scenes”. Having said that, if what you are looking for is a general programming course, or a statistical programming course, STAT 33B is not a good fit.\n\nCan we work in groups?  Yes, absolutely. We strongly encourage you to not work alone. Well, let me rephrase that. You should try to first work on your own (trial and error). Take notes of the things you don’t understand. Then get with other people and discuss ideas, share tips (but not the entire solution).\n\nAren’t you suppose to teach us?  Yes. But you don’t learn programming by watching someone else program. The same way that you don’t learn to swim by simply watching someone else swimming. You have to get into the pool, and do all the drills your instructor says. This is a very hands-on course, and you will be required to do a great amount of work on your own.",
     "crumbs": [
-      "Units",
-      "5) Tidyverse part 1"
+      "Other",
+      "FAQs"
     ]
-  },
-  {
-    "objectID": "units/unit5.html#intro-to-dplyr-and-ggplot2",
-    "href": "units/unit5.html#intro-to-dplyr-and-ggplot2",
-    "title": "5) Tidyverse part 1",
-    "section": "",
-    "text": "In addition to learning about the “classic” way to work with data frames, we will briefly touch on an “alternative” approach for working with tables provided by the ecosystem of packages known as the \"tidyverse\": https://www.tidyverse.org\nThis week we start with the tidyverse package \"dplyr\". Simply put, \"dplyr\" comes with functions that allow you to manipulate data-tables (e.g. data-frames, and other 2-dimensional objects) using a modern and syntactic way.",
-    "crumbs": [
-      "Units",
-      "5) Tidyverse part 1"
-    ]
-  },
-  {
-    "objectID": "units/unit5.html#slides",
-    "href": "units/unit5.html#slides",
-    "title": "5) Tidyverse part 1",
-    "section": "📰 Slides",
-    "text": "📰 Slides\n05a-intro-to-dplyr.pdf",
-    "crumbs": [
-      "Units",
-      "5) Tidyverse part 1"
-    ]
-  },
-  {
-    "objectID": "units/unit5.html#objectives",
-    "href": "units/unit5.html#objectives",
-    "title": "5) Tidyverse part 1",
-    "section": "🎯 Objectives",
-    "text": "🎯 Objectives\nWe’ll go over the set of functions available in \"dplyr\" to perform common manipulations of tabular data.\n\nSelecting rows with slice(), and filter()\nSelecting columns with select()\nTransforming columns with mutate()\nArranging rows with arrange()\nGrouping data with group_by()\nSummarizing data with summarize()",
-    "crumbs": [
-      "Units",
-      "5) Tidyverse part 1"
-    ]
-  },
-  {
-    "objectID": "units/unit5.html#reading",
-    "href": "units/unit5.html#reading",
-    "title": "5) Tidyverse part 1",
-    "section": "📚 Reading",
-    "text": "📚 Reading\n\nhttps://www.gastonsanchez.com/R-tidy-hurricanes/2-01-intro-ggplot.html\nhttps://www.gastonsanchez.com/R-tidy-hurricanes/2-02-intro-dplyr.html\nIn case you are curious, here’s an interesting opinion by UC-Davis Prof. Norman Matloff about the tidyverse: https://github.com/matloff/TidyverseSkeptic",
-    "crumbs": [
-      "Units",
-      "5) Tidyverse part 1"
-    ]
-  },
-  {
-    "objectID": "units/unit9.html",
-    "href": "units/unit9.html",
-    "title": "9) Conditionals",
-    "section": "",
-    "text": "This week we introduce the notion of R expressions, and we provide the syntax used by R to handle if-else statements and related conditionals constructs."
-  },
-  {
-    "objectID": "units/unit9.html#conditional-statements",
-    "href": "units/unit9.html#conditional-statements",
-    "title": "9) Conditionals",
-    "section": "",
-    "text": "This week we introduce the notion of R expressions, and we provide the syntax used by R to handle if-else statements and related conditionals constructs."
-  },
-  {
-    "objectID": "units/unit9.html#slides",
-    "href": "units/unit9.html#slides",
-    "title": "9) Conditionals",
-    "section": "📰 Slides",
-    "text": "📰 Slides\n09-conditionals.pdf"
-  },
-  {
-    "objectID": "units/unit9.html#objectives",
-    "href": "units/unit9.html#objectives",
-    "title": "9) Conditionals",
-    "section": "🎯 Objectives",
-    "text": "🎯 Objectives\nAt the end of this week you will be able to:\n\nDescribe what curly braces {...} are used for in R.\nWrite if-else statements to handle simple or multiple conditions\nDescribe the purpose of the vectorized function ifelse()\nDescribe and give an example of switch()\nDescribe and give an example of the congruent vectors strategy (which is connected with the lookup-vector trick)\nDescribe and give an example of the “dplyr” function case_when()"
-  },
-  {
-    "objectID": "units/unit9.html#reading",
-    "href": "units/unit9.html#reading",
-    "title": "9) Conditionals",
-    "section": "📚 Reading",
-    "text": "📚 Reading\n\nhttps://www.gastonsanchez.com/R-coding-basics/5-02-expressions.html\nhttps://www.gastonsanchez.com/R-coding-basics/5-03-conditionals.html\nhttps://adv-r.hadley.nz/control-flow.html#choices\nhttps://rstudio-education.github.io/hopr/programs.html#if-statements"
   },
   {
     "objectID": "units/unit14.html",
@@ -253,149 +542,219 @@
     "text": "🔬 Lab\nPractice measuring performance."
   },
   {
-    "objectID": "units/unit2.html",
-    "href": "units/unit2.html",
-    "title": "2) Vectors and Factors",
+    "objectID": "units/unit11.html",
+    "href": "units/unit11.html",
+    "title": "11) Functions",
     "section": "",
-    "text": "In this module we describe data types and their implementation in R objects like vectors and their cousins factors. We’ll focus on important concepts like:\n\nvectors and their data types (e.g. logical, integer, double or real, and character).\ncreation of vectors: various ways and functions to create vectors.\nimplicit coercion rules: what R does when you combine values of different data types.\nvectorization: when R applies calculations or operations to all the elements of a vector (element-wise).\nrecycling: what R does when you perform a calculation with vectors of different length.\nsubsetting (aka indexing, subscripting, bracket notation)",
-    "crumbs": [
-      "Units",
-      "2) Vectors and Factors"
-    ]
+    "text": "This week we review the syntax used by R for writing functions."
   },
   {
-    "objectID": "units/unit2.html#vectors-and-factors",
-    "href": "units/unit2.html#vectors-and-factors",
-    "title": "2) Vectors and Factors",
+    "objectID": "units/unit11.html#lecture",
+    "href": "units/unit11.html#lecture",
+    "title": "11) Functions",
     "section": "",
-    "text": "In this module we describe data types and their implementation in R objects like vectors and their cousins factors. We’ll focus on important concepts like:\n\nvectors and their data types (e.g. logical, integer, double or real, and character).\ncreation of vectors: various ways and functions to create vectors.\nimplicit coercion rules: what R does when you combine values of different data types.\nvectorization: when R applies calculations or operations to all the elements of a vector (element-wise).\nrecycling: what R does when you perform a calculation with vectors of different length.\nsubsetting (aka indexing, subscripting, bracket notation)",
-    "crumbs": [
-      "Units",
-      "2) Vectors and Factors"
-    ]
+    "text": "This week we review the syntax used by R for writing functions."
   },
   {
-    "objectID": "units/unit2.html#slides",
-    "href": "units/unit2.html#slides",
-    "title": "2) Vectors and Factors",
+    "objectID": "units/unit11.html#slides",
+    "href": "units/unit11.html#slides",
+    "title": "11) Functions",
     "section": "📰 Slides",
-    "text": "📰 Slides\n02a-vectors-intro.pdf\n02b-vectors-subsetting.pdf\n02c-factors.pdf",
-    "crumbs": [
-      "Units",
-      "2) Vectors and Factors"
-    ]
+    "text": "📰 Slides\n11-functions.pdf"
   },
   {
-    "objectID": "units/unit2.html#objectives",
-    "href": "units/unit2.html#objectives",
-    "title": "2) Vectors and Factors",
+    "objectID": "units/unit11.html#objectives",
+    "href": "units/unit11.html#objectives",
+    "title": "11) Functions",
     "section": "🎯 Objectives",
-    "text": "🎯 Objectives\nAt the end of this week you will be able to:\n\nList the four common data types in R, and give examples for them\nExplain why R vectors are said to be atomic objects\nDescribe and give an example of the implicit coercion rules\nDescribe and give an example of vectorized code\nDescribe and give an example of the recycling rule",
-    "crumbs": [
-      "Units",
-      "2) Vectors and Factors"
-    ]
+    "text": "🎯 Objectives\nAt the end of this week you will be able to:\n\nDescribe the main parts of a function in R (i.e. anatomy of a function)\nGive a simple example for creating a function\nExplain the difference between positional arguments, and named arguments\nProvide an example for creating a “binary operator” (or infix) function"
   },
   {
-    "objectID": "units/unit2.html#reading",
-    "href": "units/unit2.html#reading",
-    "title": "2) Vectors and Factors",
+    "objectID": "units/unit11.html#reading",
+    "href": "units/unit11.html#reading",
+    "title": "11) Functions",
     "section": "📚 Reading",
-    "text": "📚 Reading\n\nhttps://www.gastonsanchez.com/R-coding-basics/1-01-vectors-intro.html\nhttps://www.gastonsanchez.com/R-coding-basics/1-02-vectors-properties.html\nhttps://www.gastonsanchez.com/R-coding-basics/1-03-vectors-creation.html\nhttps://www.gastonsanchez.com/R-coding-basics/1-04-vectors-concepts.html",
-    "crumbs": [
-      "Units",
-      "2) Vectors and Factors"
-    ]
+    "text": "📚 Reading\n\nhttps://www.gastonsanchez.com/R-coding-basics/5-01-functions-intro.html\nhttps://www.gastonsanchez.com/R-coding-basics/5-06-more-functions.html\nhttps://adv-r.hadley.nz/functions.html"
   },
   {
-    "objectID": "units/unit6.html",
-    "href": "units/unit6.html",
-    "title": "6) Tidyverse part 2",
+    "objectID": "units/unit12.html",
+    "href": "units/unit12.html",
+    "title": "12) Bindings and Environments",
     "section": "",
-    "text": "Last week we discussed the basics of dplyr. This week you’ll learn about the Grammar of Graphics and its central idea: a graphic involves mapping data to geometric objects and their visual attributes. This is the underlying framework behind the mechanics and core functions available in “ggplot2” for creating simple graphics:\n\nBegin your graphic specification with ggplot()\nIndicate where the data comes from\nEstablish which variables are going to be mapped into visual attributes: aes()\nDecide what kind of geometric object(s) will be used to display data; e.g. geom_point()\nOptional: do you need to use facets?\nOptional: do you need to explicitly use one or more statistical transformations?\nOptional: do you need to explicitly set a non-default system of coordinates?\nOptional: do you need to explicitly use a non-default theme of graphical elements?\n\nIn addition, we introduce so-called pipelines and the use of the pipe operators |&gt; and %&gt;%.",
-    "crumbs": [
-      "Units",
-      "6) Tidyverse part 2"
-    ]
+    "text": "This week we go down a technical rabbit hole to learn three important concepts. First, we discuss how R differentiates between names and values. Second, we talk about the so-called copy-on-modify policy which is what R uses to decide when a copy of an object needs to be made. And third, we briefly review environments which are basically the data structure that powers scoping. Understanding all these notions will be helpful in our last week when we get to talk about performance and memory usage of R code."
   },
   {
-    "objectID": "units/unit6.html#more-about-dplyr-and-ggplot",
-    "href": "units/unit6.html#more-about-dplyr-and-ggplot",
-    "title": "6) Tidyverse part 2",
+    "objectID": "units/unit12.html#names-values-and-environments",
+    "href": "units/unit12.html#names-values-and-environments",
+    "title": "12) Bindings and Environments",
     "section": "",
-    "text": "Last week we discussed the basics of dplyr. This week you’ll learn about the Grammar of Graphics and its central idea: a graphic involves mapping data to geometric objects and their visual attributes. This is the underlying framework behind the mechanics and core functions available in “ggplot2” for creating simple graphics:\n\nBegin your graphic specification with ggplot()\nIndicate where the data comes from\nEstablish which variables are going to be mapped into visual attributes: aes()\nDecide what kind of geometric object(s) will be used to display data; e.g. geom_point()\nOptional: do you need to use facets?\nOptional: do you need to explicitly use one or more statistical transformations?\nOptional: do you need to explicitly set a non-default system of coordinates?\nOptional: do you need to explicitly use a non-default theme of graphical elements?\n\nIn addition, we introduce so-called pipelines and the use of the pipe operators |&gt; and %&gt;%.",
-    "crumbs": [
-      "Units",
-      "6) Tidyverse part 2"
-    ]
+    "text": "This week we go down a technical rabbit hole to learn three important concepts. First, we discuss how R differentiates between names and values. Second, we talk about the so-called copy-on-modify policy which is what R uses to decide when a copy of an object needs to be made. And third, we briefly review environments which are basically the data structure that powers scoping. Understanding all these notions will be helpful in our last week when we get to talk about performance and memory usage of R code."
   },
   {
-    "objectID": "units/unit6.html#slides",
-    "href": "units/unit6.html#slides",
-    "title": "6) Tidyverse part 2",
+    "objectID": "units/unit12.html#slides",
+    "href": "units/unit12.html#slides",
+    "title": "12) Bindings and Environments",
     "section": "📰 Slides",
-    "text": "📰 Slides\n06a-intro-to-ggplot.pdf\n06b-more-dplyr.pdf",
-    "crumbs": [
-      "Units",
-      "6) Tidyverse part 2"
-    ]
+    "text": "📰 Slides\n12-names-values-environments.pdf"
   },
   {
-    "objectID": "units/unit6.html#objectives",
-    "href": "units/unit6.html#objectives",
-    "title": "6) Tidyverse part 2",
+    "objectID": "units/unit12.html#objectives",
+    "href": "units/unit12.html#objectives",
+    "title": "12) Bindings and Environments",
     "section": "🎯 Objectives",
-    "text": "🎯 Objectives\nAt the end of this week you will be able to:\n\nGet a first contact with \"ggplot2\"\nDescribe the purpose of the aesthetic mapping function aes()\nDescribe the notion of “layers” and how to use them for making a graphic using \"ggplot2\"",
-    "crumbs": [
-      "Units",
-      "6) Tidyverse part 2"
-    ]
+    "text": "🎯 Objectives\nAt the end of this week you will be able to:\n\nDescribe the distinction between names and values\nExplain how &lt;- creates a binding, or reference, between a name and a value\nProvide an example of copy-on-modify policy\nDescribe the basic properties of an environment and their special purposes"
   },
   {
-    "objectID": "units/unit6.html#reading",
-    "href": "units/unit6.html#reading",
-    "title": "6) Tidyverse part 2",
+    "objectID": "units/unit12.html#reading",
+    "href": "units/unit12.html#reading",
+    "title": "12) Bindings and Environments",
     "section": "📚 Reading",
-    "text": "📚 Reading\n\nhttps://www.gastonsanchez.com/R-tidy-hurricanes/2-03-intro-pipes.html\nhttps://www.gastonsanchez.com/R-tidy-hurricanes/3-01-storms-year.html\nhttps://www.gastonsanchez.com/R-tidy-hurricanes/3-02-storms-1975.html\nhttps://www.gastonsanchez.com/R-tidy-hurricanes/3-04-Summary-1975.html",
-    "crumbs": [
-      "Units",
-      "6) Tidyverse part 2"
-    ]
+    "text": "📚 Reading\n\nhttps://adv-r.hadley.nz/names-values.html\nhttps://adv-r.hadley.nz/environments.html"
   },
   {
-    "objectID": "units/unit10.html",
-    "href": "units/unit10.html",
-    "title": "10) Iterations",
+    "objectID": "units/unit9.html",
+    "href": "units/unit9.html",
+    "title": "9) Conditionals",
     "section": "",
-    "text": "This week we introduce the syntax used by R to handle iteration constructs such as for loops and while loops, among other idioms."
+    "text": "This week we introduce the notion of R expressions, and we provide the syntax used by R to handle if-else statements and related conditionals constructs."
   },
   {
-    "objectID": "units/unit10.html#iterations-and-loops",
-    "href": "units/unit10.html#iterations-and-loops",
-    "title": "10) Iterations",
+    "objectID": "units/unit9.html#conditional-statements",
+    "href": "units/unit9.html#conditional-statements",
+    "title": "9) Conditionals",
     "section": "",
-    "text": "This week we introduce the syntax used by R to handle iteration constructs such as for loops and while loops, among other idioms."
+    "text": "This week we introduce the notion of R expressions, and we provide the syntax used by R to handle if-else statements and related conditionals constructs."
   },
   {
-    "objectID": "units/unit10.html#slides",
-    "href": "units/unit10.html#slides",
-    "title": "10) Iterations",
+    "objectID": "units/unit9.html#slides",
+    "href": "units/unit9.html#slides",
+    "title": "9) Conditionals",
     "section": "📰 Slides",
-    "text": "📰 Slides\n10-iterations.pdf"
+    "text": "📰 Slides\n09-conditionals.pdf"
   },
   {
-    "objectID": "units/unit10.html#objectives",
-    "href": "units/unit10.html#objectives",
-    "title": "10) Iterations",
+    "objectID": "units/unit9.html#objectives",
+    "href": "units/unit9.html#objectives",
+    "title": "9) Conditionals",
     "section": "🎯 Objectives",
-    "text": "🎯 Objectives\nAt the end of this week you will be able to:\n\nDescribe the anatomy of a for loop in R\nDescribe the anatomy of a while loop in R\nDescribe the anatomy of a repeat loop in R\nGet familiar with the next statement to skip iterations\nGet familiar with the break statement to stop loops from iterating\nProvide examples for apply(), lapply(), sapply() functions\nProvide an example of the “dplyr” function across()"
+    "text": "🎯 Objectives\nAt the end of this week you will be able to:\n\nDescribe what curly braces {...} are used for in R.\nWrite if-else statements to handle simple or multiple conditions\nDescribe the purpose of the vectorized function ifelse()\nDescribe and give an example of switch()\nDescribe and give an example of the congruent vectors strategy (which is connected with the lookup-vector trick)\nDescribe and give an example of the “dplyr” function case_when()"
   },
   {
-    "objectID": "units/unit10.html#reading",
-    "href": "units/unit10.html#reading",
-    "title": "10) Iterations",
+    "objectID": "units/unit9.html#reading",
+    "href": "units/unit9.html#reading",
+    "title": "9) Conditionals",
     "section": "📚 Reading",
-    "text": "📚 Reading\n\nhttps://www.gastonsanchez.com/R-coding-basics/5-04-for-loop.html\nhttps://www.gastonsanchez.com/R-coding-basics/5-05-while-loop.html\nhttps://rstudio-education.github.io/hopr/loops.html\nhttps://adv-r.hadley.nz/control-flow.html#loops"
+    "text": "📚 Reading\n\nhttps://www.gastonsanchez.com/R-coding-basics/5-02-expressions.html\nhttps://www.gastonsanchez.com/R-coding-basics/5-03-conditionals.html\nhttps://adv-r.hadley.nz/control-flow.html#choices\nhttps://rstudio-education.github.io/hopr/programs.html#if-statements"
+  },
+  {
+    "objectID": "units/unit3.html",
+    "href": "units/unit3.html",
+    "title": "3) Matrices and Lists",
+    "section": "",
+    "text": "We continue describing more data objects in R such as\n\natomic objects: matrices (and N-dim arrays)\nnon-atomic objects: lists",
+    "crumbs": [
+      "Units",
+      "3) Matrices and Lists"
+    ]
+  },
+  {
+    "objectID": "units/unit3.html#matrices-and-lists",
+    "href": "units/unit3.html#matrices-and-lists",
+    "title": "3) Matrices and Lists",
+    "section": "",
+    "text": "We continue describing more data objects in R such as\n\natomic objects: matrices (and N-dim arrays)\nnon-atomic objects: lists",
+    "crumbs": [
+      "Units",
+      "3) Matrices and Lists"
+    ]
+  },
+  {
+    "objectID": "units/unit3.html#slides",
+    "href": "units/unit3.html#slides",
+    "title": "3) Matrices and Lists",
+    "section": "📰 Slides",
+    "text": "📰 Slides\n03a-matrices.pdf\n03b-lists.pdf",
+    "crumbs": [
+      "Units",
+      "3) Matrices and Lists"
+    ]
+  },
+  {
+    "objectID": "units/unit3.html#objectives",
+    "href": "units/unit3.html#objectives",
+    "title": "3) Matrices and Lists",
+    "section": "🎯 Objectives",
+    "text": "🎯 Objectives\nAt the end of this week you will be able to:\n\nCreate matrices with the function matrix(), rbind(), and cbind()\nExplain how R internally stores matrices\nUse brackets [] to subset matrices\nDescribe why matrices are atomic objects\nCreation of lists with list()\nDescribe in what sense a list is considered to be a non-atomic vector",
+    "crumbs": [
+      "Units",
+      "3) Matrices and Lists"
+    ]
+  },
+  {
+    "objectID": "units/unit3.html#reading",
+    "href": "units/unit3.html#reading",
+    "title": "3) Matrices and Lists",
+    "section": "📚 Reading",
+    "text": "📚 Reading\n\nhttps://www.gastonsanchez.com/R-coding-basics/3-01-matrices-intro.html\nhttps://www.gastonsanchez.com/R-coding-basics/3-02-matrices-operations.html\nhttps://www.gastonsanchez.com/R-coding-basics/4-01-lists.html\nhttps://adv-r.hadley.nz/vectors-chap.html#lists\nhttps://rstudio-education.github.io/hopr/r-objects.html#matrices\nhttps://rstudio-education.github.io/hopr/r-objects.html#lists",
+    "crumbs": [
+      "Units",
+      "3) Matrices and Lists"
+    ]
+  },
+  {
+    "objectID": "units/unit4.html",
+    "href": "units/unit4.html",
+    "title": "4) Data Frames",
+    "section": "",
+    "text": "In this module we discuss the basics of data-frames, which are the dedicated object in R for handling tabular data sets. In addition, we also review some of the available functions in R to import tables in R.",
+    "crumbs": [
+      "Units",
+      "4) Data Frames"
+    ]
+  },
+  {
+    "objectID": "units/unit4.html#data-frames-and-importing-tables",
+    "href": "units/unit4.html#data-frames-and-importing-tables",
+    "title": "4) Data Frames",
+    "section": "",
+    "text": "In this module we discuss the basics of data-frames, which are the dedicated object in R for handling tabular data sets. In addition, we also review some of the available functions in R to import tables in R.",
+    "crumbs": [
+      "Units",
+      "4) Data Frames"
+    ]
+  },
+  {
+    "objectID": "units/unit4.html#slides",
+    "href": "units/unit4.html#slides",
+    "title": "4) Data Frames",
+    "section": "📰 Slides",
+    "text": "📰 Slides\n04a-data-frames.pdf\n04b-import-tables.pdf",
+    "crumbs": [
+      "Units",
+      "4) Data Frames"
+    ]
+  },
+  {
+    "objectID": "units/unit4.html#objectives",
+    "href": "units/unit4.html#objectives",
+    "title": "4) Data Frames",
+    "section": "🎯 Objectives",
+    "text": "🎯 Objectives\nAt the end of this week you will be able to:\n\nCreate simple tables with data.frame()\nExplain in what sense a data frame is a list\nExplain in what sense a data frame is a 2-dimensional object\nDescribe and give examples of subsetting (subscripting, indexing) of an R data frame\n\nprovide a manipulation example with single brackets, and 2-dimensions (e.g. dat[rows,cols])\nprovide a manipulation example with single brackets, and 1 dimension (e.g. dat[wagons])\nprovide a manipulation example with double brackets, and a single element (e.g. dat[[wagon]])\nprovide a manipulation example with the dollar operator (e.g. dat$wagon)\n\nImport tables with read.table() and derived functions: read.csv(), read.delim(), etc",
+    "crumbs": [
+      "Units",
+      "4) Data Frames"
+    ]
+  },
+  {
+    "objectID": "units/unit4.html#reading",
+    "href": "units/unit4.html#reading",
+    "title": "4) Data Frames",
+    "section": "📚 Reading",
+    "text": "📚 Reading\n\nhttps://www.gastonsanchez.com/R-coding-basics/4-02-data-frames.html\nhttps://rstudio-education.github.io/hopr/r-objects.html#data-frames\nhttps://adv-r.hadley.nz/vectors-chap.html#tibble",
+    "crumbs": [
+      "Units",
+      "4) Data Frames"
+    ]
   },
   {
     "objectID": "units/unit7.html",
@@ -433,56 +792,23 @@
     "text": "📚 Reading\n\nhttps://www.gastonsanchez.com/R-tidy-hurricanes/2-03-intro-pipes.html\nhttps://www.gastonsanchez.com/R-tidy-hurricanes/3-01-storms-year.html\nhttps://www.gastonsanchez.com/R-tidy-hurricanes/3-02-storms-1975.html\nhttps://www.gastonsanchez.com/R-tidy-hurricanes/3-04-Summary-1975.html"
   },
   {
-    "objectID": "faqs.html",
-    "href": "faqs.html",
-    "title": "Some Frequently Asked Questions",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Will STAT 33B be offered in hybrid mode (both in-person and remotely, simultaneously)?  No, STAT 33B will not be offered in hybrid mode. Instead, all classes and sections are to be delivered in-person. If you have time conflicts with lecture and/or section, please don’t take STAT 33B this semester.\n\nWill there be live webcast or recordings of lectures?  Yes. Lectures will be recorded and we plan on sharing them.\n\nDo you have an illness policy (e.g. Covid, Flu)?  Maintaining your health and that of the Berkeley community is of primary importance to course staff, so if you are feeling ill or have been exposed to illness, please do not come to class. All of the materials used in class will be posted either in this website or in bCourses. Likewise, you’re encouraged to reach out to fellow students to discuss the class materials or stop by office hours to chat with the GSI, the tutor, or the instructor.\nHaving said that, we expect you to attend lecture and lab. Past experience tells us that students who constantly miss lecture/lab tend to have a mediocre performance.\nAlso, missing lecture/lab does not give you the right to use OH as a replacement for receiving instruction. We are always willing to help you understand the learning materials during OH, but this also requires that you make an honest effort reviewing them before coming to OH.\n\nSTAT 33A or 33B?  You might be wondering what the difference is between STAT 33A and STAT 33B. Broadly speaking, the topics in STAT 33A are a subset of the topics in 33B. Please keep in mind that STAT 33A is not offered this Fall-2025 semester.\n33A is designed for people that have never programmed before, the pace of certain parts is slower, and more examples are provided. 33A puts slightly more emphasis on data analysis packages than 33B. The primary goal of 33A is that students finish the course with the basic programming skills necessary for a typical data analysis or implementation of a simple algorithm.\n33B is designed for students with previous programming experience (not necessarily in R). The curriculum assumes students will already be familiar with programming concepts such as variables, if-else statements, loops, and functions, so these topics are covered more quickly than in 33A. The extra time is used to cover details about how R works at a lower level. The primary goal of 33B is that students finish the course with the programming skills necessary to help developing and maintaining software in R.\nBTW: STAT 33B is not supposed to be taken after STAT 33A.\n\nI am a concurrent student. What are my chances of enrolling in the class? \nNone. Sorry.\n\nI am a grad student officially enrolled. Do you have a grading structure for grad students?  This semester we don’t have a special grading structure for graduate students. All students will be evaluated with the same criteria. See the course syllabus for more information about the grading structure.\n\nWhat if I join the class late?  If you join the class within the first two weeks, read the syllabus and lecture notes, take a look at bCourses to get a sense of any assignments that may have already passed, and visit office hours to check that you’re up to date with things.\nAfter two weeks into the semester, you’ll have too much material that you’ll need to make up, so you will have to wait to a subsequent semester to take STAT 33B.\n\nAre time conflicts allowed?  STAT 33B does not allow students to enroll with time conflicts.\n\nI would like to switch lab sections with other student. Is this possible?  You should attend the lab section you are officially enrolled in. If you have a time conflict, then do not enroll in STAT 33B this semester.\n\nIs this course a good fit if I don’t have any programming experience?  No. We expect that all of you come with previous coding experience and be already familiar with concepts such as data types, variables, functions, conditionals, and iterations.\n\nIs this course a good fit if I already have some programming experience?  It depends. This course should be a good fit if you are truly interested in learning about R and its “behind the scenes”. Having said that, if what you are looking for is a general programming course, or a statistical programming course, STAT 33B is not a good fit.\n\nCan we work in groups?  Yes, absolutely. We strongly encourage you to not work alone. Well, let me rephrase that. You should try to first work on your own (trial and error). Take notes of the things you don’t understand. Then get with other people and discuss ideas, share tips (but not the entire solution).\n\nAren’t you suppose to teach us?  Yes. But you don’t learn programming by watching someone else program. The same way that you don’t learn to swim by simply watching someone else swimming. You have to get into the pool, and do all the drills your instructor says. This is a very hands-on course, and you will be required to do a great amount of work on your own.",
+    "text": "Info\n\n\n\nLecture: Mon 3pm-4pm in Hearst Mining 390\nLab:\n\nLab 101, Wed 9am-10am, Evans 344\nLab 102, Wed 10am-11am, Evans 344\nLab 103, Wed 1pm-2pm, Evans 344\nLab 104, Wed 2pm-3pm, Evans 334\n\nUnits: 1\nFinal Exam: Wed May 13th, 7pm-10pm, location TBD.\nThis course introduces the R statistical software to students with minimal prior exposure to programming.\nThe course aims to prepare students to carry out a basic data analysis and to write simple functions. The focus is on the computational model that underlies the R language with the goal of providing a foundation for further coding.",
     "crumbs": [
-      "Other",
-      "FAQs"
+      "About"
     ]
   },
   {
-    "objectID": "staff.html",
-    "href": "staff.html",
-    "title": "Staff",
-    "section": "",
-    "text": "Instructor: Andrea Massari You can call me Andrea or anything you’re comfortable with.  amassari at berkeley dot edu    \n\n\n GSI: Thong Trinh thong at berkeley dot edu      \n\n\n Tutor: Ethan Chant xx_ethan_xx at berkeley dot edu\n\n\n\n\n Tutor: John Zhuang zhuangzian at berkeley dot edu\n\n\n Reader: Aidan Chan aidanmshen at berkeley dot edu\n\n\n Reader: Emily Hsu emilyhsu1 at berkeley dot edu      \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIn general, please use Ed to communicate with the course staff.\nUnless otherwise indicated, email should only be used for private concerns directed to a specific member of the teaching staff.",
+    "objectID": "about.html#more-information",
+    "href": "about.html#more-information",
+    "title": "About",
+    "section": "More Information",
+    "text": "More Information\n\nSchedule\nSyllabus\nStaff\nEd Netiquette\nQ&As",
     "crumbs": [
-      "Other",
-      "Staff"
-    ]
-  },
-  {
-    "objectID": "cheatsheets.html",
-    "href": "cheatsheets.html",
-    "title": "Cheat Sheets ready to use",
-    "section": "",
-    "text": "Cheat sheets are your friends, use them at all times.\n\nrstudio-IDE-cheatsheet.pdf\nrmarkdown-cheatsheet-2.0.pdf\nbase-r-cheatsheet.pdf\ndplyr-cheatsheet.pdf\nggplot2-cheatsheet-2.1.pdf\ndata-import-cheatsheet.pdf",
-    "crumbs": [
-      "Other",
-      "Cheatsheets"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "STAT 33B: Introduction to Advanced Programming in R",
-    "section": "",
-    "text": "Ed\n\n  DataHub (R)\n\n  Gradescope\n\n  bcourses\n\nNo matching items",
-    "crumbs": [
-      "Home / Schedule"
-    ]
-  },
-  {
-    "objectID": "index.html#schedule",
-    "href": "index.html#schedule",
-    "title": "STAT 33B: Introduction to Advanced Programming in R",
-    "section": "Schedule 📅",
-    "text": "Schedule 📅\nTentative calendar subject to change.\n\nWeek 1\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n                 No Classes this week\n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Jan 21\n             \n             \n               Lab  No Lab today\n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 2\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  Unit 1: Introduction\n             \n             \n                \n             \n                  \n             \n          \n  \n  \n  \n             \n             \n             \n               Slides  Starting with R and RStudio (pdf) \n             \n             \n               A bit of history about R (pdf)\n              \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Jan 26\n             \n             \n               Lecture 1 Course Policies, Syllabus, etc\n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Jan 28\n             \n             \n               Lab 1 Introduction (not graded)\n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 3\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  Unit 2: Vectors and factors\n             \n             \n                \n             \n                  \n             \n          \n  \n  \n  \n             \n             \n             \n               Slides  Introduction to Vectors (pdf)\n             \n             \n               Subsetting Vectors (pdf)\n              \n                  \n             \n          \n  \n  \n  \n             \n             \n             \n               Additional  Introduction to Factors (pdf)\n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Feb 2\n             \n             \n               Lecture 2 Demo\n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Feb 4\n             \n             \n               Lab 2 Vectors and Factors (due 02/05 11:59pm)\n             \n             \n                \n             \n                  \n             \n          \n  \n  \n  \n             \n             \n             \n               Homework 1 Atomic Objects (due 02/15 11:59pm)\n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 4\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  Unit 3: Matrices and Lists\n             \n             \n                \n             \n                  \n             \n          \n  \n  \n  \n             \n             \n             \n               Slides  Matrices (pdf)\n             \n             \n               Lists (pdf)\n              \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Feb 9\n             \n             \n               Lecture 3 Demo\n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Feb 11\n             \n             \n               Lab 3 Matrices and Lists (due 02/12 11:59pm)\n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 5\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n                 Holiday week: no lecture or new material\n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Feb 18\n             \n             \n               Lab  Section time for exercises and questions/doubts. No new material\n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 6\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  Unit 4: Data Frames\n             \n             \n                \n             \n                  \n             \n          \n  \n  \n  \n             \n             \n             \n               Slides  Data Frames (pdf)\n             \n             \n               Importing Tables (pdf)\n              \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Feb 23\n             \n             \n               Lecture 4 Data Frames and Tables\n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Feb 25\n             \n             \n               Lab 4 Data Frames basics (due 02/26 11:59pm)\n             \n             \n                \n             \n                  \n             \n          \n  \n  \n  \n             \n             \n             \n               Homework 3 HW 3: Data Frames (due 03/15 11:59pm)\n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 7\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  Unit 5: Tidyverse part 1\n             \n             \n                \n             \n                  \n             \n          \n  \n  \n  \n             \n             \n             \n               Slides  Intro to dplyr (pdf)\n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Mar 2\n             \n             \n               Lecture 5 Data wrangling with dplyr\n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Mar 4\n             \n             \n               Lab 5 Intro to dplyr (due 3/5 11:59pm)\n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 8\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  Unit 6: Tidyverse part 2\n             \n             \n                \n             \n                  \n             \n          \n  \n  \n  \n             \n             \n             \n               Slides  Intro to ggplot (pdf)\n             \n             \n               Midterm practice questions\n              \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Mar 9\n             \n             \n               Lecture 6 Graphics with ggplot2\n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Mar 11\n             \n             \n               Lab 6 Intro to ggplot2 (due 3/12 11:59pm)\n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 9\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  Midterm\n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Mar 16\n             \n             \n               Midterm  Midterm Test\n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \nNo matching items",
-    "crumbs": [
-      "Home / Schedule"
+      "About"
     ]
   },
   {
@@ -683,332 +1009,6 @@
     "text": "🎉 Last But Not Least\nThe main goal of STAT 33B is that you should learn, and have a fantastic experience doing so. Please keep that goal in mind throughout the semester.",
     "crumbs": [
       "Syllabus"
-    ]
-  },
-  {
-    "objectID": "license.html",
-    "href": "license.html",
-    "title": "License",
-    "section": "",
-    "text": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International\nThis work is licensed under CC BY-NC-SA 4.0\n\n\n\nShare: copy and redistribute the material in any medium or format.\nAdapt: remix, transform, and build upon the material.\nThe licensor cannot revoke these freedoms as long as you follow the license terms.\n\n\n\n\n\nAttribution: You must give appropriate credit , provide a link to the license, and indicate if changes were made . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.\nNonCommercial: You may not use the material for commercial purposes.\nShareAlike: If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.\nNo additional restrictions: You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.\n\nFor more information, see CC BY-NC-SA 4.0",
-    "crumbs": [
-      "Other",
-      "License"
-    ]
-  },
-  {
-    "objectID": "license.html#cc-by-nc-sa-4.0",
-    "href": "license.html#cc-by-nc-sa-4.0",
-    "title": "License",
-    "section": "",
-    "text": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International\nThis work is licensed under CC BY-NC-SA 4.0\n\n\n\nShare: copy and redistribute the material in any medium or format.\nAdapt: remix, transform, and build upon the material.\nThe licensor cannot revoke these freedoms as long as you follow the license terms.\n\n\n\n\n\nAttribution: You must give appropriate credit , provide a link to the license, and indicate if changes were made . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.\nNonCommercial: You may not use the material for commercial purposes.\nShareAlike: If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.\nNo additional restrictions: You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.\n\nFor more information, see CC BY-NC-SA 4.0",
-    "crumbs": [
-      "Other",
-      "License"
-    ]
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "NoteInfo\n\n\n\nLecture: Mon 3pm-4pm in Hearst Mining 390\nLab:\n\nLab 101, Wed 9am-10am, Evans 344\nLab 102, Wed 10am-11am, Evans 344\nLab 103, Wed 1pm-2pm, Evans 344\nLab 104, Wed 2pm-3pm, Evans 334\n\nUnits: 1\nFinal Exam: Wed May 13th, 7pm-10pm, location TBD.\nThis course introduces the R statistical software to students with minimal prior exposure to programming.\nThe course aims to prepare students to carry out a basic data analysis and to write simple functions. The focus is on the computational model that underlies the R language with the goal of providing a foundation for further coding.",
-    "crumbs": [
-      "About"
-    ]
-  },
-  {
-    "objectID": "about.html#more-information",
-    "href": "about.html#more-information",
-    "title": "About",
-    "section": "More Information",
-    "text": "More Information\n\nSchedule\nSyllabus\nStaff\nEd Netiquette\nQ&As",
-    "crumbs": [
-      "About"
-    ]
-  },
-  {
-    "objectID": "units/unit8.html",
-    "href": "units/unit8.html",
-    "title": "8) Midterm",
-    "section": "",
-    "text": "Midterm test on Wed Oct-15, 2pm-3pm in Latimer 120\nLab section will take place as usual (Fri, worksheet 8)\nThere is no HW due this week; HW7 due date extended till Oct-21 (10:50 PM)\nAlso, there is no HW8 (because of midterm). Next assignment will be HW9 (released 10/24)"
-  },
-  {
-    "objectID": "units/unit8.html#midterm",
-    "href": "units/unit8.html#midterm",
-    "title": "8) Midterm",
-    "section": "",
-    "text": "Midterm test on Wed Oct-15, 2pm-3pm in Latimer 120\nLab section will take place as usual (Fri, worksheet 8)\nThere is no HW due this week; HW7 due date extended till Oct-21 (10:50 PM)\nAlso, there is no HW8 (because of midterm). Next assignment will be HW9 (released 10/24)"
-  },
-  {
-    "objectID": "units/unit12.html",
-    "href": "units/unit12.html",
-    "title": "12) Bindings and Environments",
-    "section": "",
-    "text": "This week we go down a technical rabbit hole to learn three important concepts. First, we discuss how R differentiates between names and values. Second, we talk about the so-called copy-on-modify policy which is what R uses to decide when a copy of an object needs to be made. And third, we briefly review environments which are basically the data structure that powers scoping. Understanding all these notions will be helpful in our last week when we get to talk about performance and memory usage of R code."
-  },
-  {
-    "objectID": "units/unit12.html#names-values-and-environments",
-    "href": "units/unit12.html#names-values-and-environments",
-    "title": "12) Bindings and Environments",
-    "section": "",
-    "text": "This week we go down a technical rabbit hole to learn three important concepts. First, we discuss how R differentiates between names and values. Second, we talk about the so-called copy-on-modify policy which is what R uses to decide when a copy of an object needs to be made. And third, we briefly review environments which are basically the data structure that powers scoping. Understanding all these notions will be helpful in our last week when we get to talk about performance and memory usage of R code."
-  },
-  {
-    "objectID": "units/unit12.html#slides",
-    "href": "units/unit12.html#slides",
-    "title": "12) Bindings and Environments",
-    "section": "📰 Slides",
-    "text": "📰 Slides\n12-names-values-environments.pdf"
-  },
-  {
-    "objectID": "units/unit12.html#objectives",
-    "href": "units/unit12.html#objectives",
-    "title": "12) Bindings and Environments",
-    "section": "🎯 Objectives",
-    "text": "🎯 Objectives\nAt the end of this week you will be able to:\n\nDescribe the distinction between names and values\nExplain how &lt;- creates a binding, or reference, between a name and a value\nProvide an example of copy-on-modify policy\nDescribe the basic properties of an environment and their special purposes"
-  },
-  {
-    "objectID": "units/unit12.html#reading",
-    "href": "units/unit12.html#reading",
-    "title": "12) Bindings and Environments",
-    "section": "📚 Reading",
-    "text": "📚 Reading\n\nhttps://adv-r.hadley.nz/names-values.html\nhttps://adv-r.hadley.nz/environments.html"
-  },
-  {
-    "objectID": "units/unit1.html",
-    "href": "units/unit1.html",
-    "title": "1) Intro",
-    "section": "",
-    "text": "Welcome to STAT 33B. Our first meeting is on Mon Jan 26th where we begin with the usual review of the course policies, logistics, overall expectations, topics in a nutshell, etc.",
-    "crumbs": [
-      "Units",
-      "1) Intro"
-    ]
-  },
-  {
-    "objectID": "units/unit1.html#welcome",
-    "href": "units/unit1.html#welcome",
-    "title": "1) Intro",
-    "section": "",
-    "text": "Welcome to STAT 33B. Our first meeting is on Mon Jan 26th where we begin with the usual review of the course policies, logistics, overall expectations, topics in a nutshell, etc.",
-    "crumbs": [
-      "Units",
-      "1) Intro"
-    ]
-  },
-  {
-    "objectID": "units/unit1.html#slides",
-    "href": "units/unit1.html#slides",
-    "title": "1) Intro",
-    "section": "📰 Slides",
-    "text": "📰 Slides\n01a-getting-started-with-R-and-Rstudio.pdf\n01b-a-bit-of-history-about-R.pdf",
-    "crumbs": [
-      "Units",
-      "1) Intro"
-    ]
-  },
-  {
-    "objectID": "units/unit1.html#software",
-    "href": "units/unit1.html#software",
-    "title": "1) Intro",
-    "section": "💻 Software",
-    "text": "💻 Software\nWe’ll be using R and RStudio, preferably installed in your computer.\nPlease download and install the following software (both are free, and they are available for Max, Windows, and Linux computers)\n\nInstall R\nInstall RStudio (Desktop free version)\n\nIn case of emergency, you can also use RStudio from Berkeley datahub: https://r.datahub.berkeley.edu/",
-    "crumbs": [
-      "Units",
-      "1) Intro"
-    ]
-  },
-  {
-    "objectID": "units/unit1.html#reading",
-    "href": "units/unit1.html#reading",
-    "title": "1) Intro",
-    "section": "📚 Reading",
-    "text": "📚 Reading\nPlease spend some time outside class to review the following documentation:\n\nsyllabus\ncommunication via email\nsome frequently asked questions",
-    "crumbs": [
-      "Units",
-      "1) Intro"
-    ]
-  },
-  {
-    "objectID": "units/unit11.html",
-    "href": "units/unit11.html",
-    "title": "11) Functions",
-    "section": "",
-    "text": "This week we review the syntax used by R for writing functions."
-  },
-  {
-    "objectID": "units/unit11.html#lecture",
-    "href": "units/unit11.html#lecture",
-    "title": "11) Functions",
-    "section": "",
-    "text": "This week we review the syntax used by R for writing functions."
-  },
-  {
-    "objectID": "units/unit11.html#slides",
-    "href": "units/unit11.html#slides",
-    "title": "11) Functions",
-    "section": "📰 Slides",
-    "text": "📰 Slides\n11-functions.pdf"
-  },
-  {
-    "objectID": "units/unit11.html#objectives",
-    "href": "units/unit11.html#objectives",
-    "title": "11) Functions",
-    "section": "🎯 Objectives",
-    "text": "🎯 Objectives\nAt the end of this week you will be able to:\n\nDescribe the main parts of a function in R (i.e. anatomy of a function)\nGive a simple example for creating a function\nExplain the difference between positional arguments, and named arguments\nProvide an example for creating a “binary operator” (or infix) function"
-  },
-  {
-    "objectID": "units/unit11.html#reading",
-    "href": "units/unit11.html#reading",
-    "title": "11) Functions",
-    "section": "📚 Reading",
-    "text": "📚 Reading\n\nhttps://www.gastonsanchez.com/R-coding-basics/5-01-functions-intro.html\nhttps://www.gastonsanchez.com/R-coding-basics/5-06-more-functions.html\nhttps://adv-r.hadley.nz/functions.html"
-  },
-  {
-    "objectID": "units/unit13.html",
-    "href": "units/unit13.html",
-    "title": "13) Scoping",
-    "section": "",
-    "text": "This week we review more technical aspects of functions in R. Specifically, we will focus on the scoping mechanisms used by R to find the value of a variable."
-  },
-  {
-    "objectID": "units/unit13.html#scoping-rules",
-    "href": "units/unit13.html#scoping-rules",
-    "title": "13) Scoping",
-    "section": "",
-    "text": "This week we review more technical aspects of functions in R. Specifically, we will focus on the scoping mechanisms used by R to find the value of a variable."
-  },
-  {
-    "objectID": "units/unit13.html#slides",
-    "href": "units/unit13.html#slides",
-    "title": "13) Scoping",
-    "section": "📰 Slides",
-    "text": "📰 Slides\n13-functions-scoping.pdf"
-  },
-  {
-    "objectID": "units/unit13.html#objectives",
-    "href": "units/unit13.html#objectives",
-    "title": "13) Scoping",
-    "section": "🎯 Objectives",
-    "text": "🎯 Objectives\n\nProvide an example of “name masking”\nProvide an example of “functions versus variables”\nProvide an example of “fresh start”\nProvide an example of “dynamic lookup”"
-  },
-  {
-    "objectID": "units/unit13.html#reading",
-    "href": "units/unit13.html#reading",
-    "title": "13) Scoping",
-    "section": "📚 Reading",
-    "text": "📚 Reading\n\nhttps://adv-r.hadley.nz/functions.html#lexical-scoping\nhttps://adv-r.hadley.nz/names-values.html\nhttp://adv-r.had.co.nz/Environments.html"
-  },
-  {
-    "objectID": "units/unit3.html",
-    "href": "units/unit3.html",
-    "title": "3) Matrices and Lists",
-    "section": "",
-    "text": "We continue describing more data objects in R such as\n\natomic objects: matrices (and N-dim arrays)\nnon-atomic objects: lists",
-    "crumbs": [
-      "Units",
-      "3) Matrices and Lists"
-    ]
-  },
-  {
-    "objectID": "units/unit3.html#matrices-and-lists",
-    "href": "units/unit3.html#matrices-and-lists",
-    "title": "3) Matrices and Lists",
-    "section": "",
-    "text": "We continue describing more data objects in R such as\n\natomic objects: matrices (and N-dim arrays)\nnon-atomic objects: lists",
-    "crumbs": [
-      "Units",
-      "3) Matrices and Lists"
-    ]
-  },
-  {
-    "objectID": "units/unit3.html#slides",
-    "href": "units/unit3.html#slides",
-    "title": "3) Matrices and Lists",
-    "section": "📰 Slides",
-    "text": "📰 Slides\n03a-matrices.pdf\n03b-lists.pdf",
-    "crumbs": [
-      "Units",
-      "3) Matrices and Lists"
-    ]
-  },
-  {
-    "objectID": "units/unit3.html#objectives",
-    "href": "units/unit3.html#objectives",
-    "title": "3) Matrices and Lists",
-    "section": "🎯 Objectives",
-    "text": "🎯 Objectives\nAt the end of this week you will be able to:\n\nCreate matrices with the function matrix(), rbind(), and cbind()\nExplain how R internally stores matrices\nUse brackets [] to subset matrices\nDescribe why matrices are atomic objects\nCreation of lists with list()\nDescribe in what sense a list is considered to be a non-atomic vector",
-    "crumbs": [
-      "Units",
-      "3) Matrices and Lists"
-    ]
-  },
-  {
-    "objectID": "units/unit3.html#reading",
-    "href": "units/unit3.html#reading",
-    "title": "3) Matrices and Lists",
-    "section": "📚 Reading",
-    "text": "📚 Reading\n\nhttps://www.gastonsanchez.com/R-coding-basics/3-01-matrices-intro.html\nhttps://www.gastonsanchez.com/R-coding-basics/3-02-matrices-operations.html\nhttps://www.gastonsanchez.com/R-coding-basics/4-01-lists.html\nhttps://adv-r.hadley.nz/vectors-chap.html#lists\nhttps://rstudio-education.github.io/hopr/r-objects.html#matrices\nhttps://rstudio-education.github.io/hopr/r-objects.html#lists",
-    "crumbs": [
-      "Units",
-      "3) Matrices and Lists"
-    ]
-  },
-  {
-    "objectID": "units/unit4.html",
-    "href": "units/unit4.html",
-    "title": "4) Data Frames",
-    "section": "",
-    "text": "In this module we discuss the basics of data-frames, which are the dedicated object in R for handling tabular data sets. In addition, we also review some of the available functions in R to import tables in R.",
-    "crumbs": [
-      "Units",
-      "4) Data Frames"
-    ]
-  },
-  {
-    "objectID": "units/unit4.html#data-frames-and-importing-tables",
-    "href": "units/unit4.html#data-frames-and-importing-tables",
-    "title": "4) Data Frames",
-    "section": "",
-    "text": "In this module we discuss the basics of data-frames, which are the dedicated object in R for handling tabular data sets. In addition, we also review some of the available functions in R to import tables in R.",
-    "crumbs": [
-      "Units",
-      "4) Data Frames"
-    ]
-  },
-  {
-    "objectID": "units/unit4.html#slides",
-    "href": "units/unit4.html#slides",
-    "title": "4) Data Frames",
-    "section": "📰 Slides",
-    "text": "📰 Slides\n04a-data-frames.pdf\n04b-import-tables.pdf",
-    "crumbs": [
-      "Units",
-      "4) Data Frames"
-    ]
-  },
-  {
-    "objectID": "units/unit4.html#objectives",
-    "href": "units/unit4.html#objectives",
-    "title": "4) Data Frames",
-    "section": "🎯 Objectives",
-    "text": "🎯 Objectives\nAt the end of this week you will be able to:\n\nCreate simple tables with data.frame()\nExplain in what sense a data frame is a list\nExplain in what sense a data frame is a 2-dimensional object\nDescribe and give examples of subsetting (subscripting, indexing) of an R data frame\n\nprovide a manipulation example with single brackets, and 2-dimensions (e.g. dat[rows,cols])\nprovide a manipulation example with single brackets, and 1 dimension (e.g. dat[wagons])\nprovide a manipulation example with double brackets, and a single element (e.g. dat[[wagon]])\nprovide a manipulation example with the dollar operator (e.g. dat$wagon)\n\nImport tables with read.table() and derived functions: read.csv(), read.delim(), etc",
-    "crumbs": [
-      "Units",
-      "4) Data Frames"
-    ]
-  },
-  {
-    "objectID": "units/unit4.html#reading",
-    "href": "units/unit4.html#reading",
-    "title": "4) Data Frames",
-    "section": "📚 Reading",
-    "text": "📚 Reading\n\nhttps://www.gastonsanchez.com/R-coding-basics/4-02-data-frames.html\nhttps://rstudio-education.github.io/hopr/r-objects.html#data-frames\nhttps://adv-r.hadley.nz/vectors-chap.html#tibble",
-    "crumbs": [
-      "Units",
-      "4) Data Frames"
     ]
   }
 ]
