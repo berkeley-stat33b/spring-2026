@@ -144,7 +144,7 @@
           href: "https://bcourses.berkeley.edu/courses/1551507/files/folder/labs/lab4"
         - type: "Homework"
           id: "3"
-          name: "HW 3: Data Frames (due 03/08 11:59pm)"
+          name: "HW 3: Data Frames (due 03/15 11:59pm)"
           href: "https://bcourses.berkeley.edu/courses/1551507/files/folder/homeworks/HW3"
 
 - week: 7
@@ -169,12 +169,12 @@
       items:
        - type: "Lab"
          id: "5"
-         name: "WS 5: tidyverse (in section)"
-         href: ""
-       - type: "Homework"
-         id: ""
-         name: "HW 5: Tidyverse 1 (due 9/30)"
-         href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8926270"
+         name: "Intro to dplyr (due 3/5 11:59pm)"
+         href: "https://bcourses.berkeley.edu/courses/1551507/files/folder/labs/lab5"
+#       - type: "Homework"
+#         id: ""
+#         name: "HW 5: Tidyverse 1 (due 9/30)"
+#         href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8926270"
 
 - week: 8
   days:
@@ -188,23 +188,50 @@
           id: ""
           name: "Intro to ggplot (pdf)"
           href: "slides/06a-intro-to-ggplot.pdf"
-    - date: "Oct 1"
+          auxil:
+            id: "Midterm practice questions"
+            href: "https://bcourses.berkeley.edu/courses/1551507/files/folder/practice/midterm"
+    - date: "Mar 9"
       items:
         - type: "Lecture"
           id: "6"
           name: "Graphics with ggplot2"
           href: "https://bcourses.berkeley.edu/courses/1551507/files/folder/demos?preview=93789412"
-#     - date: "Oct 3"
+    - date: "Mar 11"
+      items:
+        - type: "Lab"
+          id: "6"
+          name: "Intro to ggplot2 (due 3/12 11:59pm)"
+          href: "https://bcourses.berkeley.edu/courses/1551507/files/folder/labs/lab6"
+#        - type: "Homework"
+#          id: "4"
+#          name: "HW 6: Tidyverse 2 (due 10/7)"
+#          href: "https://bcourses.berkeley.edu/courses/1551507/files/folder/homeworks/HW4"
+
+- week: 9
+  days:
+    - date: "About"
+      items:
+        - type: "Overview"
+          id: ""
+          name: "Midterm"
+#          href: "./units/unit8.html"
+    - date: "Mar 16"
+      items:
+        - type: "Midterm"
+          id: ""
+          name: "Midterm Test"
+          href: ""
+#     - date: "Oct 17"
 #       items:
 #         - type: "Lab"
 #           id: ""
-#           name: "WS 6: dplyr (in section)"
+#           name: "WS 8: plots with gganimate"
 #           href: ""
 #         - type: "Homework"
 #           id: ""
-#           name: "HW 6: Tidyverse 2 (due 10/7)"
-#           href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8926271"
-
+#           name: "No HW 8"
+#           href: ""
 
 # - week: 6
 #   days:
