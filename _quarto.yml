@@ -31,9 +31,9 @@ website:
           - units/unit4.qmd
           - units/unit5.qmd
           - units/unit6.qmd
-#          - units/unit7.qmd
-#          - units/unit8.qmd
-#          - units/unit9.qmd
+          - units/unit7.qmd
+          - units/unit8.qmd
+          - units/unit9.qmd
 #          - units/unit10.qmd
 #          - units/unit11.qmd
 #          - units/unit12.qmd

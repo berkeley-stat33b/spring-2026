@@ -222,16 +222,53 @@
           id: ""
           name: "Midterm Test"
           href: ""
-#     - date: "Oct 17"
-#       items:
-#         - type: "Lab"
-#           id: ""
-#           name: "WS 8: plots with gganimate"
-#           href: ""
+    - date: "Mar 18"
+      items:
+        - type: "Lab"
+          id: "Canceled"
 #         - type: "Homework"
 #           id: ""
 #           name: "No HW 8"
 #           href: ""
+
+- week: 10
+  days:
+    - date: "About"
+      items:
+        - type: "Overview"
+          id: ""
+          name: "Spring Break"
+#          href: "./units/unit8.html"
+
+- week: 11
+  days:
+    - date: "About"
+      items:
+        - type: "Overview"
+          id: ""
+          name: "Unit 9: Conditional Statements"
+          href: "./units/unit9.html"
+        - type: "Slides"
+          id: ""
+          name: "Conditionals (pdf)"
+          href: "slides/09-conditionals.pdf"
+#     - date: "Oct 22"
+#       items:
+#         - type: "Lecture"
+#           id: ""
+#           name: "Conditional Statements"
+#           href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=92053506"
+#     - date: "Oct 24"
+#       items:
+#         - type: "Lab"
+#           id: ""
+#           name: "WS 9: Conditionals (in section)"
+#           href: ""
+#         - type: "Homework"
+#           id: ""
+#           name: "HW 9: Conditionals (due 10/28)"
+#           href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8929107"
+
 
 # - week: 6
 #   days:
