@@ -203,10 +203,10 @@
           id: "6"
           name: "Intro to ggplot2 (due 3/12 11:59pm)"
           href: "https://bcourses.berkeley.edu/courses/1551507/files/folder/labs/lab6"
-#        - type: "Homework"
-#          id: "4"
-#          name: "HW 6: Tidyverse 2 (due 10/7)"
-#          href: "https://bcourses.berkeley.edu/courses/1551507/files/folder/homeworks/HW4"
+        - type: "Homework"
+          id: "3"
+          name: " (due 3/15 11:59pm)"
+          href: "https://bcourses.berkeley.edu/courses/1551507/files/folder/homeworks/HW3"
 
 - week: 9
   days:
@@ -225,7 +225,8 @@
     - date: "Mar 18"
       items:
         - type: "Lab"
-          id: "Canceled"
+          id: ""
+          name: "Canceled"
 #         - type: "Homework"
 #           id: ""
 #           name: "No HW 8"
@@ -252,23 +253,22 @@
           id: ""
           name: "Conditionals (pdf)"
           href: "slides/09-conditionals.pdf"
-#     - date: "Oct 22"
-#       items:
-#         - type: "Lecture"
-#           id: ""
-#           name: "Conditional Statements"
-#           href: "https://bcourses.berkeley.edu/courses/1546288/files/folder/lecture-demos?preview=92053506"
-#     - date: "Oct 24"
-#       items:
-#         - type: "Lab"
-#           id: ""
-#           name: "WS 9: Conditionals (in section)"
-#           href: ""
-#         - type: "Homework"
-#           id: ""
-#           name: "HW 9: Conditionals (due 10/28)"
-#           href: "https://bcourses.berkeley.edu/courses/1546288/assignments/8929107"
-
+    - date: "Mar 30"
+      items:
+        - type: "Lecture"
+          id: ""
+          name: "Conditional Statements"
+          href: "https://bcourses.berkeley.edu/courses/1551507/files/folder/lecture-demos?preview=93789413"
+    - date: "Apr 1"
+      items:
+        - type: "Lab"
+          id: "7"
+          name: "Expressions and Conditionals (due 4/2 11:59pm)"
+          href: "https://bcourses.berkeley.edu/courses/1551507/files/folder/labs/lab7"
+        - type: "Homework"
+          id: "4"
+          name: "If-else Statements and Loops (due 4/12 11:59pm)"
+          href: "https://bcourses.berkeley.edu/courses/1551507/files/folder/homeworks/HW4"
 
 # - week: 6
 #   days:
