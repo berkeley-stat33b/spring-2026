@@ -284,11 +284,11 @@
           id: ""
           name: "Iterations and Loops"
           href: "https://bcourses.berkeley.edu/courses/1551507/files/folder/demos?preview=93789414"
-    - date: "Apr 07"
+    - date: "Apr 08"
       items:
         - type: "Lab"
           id: "8"
-          name: "Expressions and Conditionals (due 4/2 11:59pm)"
+          name: "Expressions and Conditionals (due 4/9 11:59pm)"
           href: "https://bcourses.berkeley.edu/courses/1551507/files/folder/labs/lab8"
 
 - week: 13
@@ -303,7 +303,7 @@
           id: ""
           name: "Functions (pdf)"
           href: "slides/11-functions.pdf"
-    - date: "Nov 5"
+    - date: "Apr 13"
       items:
         - type: "Lecture"
           id: ""
