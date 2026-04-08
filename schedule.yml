@@ -288,7 +288,7 @@
       items:
         - type: "Lab"
           id: "8"
-          name: "Expressions and Conditionals (due 4/9 11:59pm)"
+          name: "Iterations (due 4/9 11:59pm)"
           href: "https://bcourses.berkeley.edu/courses/1551507/files/folder/labs/lab8"
 
 - week: 13
